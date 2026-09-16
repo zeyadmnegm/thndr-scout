@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:10:46.750352+00:00",
+  "generated_at": "2026-09-16T20:56:49.801468+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -106,6 +106,23 @@
       "blurb": "Ranks high on a high dividend yield (7.7%) and attractive valuation (P/E 4.0)."
     },
     {
+      "ticker": "ACGC.CA",
+      "name": "Arabian Cement",
+      "sector": "Materials",
+      "price": 14.029999732971191,
+      "momentum_1m": 8.61935811784107,
+      "momentum_3m": 48.46560863647478,
+      "volatility": 44.00345847136579,
+      "avg_volume": 2793028.033333333,
+      "trailing_pe": 4.260564,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 60.0,
+      "blurb": "Ranks high on strong 3-month momentum (+48.5%) and solid recent momentum (+8.6%)."
+    },
+    {
       "ticker": "HELI.CA",
       "name": "Heliopolis Housing",
       "sector": "Real Estate",
@@ -119,25 +136,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.0,
-      "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+25.0%)."
-    },
-    {
-      "ticker": "ACGC.CA",
-      "name": "Arabian Cement",
-      "sector": "Materials",
-      "price": 14.029999732971191,
-      "momentum_1m": 8.61935811784107,
-      "momentum_3m": 48.46560863647478,
-      "volatility": 44.00345847136579,
-      "avg_volume": 2793028.033333333,
-      "trailing_pe": 4.4160585,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
       "score": 59.4,
-      "blurb": "Ranks high on strong 3-month momentum (+48.5%) and solid recent momentum (+8.6%)."
+      "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+25.0%)."
     },
     {
       "ticker": "ORHD.CA",
@@ -170,7 +170,7 @@
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Egypt's billionaire Elsewedy family bets $700 million on energy services - billionaires.africa"
+        "Egypt's billionaire Elsewedy family bets $700 million on energy services - Billionaires.Africa"
       ],
       "score": 55.5,
       "blurb": "Ranks high on strong 3-month momentum (+45.7%) and solid recent momentum (+2.8%)."
@@ -184,7 +184,7 @@
       "momentum_3m": 25.10089397542583,
       "volatility": 34.89559824356575,
       "avg_volume": 2440461.066666667,
-      "trailing_pe": 9.240506,
+      "trailing_pe": 9.124999,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -407,7 +407,7 @@
       "momentum_3m": -14.820509690504814,
       "volatility": 24.73495785326769,
       "avg_volume": 1477391.6,
-      "trailing_pe": 7.2666664,
+      "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -424,13 +424,13 @@
       "momentum_3m": -12.594935108197669,
       "volatility": 41.07884486381294,
       "avg_volume": 12813456.5,
-      "trailing_pe": 3.3956833,
+      "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
       "score": 39.0,
-      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.4)."
+      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.3)."
     },
     {
       "ticker": "MTIE.CA",
