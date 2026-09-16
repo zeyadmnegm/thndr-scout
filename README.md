@@ -53,17 +53,43 @@ Open **http://localhost:8000**. The first load kicks off a background scan
 (takes 1-2 minutes for ~30 tickers); the page polls and updates itself when
 it's done.
 
-## Keeping it "always on"
+## Deployment: GitHub Pages + a scheduled scan (free, no card, no server)
 
-Running `uvicorn` in a terminal only scans while that terminal is open. To
-actually keep it always-on:
+The deployed version doesn't run `uvicorn` at all. Instead:
 
-- **Simplest (your own PC):** run it in the background with
-  [NSSM](https://nssm.cc/) or Windows Task Scheduler (run at login,
-  `pythonw.exe -m uvicorn app.main:app --port 8000`).
-- **Free hosting:** deploy `backend/` to [Render](https://render.com) or
-  [Railway](https://railway.app) — both have a free tier for a small FastAPI
-  app like this. Start command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`.
+- **[.github/workflows/scan.yml](.github/workflows/scan.yml)** runs
+  `backend/scan_once.py` on a schedule (every 6h) via GitHub Actions (free,
+  no card required) and commits the result to
+  `docs/data/latest_scan.json`.
+- **`docs/`** is a static copy of the frontend that fetches that JSON file
+  directly instead of calling a live API. GitHub Pages serves it for free
+  at `https://<username>.github.io/<repo>/`.
+
+This needs a **public** GitHub repo (Pages on private repos requires a paid
+GitHub plan) and, one time, enabling Pages for the repo (Settings → Pages →
+Deploy from branch → `main` → `/docs`).
+
+To trigger a scan manually instead of waiting for the schedule: repo →
+**Actions** tab → **Scan EGX market** → **Run workflow**.
+
+## Running it live locally instead
+
+`backend/` is still a normal FastAPI app you can run yourself if you want a
+live server with on-demand rescans, rather than the static/scheduled setup
+above:
+
+```bash
+cd backend
+uvicorn app.main:app --port 8000
+```
+
+Running `uvicorn` in a terminal only scans while that terminal is open —
+keep it running in the background with Windows Task Scheduler (run at
+login, `pythonw.exe -m uvicorn app.main:app --port 8000`) if you want it
+resident on your own machine. This is **not** reachable from outside your
+machine unless you additionally expose it (e.g. a tunnel), which has real
+security implications for your network — worth doing deliberately, not by
+default.
 
 ## Tuning
 
