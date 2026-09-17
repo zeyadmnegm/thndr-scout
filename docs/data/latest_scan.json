@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:05:44.928846+00:00",
+  "generated_at": "2026-09-17T16:22:48.560416+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -205,10 +205,8 @@
       "trailing_pe": 6.275,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egypt's billionaire Elsewedy family bets $700 million on energy services - Billionaires.Africa"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 51.9,
       "blurb": "Ranks high on strong 3-month momentum (+44.5%)."
     },
