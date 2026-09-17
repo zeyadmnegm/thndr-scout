@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:56:49.801468+00:00",
+  "generated_at": "2026-09-17T03:43:22.296602+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -168,10 +168,8 @@
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egypt's billionaire Elsewedy family bets $700 million on energy services - Billionaires.Africa"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 55.5,
       "blurb": "Ranks high on strong 3-month momentum (+45.7%) and solid recent momentum (+2.8%)."
     },
@@ -204,8 +202,9 @@
       "trailing_pe": 4.1051564,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english",
         "Gulf equities mixed amid US-Iran flare-ups - Reuters"
       ],
       "score": 52.3,
@@ -376,8 +375,10 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english"
+      ],
       "score": 42.3,
       "blurb": "Ranks high on low price volatility."
     },
