@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:56:23.841002+00:00",
+  "generated_at": "2026-09-18T20:30:10.778575+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -464,8 +464,10 @@
       "trailing_pe": 12.390728,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
+      ],
       "score": 24.7,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     }
