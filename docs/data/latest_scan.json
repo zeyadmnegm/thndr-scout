@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T03:29:00.060892+00:00",
+  "generated_at": "2026-09-18T10:41:04.958953+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -15,7 +15,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 71.4,
+      "score": 71.8,
       "blurb": "Ranks high on strong 3-month momentum (+71.3%) and a high dividend yield (8.8%)."
     },
     {
@@ -38,23 +38,6 @@
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+41.2%)."
     },
     {
-      "ticker": "SKPC.CA",
-      "name": "Sidi Kerir Petrochemicals",
-      "sector": "Chemicals",
-      "price": 18.25,
-      "momentum_1m": 8.630957314216857,
-      "momentum_3m": 12.307692307692308,
-      "volatility": 32.52803716126392,
-      "avg_volume": 6074338.966666667,
-      "trailing_pe": 104.96155,
-      "dividend_yield": 1.8587360000000002,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 61.6,
-      "blurb": "Ranks high on solid recent momentum (+8.6%) and a high dividend yield (1.9%)."
-    },
-    {
       "ticker": "ABUK.CA",
       "name": "Abu Qir Fertilizers",
       "sector": "Chemicals",
@@ -68,7 +51,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 61.2,
+      "score": 61.5,
       "blurb": "Ranks high on a high dividend yield (10.2%) and solid recent momentum (+14.7%)."
     },
     {
@@ -102,7 +85,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.7,
+      "score": 60.9,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+8.9%)."
     },
     {
@@ -114,12 +97,12 @@
       "momentum_3m": 21.739130434782616,
       "volatility": 37.38704666529237,
       "avg_volume": 343403.5333333333,
-      "trailing_pe": 3.9588935,
+      "trailing_pe": 3.9558544,
       "dividend_yield": 7.699711,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.0,
+      "score": 60.2,
       "blurb": "Ranks high on a high dividend yield (7.7%) and attractive valuation (P/E 4.0)."
     },
     {
@@ -138,7 +121,7 @@
       "top_headlines": [
         "Elsewedy Electric stock gains attention as company opens new China office - ad-hoc-news.de"
       ],
-      "score": 59.4,
+      "score": 59.7,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+44.5%)."
     },
     {
@@ -155,7 +138,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.0,
+      "score": 59.2,
       "blurb": "Ranks high on strong 3-month momentum (+52.4%) and solid recent momentum (+6.7%)."
     },
     {
@@ -189,8 +172,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.7,
+      "score": 54.2,
       "blurb": "Ranks high on solid recent momentum (+23.4%) and strong 3-month momentum (+31.0%)."
+    },
+    {
+      "ticker": "SKPC.CA",
+      "name": "Sidi Kerir Petrochemicals",
+      "sector": "Chemicals",
+      "price": 18.25,
+      "momentum_1m": 8.630957314216857,
+      "momentum_3m": 12.307692307692308,
+      "volatility": 32.52803716126392,
+      "avg_volume": 6074338.966666667,
+      "trailing_pe": 59.326088,
+      "dividend_yield": 1.8587360000000002,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 54.1,
+      "blurb": "Ranks high on solid recent momentum (+8.6%) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "COMI.CA",
@@ -201,7 +201,7 @@
       "momentum_3m": -1.2368770404627916,
       "volatility": 27.47866917027712,
       "avg_volume": 3333857.1,
-      "trailing_pe": 4.103082,
+      "trailing_pe": 4.1051564,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -209,7 +209,7 @@
         "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english",
         "Gulf equities mixed amid US-Iran flare-ups - Reuters"
       ],
-      "score": 52.4,
+      "score": 52.6,
       "blurb": "Ranks high on a high dividend yield (7.4%) and low price volatility."
     },
     {
@@ -226,7 +226,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.7,
+      "score": 51.0,
       "blurb": "Ranks high on low price volatility and a high dividend yield (4.2%)."
     },
     {
@@ -243,7 +243,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.5,
+      "score": 48.6,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
     },
     {
@@ -260,7 +260,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.9,
+      "score": 48.1,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
     },
     {
@@ -277,7 +277,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.9,
+      "score": 47.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.9) and low price volatility."
     },
     {
@@ -294,25 +294,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.0,
+      "score": 45.5,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
-    },
-    {
-      "ticker": "ISPH.CA",
-      "name": "Ibnsina Pharma",
-      "sector": "Healthcare",
-      "price": 12.199999809265137,
-      "momentum_1m": -7.64572464773069,
-      "momentum_3m": 1.0770515139007397,
-      "volatility": 43.27056636682492,
-      "avg_volume": 6684913.266666667,
-      "trailing_pe": 3.5,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 45.0,
-      "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
       "ticker": "EFID.CA",
@@ -328,8 +311,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.9,
+      "score": 45.4,
       "blurb": "Ranks high on a high dividend yield (2.9%) and low price volatility."
+    },
+    {
+      "ticker": "ISPH.CA",
+      "name": "Ibnsina Pharma",
+      "sector": "Healthcare",
+      "price": 12.199999809265137,
+      "momentum_1m": -7.64572464773069,
+      "momentum_3m": 1.0770515139007397,
+      "volatility": 43.27056636682492,
+      "avg_volume": 6684913.266666667,
+      "trailing_pe": 3.5,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 45.1,
+      "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
       "ticker": "FWRY.CA",
@@ -345,7 +345,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.4,
+      "score": 43.8,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -362,25 +362,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.6,
+      "score": 43.1,
       "blurb": "Ranks high on strong 3-month momentum (+44.9%)."
-    },
-    {
-      "ticker": "EAST.CA",
-      "name": "Eastern Company",
-      "sector": "Consumer Goods",
-      "price": 32.54999923706055,
-      "momentum_1m": -10.57692892150338,
-      "momentum_3m": -16.53846349471655,
-      "volatility": 24.87818370750963,
-      "avg_volume": 1552068.2,
-      "trailing_pe": 7.29097,
-      "dividend_yield": 13.418078,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 40.8,
-      "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
       "ticker": "EFIH.CA",
@@ -396,8 +379,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.6,
+      "score": 41.2,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
+    },
+    {
+      "ticker": "EAST.CA",
+      "name": "Eastern Company",
+      "sector": "Consumer Goods",
+      "price": 32.54999923706055,
+      "momentum_1m": -10.57692892150338,
+      "momentum_3m": -16.53846349471655,
+      "volatility": 24.87818370750963,
+      "avg_volume": 1552068.2,
+      "trailing_pe": 7.29097,
+      "dividend_yield": 13.418078,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 41.1,
+      "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
       "ticker": "TMGH.CA",
@@ -415,7 +415,7 @@
       "top_headlines": [
         "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english"
       ],
-      "score": 39.7,
+      "score": 40.0,
       "blurb": "Ranks high on low price volatility."
     },
     {
@@ -449,7 +449,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.2,
+      "score": 27.7,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -466,7 +466,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 24.6,
+      "score": 25.1,
       "blurb": "Ranks high on solid recent momentum (-0.3%)."
     }
   ]
