@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T03:26:02.301599+00:00",
+  "generated_at": "2026-09-19T10:25:15.371266+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -15,7 +15,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 72.2,
+      "score": 72.4,
       "blurb": "Ranks high on strong 3-month momentum (+71.3%) and solid recent momentum (+18.6%)."
     },
     {
@@ -34,7 +34,7 @@
       "top_headlines": [
         "Telecom Egypt Achieves Speeds Above 1 Gbps after Concluding 3.5 GHz Readiness Tests - Sada Elbalad english"
       ],
-      "score": 64.8,
+      "score": 64.7,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+41.2%)."
     },
     {
@@ -53,7 +53,7 @@
       "top_headlines": [
         "Elsewedy Electric stock gains attention as company opens new China office - AD HOC NEWS"
       ],
-      "score": 62.7,
+      "score": 62.2,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+44.5%)."
     },
     {
@@ -70,7 +70,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 61.5,
+      "score": 61.3,
       "blurb": "Ranks high on a high dividend yield (10.2%) and solid recent momentum (+17.1%)."
     },
     {
@@ -104,7 +104,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.9,
+      "score": 60.0,
       "blurb": "Ranks high on a high dividend yield (7.7%) and solid recent momentum (+9.8%)."
     },
     {
@@ -121,7 +121,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.8,
+      "score": 59.5,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+28.6%)."
     },
     {
@@ -138,7 +138,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.6,
+      "score": 59.3,
       "blurb": "Ranks high on strong 3-month momentum (+52.4%) and solid recent momentum (+9.9%)."
     },
     {
@@ -155,7 +155,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.1,
+      "score": 57.7,
       "blurb": "Ranks high on attractive valuation (P/E 2.9) and solid recent momentum (+3.3%)."
     },
     {
@@ -172,7 +172,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.9,
+      "score": 55.1,
       "blurb": "Ranks high on solid recent momentum (+23.9%) and strong 3-month momentum (+31.0%)."
     },
     {
@@ -190,10 +190,10 @@
       "article_count": 2,
       "top_headlines": [
         "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english",
-        "Gulf equities mixed amid US-Iran flare-ups - Reuters"
+        "Gulf equities mixed amid US-Iran flare-ups - reuters.com"
       ],
-      "score": 52.6,
-      "blurb": "Ranks high on a high dividend yield (7.4%) and low price volatility."
+      "score": 52.8,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
       "ticker": "SKPC.CA",
@@ -213,21 +213,21 @@
       "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
-      "ticker": "EKHO.CA",
-      "name": "Egypt Kuwait Holding",
-      "sector": "Holding",
-      "price": 0.6700000166893005,
-      "momentum_1m": 0.0,
-      "momentum_3m": 0.0,
-      "volatility": 0.0,
-      "avg_volume": 0.0,
-      "trailing_pe": 6.5,
-      "dividend_yield": 4.177215,
+      "ticker": "RAYA.CA",
+      "name": "Raya Holding",
+      "sector": "Technology",
+      "price": 7.090000152587891,
+      "momentum_1m": 0.8534842245925933,
+      "momentum_3m": 1.1412256932096465,
+      "volatility": 44.95190777405593,
+      "avg_volume": 6976373.366666666,
+      "trailing_pe": 3.6491227,
+      "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.4,
-      "blurb": "Ranks high on low price volatility and a high dividend yield (4.2%)."
+      "score": 48.2,
+      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
     },
     {
       "ticker": "CIEB.CA",
@@ -243,25 +243,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.9,
+      "score": 48.1,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
-    },
-    {
-      "ticker": "RAYA.CA",
-      "name": "Raya Holding",
-      "sector": "Technology",
-      "price": 7.090000152587891,
-      "momentum_1m": 0.8534842245925933,
-      "momentum_3m": 1.1412256932096465,
-      "volatility": 44.95190777405593,
-      "avg_volume": 6976373.366666666,
-      "trailing_pe": 3.6491227,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 48.9,
-      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
     },
     {
       "ticker": "ADIB.CA",
@@ -277,42 +260,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.0,
+      "score": 46.6,
       "blurb": "Ranks high on attractive valuation (P/E 3.9) and low price volatility."
-    },
-    {
-      "ticker": "ISPH.CA",
-      "name": "Ibnsina Pharma",
-      "sector": "Healthcare",
-      "price": 12.199999809265137,
-      "momentum_1m": -6.153847621037412,
-      "momentum_3m": 1.0770515139007397,
-      "volatility": 43.28998989537111,
-      "avg_volume": 6587593.9,
-      "trailing_pe": 3.5,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 45.1,
-      "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
-    },
-    {
-      "ticker": "EFID.CA",
-      "name": "Edita Food Industries",
-      "sector": "Consumer Goods",
-      "price": 30.799999237060547,
-      "momentum_1m": -4.850169127678761,
-      "momentum_3m": 8.48890418888435,
-      "volatility": 32.14022320759584,
-      "avg_volume": 1940787.7,
-      "trailing_pe": 12.855263,
-      "dividend_yield": 2.9308006,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 45.0,
-      "blurb": "Ranks high on a high dividend yield (2.9%) and low price volatility."
     },
     {
       "ticker": "HRHO.CA",
@@ -328,25 +277,42 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.7,
+      "score": 45.8,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
-      "ticker": "OCDI.CA",
-      "name": "Sixth of October Development (SODIC)",
-      "sector": "Real Estate",
-      "price": 30.0,
-      "momentum_1m": -6.483795861386654,
-      "momentum_3m": 44.8575631395973,
-      "volatility": 45.83373783521609,
-      "avg_volume": 2705229.3333333335,
-      "trailing_pe": 13.990354,
+      "ticker": "EFID.CA",
+      "name": "Edita Food Industries",
+      "sector": "Consumer Goods",
+      "price": 30.799999237060547,
+      "momentum_1m": -4.850169127678761,
+      "momentum_3m": 8.48890418888435,
+      "volatility": 32.14022320759584,
+      "avg_volume": 1940787.7,
+      "trailing_pe": 12.855263,
+      "dividend_yield": 2.9308006,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 45.1,
+      "blurb": "Ranks high on a high dividend yield (2.9%) and low price volatility."
+    },
+    {
+      "ticker": "ISPH.CA",
+      "name": "Ibnsina Pharma",
+      "sector": "Healthcare",
+      "price": 12.199999809265137,
+      "momentum_1m": -6.153847621037412,
+      "momentum_3m": 1.0770515139007397,
+      "volatility": 43.28998989537111,
+      "avg_volume": 6587593.9,
+      "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.1,
-      "blurb": "Ranks high on strong 3-month momentum (+44.9%)."
+      "score": 44.6,
+      "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
       "ticker": "FWRY.CA",
@@ -362,8 +328,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.0,
+      "score": 44.1,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
+    },
+    {
+      "ticker": "OCDI.CA",
+      "name": "Sixth of October Development (SODIC)",
+      "sector": "Real Estate",
+      "price": 30.0,
+      "momentum_1m": -6.483795861386654,
+      "momentum_3m": 44.8575631395973,
+      "volatility": 45.83373783521609,
+      "avg_volume": 2705229.3333333335,
+      "trailing_pe": 13.990354,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 43.2,
+      "blurb": "Ranks high on strong 3-month momentum (+44.9%)."
     },
     {
       "ticker": "EAST.CA",
@@ -379,7 +362,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 41.1,
+      "score": 41.5,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -396,7 +379,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.8,
+      "score": 40.7,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -415,7 +398,7 @@
       "top_headlines": [
         "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english"
       ],
-      "score": 38.9,
+      "score": 39.8,
       "blurb": "Ranks high on low price volatility."
     },
     {
@@ -432,7 +415,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 38.4,
+      "score": 38.6,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -449,7 +432,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 30.0,
+      "score": 30.6,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -468,7 +451,7 @@
       "top_headlines": [
         "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
       ],
-      "score": 24.7,
+      "score": 24.6,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     }
   ]
