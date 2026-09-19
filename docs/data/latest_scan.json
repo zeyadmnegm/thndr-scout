@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:25:15.371266+00:00",
+  "generated_at": "2026-09-19T15:28:43.855318+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,8 +13,10 @@
       "trailing_pe": 7.827586,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Alexandria Mineral Oils Company stock holds steady amid sector activity - AD HOC NEWS"
+      ],
       "score": 72.4,
       "blurb": "Ranks high on strong 3-month momentum (+71.3%) and solid recent momentum (+18.6%)."
     },
@@ -68,8 +70,10 @@
       "trailing_pe": 6.8210526,
       "dividend_yield": 10.1608805,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
+      ],
       "score": 61.3,
       "blurb": "Ranks high on a high dividend yield (10.2%) and solid recent momentum (+17.1%)."
     },
@@ -119,8 +123,10 @@
       "trailing_pe": 4.327731,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
+      ],
       "score": 59.5,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+28.6%)."
     },
@@ -187,10 +193,11 @@
       "trailing_pe": 4.1051564,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 3,
       "top_headlines": [
         "Egyptian Exchange to List New Futures Contracts on \u201cEGX30\u201d - Sada Elbalad english",
-        "Gulf equities mixed amid US-Iran flare-ups - reuters.com"
+        "Ship attacks weigh on Gulf stock markets - IDNFinancials",
+        "Gulf equities mixed amid US-Iran flare-ups - Reuters"
       ],
       "score": 52.8,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
