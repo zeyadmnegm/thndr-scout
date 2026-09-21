@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:09:07.607583+00:00",
+  "generated_at": "2026-09-21T21:45:27.246927+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -17,7 +17,7 @@
       "top_headlines": [
         "Alexandria Mineral Oils Company stock holds steady amid sector activity - AD HOC NEWS"
       ],
-      "score": 72.8,
+      "score": 72.4,
       "blurb": "Ranks high on strong 3-month momentum (+80.6%) and solid recent momentum (+26.6%)."
     },
     {
@@ -32,8 +32,9 @@
       "trailing_pe": 2.24145,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Telecom Egypt Targets $2.3 Billion Revenue by 2026 - waradana.com",
         "Telecom Egypt Achieves Speeds Above 1 Gbps after Concluding 3.5 GHz Readiness Tests - Sada Elbalad english"
       ],
       "score": 65.1,
@@ -55,7 +56,7 @@
       "top_headlines": [
         "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
       ],
-      "score": 63.9,
+      "score": 63.5,
       "blurb": "Ranks high on a high dividend yield (10.2%) and solid recent momentum (+22.7%)."
     },
     {
@@ -74,7 +75,7 @@
       "top_headlines": [
         "Elsewedy Electric stock gains attention as company opens new China office - AD HOC NEWS"
       ],
-      "score": 62.8,
+      "score": 62.4,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+46.1%)."
     },
     {
@@ -91,7 +92,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 61.8,
+      "score": 61.6,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+25.3%)."
     },
     {
@@ -108,7 +109,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.9,
+      "score": 60.4,
       "blurb": "Ranks high on a high dividend yield (7.7%) and solid recent momentum (+12.7%)."
     },
     {
@@ -127,7 +128,7 @@
       "top_headlines": [
         "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
-      "score": 58.9,
+      "score": 58.2,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+7.1%)."
     },
     {
@@ -144,7 +145,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.3,
+      "score": 56.9,
       "blurb": "Ranks high on strong 3-month momentum (+47.1%) and solid recent momentum (+4.1%)."
     },
     {
@@ -163,7 +164,7 @@
       "top_headlines": [
         "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
       ],
-      "score": 56.2,
+      "score": 55.7,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -180,7 +181,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 56.2,
+      "score": 55.4,
       "blurb": "Ranks high on solid recent momentum (+26.9%) and strong 3-month momentum (+34.0%)."
     },
     {
@@ -197,7 +198,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.6,
+      "score": 54.7,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -214,7 +215,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.5,
+      "score": 52.6,
       "blurb": "Ranks high on attractive valuation (P/E 2.9)."
     },
     {
@@ -248,7 +249,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.4,
+      "score": 47.7,
       "blurb": "Ranks high on attractive valuation (P/E 3.9) and low price volatility."
     },
     {
@@ -265,7 +266,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.1,
+      "score": 46.6,
       "blurb": "Ranks high on a high dividend yield (2.9%) and low price volatility."
     },
     {
@@ -282,25 +283,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.7,
+      "score": 45.1,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
-    },
-    {
-      "ticker": "HRHO.CA",
-      "name": "EFG Hermes Holding",
-      "sector": "Financial Services",
-      "price": 25.329999923706055,
-      "momentum_1m": -3.7613973502926945,
-      "momentum_3m": -7.343042667070588,
-      "volatility": 22.270869121968808,
-      "avg_volume": 3289393.966666667,
-      "trailing_pe": 7.922794,
-      "dividend_yield": 1.31008485,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 44.0,
-      "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
       "ticker": "RAYA.CA",
@@ -316,8 +300,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.8,
+      "score": 43.5,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
+    },
+    {
+      "ticker": "HRHO.CA",
+      "name": "EFG Hermes Holding",
+      "sector": "Financial Services",
+      "price": 25.329999923706055,
+      "momentum_1m": -3.7613973502926945,
+      "momentum_3m": -7.343042667070588,
+      "volatility": 22.270869121968808,
+      "avg_volume": 3289393.966666667,
+      "trailing_pe": 7.922794,
+      "dividend_yield": 1.31008485,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 43.0,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
       "ticker": "ISPH.CA",
@@ -333,7 +334,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.6,
+      "score": 42.7,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -350,25 +351,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 41.0,
-      "blurb": "Ranks high on strong 3-month momentum (+35.2%)."
-    },
-    {
-      "ticker": "TMGH.CA",
-      "name": "Talaat Moustafa Group",
-      "sector": "Real Estate",
-      "price": 94.69999694824219,
-      "momentum_1m": -3.16974029323398,
-      "momentum_3m": -2.3711371667606285,
-      "volatility": 27.895358273477854,
-      "avg_volume": 2483926.1333333333,
-      "trailing_pe": 7.733333,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
       "score": 40.4,
-      "blurb": "Ranks high on low price volatility."
+      "blurb": "Ranks high on strong 3-month momentum (+35.2%)."
     },
     {
       "ticker": "EAST.CA",
@@ -384,8 +368,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.3,
+      "score": 40.0,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
+    },
+    {
+      "ticker": "TMGH.CA",
+      "name": "Talaat Moustafa Group",
+      "sector": "Real Estate",
+      "price": 94.69999694824219,
+      "momentum_1m": -3.16974029323398,
+      "momentum_3m": -2.3711371667606285,
+      "volatility": 27.895358273477854,
+      "avg_volume": 2483926.1333333333,
+      "trailing_pe": 7.733333,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 39.9,
+      "blurb": "Ranks high on low price volatility."
     },
     {
       "ticker": "PHDC.CA",
@@ -405,23 +406,6 @@
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
-      "ticker": "EFIH.CA",
-      "name": "e-Finance Investment Group",
-      "sector": "Fintech",
-      "price": 23.25,
-      "momentum_1m": -5.679511724932618,
-      "momentum_3m": 10.192729087266873,
-      "volatility": 32.821103083505065,
-      "avg_volume": 2834767.5,
-      "trailing_pe": 31.835442,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 38.1,
-      "blurb": "Ranks high on low price volatility."
-    },
-    {
       "ticker": "MTIE.CA",
       "name": "MM Group for Industry and Trade",
       "sector": "Industrials",
@@ -435,7 +419,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 31.9,
+      "score": 31.2,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -455,7 +439,7 @@
         "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS",
         "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
       ],
-      "score": 23.8,
+      "score": 23.1,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     }
   ]
