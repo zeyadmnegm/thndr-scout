@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:04:09.700138+00:00",
+  "generated_at": "2026-09-22T16:24:02.933722+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -29,7 +29,7 @@
       "momentum_3m": 40.83473384246101,
       "volatility": 32.926212977409605,
       "avg_volume": 1715987.8333333333,
-      "trailing_pe": 2.24145,
+      "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -88,12 +88,13 @@
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Elsewedy Electric stock holds value as 2026 figures guide investors - AD HOC NEWS",
         "Elsewedy Electric stock gains attention as company opens new China office - AD HOC NEWS"
       ],
       "score": 61.6,
-      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+42.2%)."
+      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+42.2%)."
     },
     {
       "ticker": "EGAL.CA",
@@ -104,7 +105,7 @@
       "momentum_3m": 28.068780908037393,
       "volatility": 36.977614572776325,
       "avg_volume": 352484.56666666665,
-      "trailing_pe": 3.9573731,
+      "trailing_pe": 3.9604151,
       "dividend_yield": 7.699711,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -124,8 +125,9 @@
       "trailing_pe": 4.327731,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "How government borrowing shapes interest rate decisions - enterpriseam.com",
         "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
       "score": 58.2,
@@ -174,7 +176,7 @@
       "momentum_3m": -0.2696633785404967,
       "volatility": 23.634084149965478,
       "avg_volume": 3827039.933333333,
-      "trailing_pe": 4.103082,
+      "trailing_pe": 4.1051564,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -213,8 +215,11 @@
       "trailing_pe": 2.8670888,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 2,
+      "top_headlines": [
+        "EFG Holding Secures USD 40M EBRD Facility to Expand MSME Financing in Egypt - waya.media",
+        "Orascom Development Egypt to Raise Capital to USD 70.3M and Distribute Bonus Shares to Shareholders - waya.media"
+      ],
       "score": 52.5,
       "blurb": "Ranks high on attractive valuation (P/E 2.9)."
     },
