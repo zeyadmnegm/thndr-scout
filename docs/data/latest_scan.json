@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:24:02.933722+00:00",
+  "generated_at": "2026-09-22T20:57:28.652281+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -35,7 +35,7 @@
       "article_count": 2,
       "top_headlines": [
         "Telecom Egypt Targets $2.3 Billion Revenue by 2026 - \u0648\u0631\u062f\u0646\u0627",
-        "Telecom Egypt Achieves Speeds Above 1 Gbps after Concluding 3.5 GHz Readiness Tests - Sada Elbalad english"
+        "Telecom Egypt Achieves Speeds Above 1 Gbps after Concluding 3.5 GHz Readiness Tests - Sada Elbalad English"
       ],
       "score": 65.9,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+40.8%)."
@@ -127,7 +127,7 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "How government borrowing shapes interest rate decisions - enterpriseam.com",
+        "How government borrowing shapes interest rate decisions - EnterpriseAM",
         "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
       "score": 58.2,
@@ -419,7 +419,7 @@
       "momentum_3m": 29.385969241827215,
       "volatility": 43.92157122287278,
       "avg_volume": 2796334.533333333,
-      "trailing_pe": 13.990354,
+      "trailing_pe": 13.945513,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
