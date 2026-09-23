@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:57:28.652281+00:00",
+  "generated_at": "2026-09-23T03:36:11.045727+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -37,7 +37,7 @@
         "Telecom Egypt Targets $2.3 Billion Revenue by 2026 - \u0648\u0631\u062f\u0646\u0627",
         "Telecom Egypt Achieves Speeds Above 1 Gbps after Concluding 3.5 GHz Readiness Tests - Sada Elbalad English"
       ],
-      "score": 65.9,
+      "score": 66.2,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+40.8%)."
     },
     {
@@ -73,7 +73,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 62.6,
+      "score": 62.9,
       "blurb": "Ranks high on solid recent momentum (+24.9%) and strong trading liquidity."
     },
     {
@@ -93,25 +93,8 @@
         "Elsewedy Electric stock holds value as 2026 figures guide investors - AD HOC NEWS",
         "Elsewedy Electric stock gains attention as company opens new China office - AD HOC NEWS"
       ],
-      "score": 61.6,
+      "score": 61.9,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+42.2%)."
-    },
-    {
-      "ticker": "EGAL.CA",
-      "name": "Egypt Aluminum",
-      "sector": "Materials",
-      "price": 367.9800109863281,
-      "momentum_1m": 7.28280203683036,
-      "momentum_3m": 28.068780908037393,
-      "volatility": 36.977614572776325,
-      "avg_volume": 352484.56666666665,
-      "trailing_pe": 3.9604151,
-      "dividend_yield": 7.699711,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 61.0,
-      "blurb": "Ranks high on a high dividend yield (7.7%) and solid recent momentum (+7.3%)."
     },
     {
       "ticker": "HELI.CA",
@@ -127,10 +110,10 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "How government borrowing shapes interest rate decisions - EnterpriseAM",
+        "How government borrowing shapes interest rate decisions - enterpriseam.com",
         "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
-      "score": 58.2,
+      "score": 58.5,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+7.4%)."
     },
     {
@@ -147,25 +130,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 56.9,
+      "score": 57.2,
       "blurb": "Ranks high on strong 3-month momentum (+49.9%) and attractive valuation (P/E 4.3)."
-    },
-    {
-      "ticker": "MFPC.CA",
-      "name": "Misr Fertilizers Production (MOPCO)",
-      "sector": "Chemicals",
-      "price": 49.599998474121094,
-      "momentum_1m": 23.690773968809275,
-      "momentum_3m": 39.09141527301669,
-      "volatility": 34.93300174566317,
-      "avg_volume": 3283164.066666667,
-      "trailing_pe": 9.124999,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 56.5,
-      "blurb": "Ranks high on solid recent momentum (+23.7%) and strong 3-month momentum (+39.1%)."
     },
     {
       "ticker": "COMI.CA",
@@ -183,8 +149,25 @@
       "top_headlines": [
         "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
       ],
-      "score": 56.2,
+      "score": 56.8,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
+    },
+    {
+      "ticker": "MFPC.CA",
+      "name": "Misr Fertilizers Production (MOPCO)",
+      "sector": "Chemicals",
+      "price": 49.599998474121094,
+      "momentum_1m": 23.690773968809275,
+      "momentum_3m": 39.09141527301669,
+      "volatility": 34.93300174566317,
+      "avg_volume": 3283164.066666667,
+      "trailing_pe": 9.124999,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 56.8,
+      "blurb": "Ranks high on solid recent momentum (+23.7%) and strong 3-month momentum (+39.1%)."
     },
     {
       "ticker": "SKPC.CA",
@@ -200,8 +183,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.6,
+      "score": 55.2,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
+    },
+    {
+      "ticker": "EGAL.CA",
+      "name": "Egypt Aluminum",
+      "sector": "Materials",
+      "price": 367.9800109863281,
+      "momentum_1m": 7.28280203683036,
+      "momentum_3m": 28.068780908037393,
+      "volatility": 36.977614572776325,
+      "avg_volume": 352484.56666666665,
+      "trailing_pe": 3.9604151,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 53.2,
+      "blurb": "Ranks high on solid recent momentum (+7.3%) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "ORHD.CA",
@@ -220,7 +220,7 @@
         "EFG Holding Secures USD 40M EBRD Facility to Expand MSME Financing in Egypt - waya.media",
         "Orascom Development Egypt to Raise Capital to USD 70.3M and Distribute Bonus Shares to Shareholders - waya.media"
       ],
-      "score": 52.5,
+      "score": 52.8,
       "blurb": "Ranks high on attractive valuation (P/E 2.9)."
     },
     {
@@ -237,7 +237,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.8,
+      "score": 51.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.9) and strong 3-month momentum (+13.8%)."
     },
     {
@@ -254,7 +254,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.1,
+      "score": 50.4,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
     },
     {
@@ -271,7 +271,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.1,
+      "score": 47.7,
       "blurb": "Ranks high on a high dividend yield (2.9%) and low price volatility."
     },
     {
@@ -288,7 +288,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.5,
+      "score": 46.8,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -305,7 +305,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.8,
+      "score": 46.4,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
@@ -322,7 +322,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.6,
+      "score": 42.9,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -339,7 +339,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.6,
+      "score": 42.9,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
     },
     {
@@ -356,7 +356,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.8,
+      "score": 41.0,
       "blurb": "Ranks high on low price volatility."
     },
     {
@@ -390,7 +390,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 39.5,
+      "score": 39.8,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -407,7 +407,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 38.9,
+      "score": 39.2,
       "blurb": "Ranks high on low price volatility."
     },
     {
@@ -424,7 +424,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 38.6,
+      "score": 38.9,
       "blurb": "Ranks high on strong 3-month momentum (+29.4%)."
     },
     {
@@ -441,7 +441,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 28.1,
+      "score": 28.4,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -461,7 +461,7 @@
         "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS",
         "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
       ],
-      "score": 25.4,
+      "score": 25.7,
       "blurb": "Ranks high on solid recent momentum (+0.9%)."
     }
   ]
