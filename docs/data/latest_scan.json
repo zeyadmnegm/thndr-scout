@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:13:00.385750+00:00",
+  "generated_at": "2026-09-25T03:44:02.186754+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -76,6 +76,28 @@
       "blurb": "Ranks high on solid recent momentum (+23.1%) and strong trading liquidity."
     },
     {
+      "ticker": "ORHD.CA",
+      "name": "Orascom Development Egypt",
+      "sector": "Real Estate",
+      "price": 40.66999816894531,
+      "momentum_1m": -4.260831903944339,
+      "momentum_3m": 7.026310970908711,
+      "volatility": 37.42393488859535,
+      "avg_volume": 3406064.933333333,
+      "trailing_pe": 2.8670888,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 4,
+      "top_headlines": [
+        "EBRD Approves Up to USD 32.1M Investment in Hassan Allam Utilities\u2019 RWD - waya.media",
+        "Nawy Shares & CI Capital Partner to Launch Digital Real Estate Investment Funds - waya.media",
+        "EFG Holding Secures USD 40M EBRD Facility to Expand MSME Financing in Egypt - waya.media",
+        "Orascom Development Egypt to Raise Capital to USD 70.3M and Distribute Bonus Shares to Shareholders - waya.media"
+      ],
+      "score": 59.2,
+      "blurb": "Ranks high on positive recent news (4 articles) and attractive valuation (P/E 2.9)."
+    },
+    {
       "ticker": "SWDY.CA",
       "name": "Elsewedy Electric",
       "sector": "Industrials",
@@ -96,29 +118,6 @@
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+42.6%)."
     },
     {
-      "ticker": "ORHD.CA",
-      "name": "Orascom Development Egypt",
-      "sector": "Real Estate",
-      "price": 40.5,
-      "momentum_1m": -4.661015921781464,
-      "momentum_3m": 4.327666971619704,
-      "volatility": 37.57452379715562,
-      "avg_volume": 3366763.2,
-      "trailing_pe": 2.8670888,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 5,
-      "top_headlines": [
-        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media",
-        "EBRD Approves Up to USD 32.1M Investment in Hassan Allam Utilities\u2019 RWD - waya.media",
-        "Nawy Shares & CI Capital Partner to Launch Digital Real Estate Investment Funds - waya.media",
-        "EFG Holding Secures USD 40M EBRD Facility to Expand MSME Financing in Egypt - waya.media",
-        "Orascom Development Egypt to Raise Capital to USD 70.3M and Distribute Bonus Shares to Shareholders - waya.media"
-      ],
-      "score": 58.4,
-      "blurb": "Ranks high on positive recent news (5 articles) and attractive valuation (P/E 2.9)."
-    },
-    {
       "ticker": "ACGC.CA",
       "name": "Arabian Cement",
       "sector": "Materials",
@@ -132,7 +131,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.6,
+      "score": 55.2,
       "blurb": "Ranks high on strong 3-month momentum (+48.7%) and attractive valuation (P/E 4.3)."
     },
     {
@@ -263,25 +262,6 @@
       "blurb": "Ranks high on a high dividend yield (2.9%) and low price volatility."
     },
     {
-      "ticker": "RAYA.CA",
-      "name": "Raya Holding",
-      "sector": "Technology",
-      "price": 7.050000190734863,
-      "momentum_1m": -4.600807603429946,
-      "momentum_3m": -4.729728380026321,
-      "volatility": 44.732394921241664,
-      "avg_volume": 7203869.4,
-      "trailing_pe": 3.6491227,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
-      ],
-      "score": 49.3,
-      "blurb": "Ranks high on positive recent news (1 articles) and strong trading liquidity."
-    },
-    {
       "ticker": "FWRY.CA",
       "name": "Fawry for Banking Technology",
       "sector": "Fintech",
@@ -297,6 +277,25 @@
       "top_headlines": [],
       "score": 49.2,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
+    },
+    {
+      "ticker": "RAYA.CA",
+      "name": "Raya Holding",
+      "sector": "Technology",
+      "price": 7.050000190734863,
+      "momentum_1m": -4.600807603429946,
+      "momentum_3m": -4.729728380026321,
+      "volatility": 44.732394921241664,
+      "avg_volume": 7203869.4,
+      "trailing_pe": 3.6491227,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
+      ],
+      "score": 48.9,
+      "blurb": "Ranks high on positive recent news (1 articles) and strong trading liquidity."
     },
     {
       "ticker": "HRHO.CA",
