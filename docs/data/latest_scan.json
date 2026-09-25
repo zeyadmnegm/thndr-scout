@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:18:23.412759+00:00",
+  "generated_at": "2026-09-25T16:42:26.198938+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -238,7 +238,7 @@
       "momentum_3m": 13.33333333333333,
       "volatility": 33.0272564941173,
       "avg_volume": 1297080.8666666667,
-      "trailing_pe": 3.9468749,
+      "trailing_pe": 3.8821719,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -430,7 +430,7 @@
       "momentum_3m": 14.801150884340375,
       "volatility": 43.79676302890061,
       "avg_volume": 2280295.7333333334,
-      "trailing_pe": 13.945513,
+      "trailing_pe": 13.990354,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
