@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T03:59:24.745865+00:00",
+  "generated_at": "2026-09-27T11:31:31.193415+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -8,14 +8,14 @@
       "price": 13.399999618530273,
       "momentum_1m": 22.823096296456868,
       "momentum_3m": 80.34993173783916,
-      "volatility": 41.826751816843796,
+      "volatility": 42.12079541021786,
       "avg_volume": 12309853.466666667,
       "trailing_pe": 7.827586,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Alexandria Mineral Oils Company stock holds steady amid sector activity - ad-hoc-news.de"
+        "Alexandria Mineral Oils Company stock holds steady amid sector activity - AD HOC NEWS"
       ],
       "score": 72.8,
       "blurb": "Ranks high on strong 3-month momentum (+80.3%) and solid recent momentum (+22.8%)."
@@ -27,7 +27,7 @@
       "price": 135.99000549316406,
       "momentum_1m": 17.232763356175916,
       "momentum_3m": 49.43956647600447,
-      "volatility": 32.761392470949794,
+      "volatility": 32.97737446387807,
       "avg_volume": 1761201.5666666667,
       "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
@@ -40,40 +40,40 @@
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+49.4%)."
     },
     {
-      "ticker": "ABUK.CA",
-      "name": "Abu Qir Fertilizers",
-      "sector": "Chemicals",
-      "price": 90.5,
-      "momentum_1m": 19.456174033976794,
-      "momentum_3m": 33.480819950573235,
-      "volatility": 36.53991266460876,
-      "avg_volume": 1622062.1,
-      "trailing_pe": 6.8210526,
-      "dividend_yield": 10.1608805,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - ad-hoc-news.de"
-      ],
-      "score": 64.1,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and solid recent momentum (+19.5%)."
-    },
-    {
       "ticker": "CCAP.CA",
       "name": "Citadel Capital",
       "sector": "Financial Services",
       "price": 7.090000152587891,
       "momentum_1m": 23.304350479789406,
       "momentum_3m": 49.894294376275326,
-      "volatility": 43.942727205333505,
+      "volatility": 43.39497893843035,
       "avg_volume": 124961372.6,
       "trailing_pe": null,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 63.9,
+      "score": 64.7,
       "blurb": "Ranks high on solid recent momentum (+23.3%) and strong trading liquidity."
+    },
+    {
+      "ticker": "ABUK.CA",
+      "name": "Abu Qir Fertilizers",
+      "sector": "Chemicals",
+      "price": 90.5,
+      "momentum_1m": 19.456174033976794,
+      "momentum_3m": 33.480819950573235,
+      "volatility": 35.91539393102795,
+      "avg_volume": 1622062.1,
+      "trailing_pe": 6.8210526,
+      "dividend_yield": 10.1608805,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
+      ],
+      "score": 63.7,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and solid recent momentum (+19.5%)."
     },
     {
       "ticker": "ORHD.CA",
@@ -82,21 +82,21 @@
       "price": 40.66999816894531,
       "momentum_1m": -4.260831903944339,
       "momentum_3m": 7.026310970908711,
-      "volatility": 37.42393488859535,
+      "volatility": 37.40575988042728,
       "avg_volume": 3406064.933333333,
       "trailing_pe": 2.8670888,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 5,
+      "article_count": 6,
       "top_headlines": [
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media",
         "EBRD Approves Up to USD 32.1M Investment in Hassan Allam Utilities\u2019 RWD - waya.media",
         "Nawy Shares & CI Capital Partner to Launch Digital Real Estate Investment Funds - waya.media",
         "EFG Holding Secures USD 40M EBRD Facility to Expand MSME Financing in Egypt - waya.media",
-        "Orascom Development Egypt to Raise Capital to USD 70.3M and Distribute Bonus Shares to Shareholders - waya.media"
+        "QIA & JP Morgan Asset Management to Launch USD 20B Partnership - waya.media"
       ],
       "score": 60.4,
-      "blurb": "Ranks high on positive recent news (5 articles) and attractive valuation (P/E 2.9)."
+      "blurb": "Ranks high on positive recent news (6 articles) and attractive valuation (P/E 2.9)."
     },
     {
       "ticker": "ACGC.CA",
@@ -105,14 +105,14 @@
       "price": 14.279999732971191,
       "momentum_1m": -2.459020504844167,
       "momentum_3m": 55.38629363436374,
-      "volatility": 43.61175169020047,
+      "volatility": 44.035686877370466,
       "avg_volume": 2423885.9,
       "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.0,
+      "score": 57.6,
       "blurb": "Ranks high on strong 3-month momentum (+55.4%) and solid recent momentum (-2.5%)."
     },
     {
@@ -122,7 +122,7 @@
       "price": 47.0,
       "momentum_1m": 19.471275591513226,
       "momentum_3m": 37.026242114948296,
-      "volatility": 34.899851601453044,
+      "volatility": 33.816869230772575,
       "avg_volume": 3030698.0,
       "trailing_pe": 9.124999,
       "dividend_yield": 0.0,
@@ -139,17 +139,17 @@
       "price": 118.5,
       "momentum_1m": -7.41464022358257,
       "momentum_3m": 38.53167960217978,
-      "volatility": 38.327517615790214,
+      "volatility": 38.754420729671715,
       "avg_volume": 605598.8,
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
       "top_headlines": [
-        "Elsewedy Electric stock holds value as 2026 figures guide investors - ad-hoc-news.de",
-        "Elsewedy Electric stock gains attention as company opens new China office - ad-hoc-news.de"
+        "Elsewedy Electric stock holds value as 2026 figures guide investors - AD HOC NEWS",
+        "Elsewedy Electric stock gains attention as company opens new China office - AD HOC NEWS"
       ],
-      "score": 56.1,
+      "score": 55.7,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+38.5%)."
     },
     {
@@ -159,17 +159,17 @@
       "price": 128.1999969482422,
       "momentum_1m": -7.955199546355585,
       "momentum_3m": -1.2478896045127086,
-      "volatility": 23.73047186119971,
+      "volatility": 23.83462394368012,
       "avg_volume": 4103610.6333333333,
       "trailing_pe": 4.1051564,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - ad-hoc-news.de"
+        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
       ],
-      "score": 55.4,
-      "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
+      "score": 55.0,
+      "blurb": "Ranks high on a high dividend yield (7.4%) and low price volatility."
     },
     {
       "ticker": "SKPC.CA",
@@ -178,7 +178,7 @@
       "price": 17.149999618530273,
       "momentum_1m": -0.34863143018127873,
       "momentum_3m": 9.444796011681689,
-      "volatility": 32.335989717269506,
+      "volatility": 32.335215483660164,
       "avg_volume": 6515524.533333333,
       "trailing_pe": 59.326088,
       "dividend_yield": 1.8587360000000002,
@@ -195,7 +195,7 @@
       "price": 356.9599914550781,
       "momentum_1m": -2.2027420671018816,
       "momentum_3m": 28.866422907970435,
-      "volatility": 36.66081624773174,
+      "volatility": 35.588063507510235,
       "avg_volume": 248147.86666666667,
       "trailing_pe": 3.9604151,
       "dividend_yield": 0.0,
@@ -205,7 +205,7 @@
         "NAMI Stock Price and Chart \u2014 EGX:NAMI - TradingView",
         "Egypt Aluminum Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com"
       ],
-      "score": 53.5,
+      "score": 53.9,
       "blurb": "Ranks high on attractive valuation (P/E 4.0) and strong 3-month momentum (+28.9%)."
     },
     {
@@ -215,18 +215,18 @@
       "price": 7.820000171661377,
       "momentum_1m": 2.088777120580798,
       "momentum_3m": 21.996885457314374,
-      "volatility": 38.52322370616623,
+      "volatility": 38.463194861018515,
       "avg_volume": 18696211.6,
       "trailing_pe": 4.327731,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
       "article_count": 3,
       "top_headlines": [
-        "Heliopolis Housing stock falls 3.66 percent on September 23 - ad-hoc-news.de",
+        "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS",
         "How government borrowing shapes interest rate decisions - EnterpriseAM",
-        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - ad-hoc-news.de"
+        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
-      "score": 52.6,
+      "score": 53.1,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+2.1%)."
     },
     {
@@ -236,7 +236,7 @@
       "price": 51.0,
       "momentum_1m": -5.3627749533869284,
       "momentum_3m": 13.33333333333333,
-      "volatility": 33.0272564941173,
+      "volatility": 33.27446604919249,
       "avg_volume": 1297080.8666666667,
       "trailing_pe": 3.8821719,
       "dividend_yield": 0.0,
@@ -253,7 +253,7 @@
       "price": 29.5,
       "momentum_1m": -9.14690825083625,
       "momentum_3m": 14.208285277328713,
-      "volatility": 32.30418139559607,
+      "volatility": 31.513991463252633,
       "avg_volume": 1777072.9666666666,
       "trailing_pe": 12.855263,
       "dividend_yield": 2.9308006,
@@ -270,7 +270,7 @@
       "price": 6.920000076293945,
       "momentum_1m": -6.359943148620983,
       "momentum_3m": -2.8089861303337904,
-      "volatility": 44.652451972538174,
+      "volatility": 44.95757658477109,
       "avg_volume": 6860335.4,
       "trailing_pe": 3.6491227,
       "dividend_yield": 0.0,
@@ -290,7 +290,7 @@
       "price": 18.75,
       "momentum_1m": -0.5305059917560029,
       "momentum_3m": 2.1798343880919058,
-      "volatility": 27.217536246247086,
+      "volatility": 26.655146021624,
       "avg_volume": 6229045.866666666,
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
@@ -307,7 +307,7 @@
       "price": 11.670000076293945,
       "momentum_1m": -9.674922543487774,
       "momentum_3m": 3.274335215166224,
-      "volatility": 43.05489850057273,
+      "volatility": 43.02653202055331,
       "avg_volume": 5264525.466666667,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
@@ -324,7 +324,7 @@
       "price": 24.299999237060547,
       "momentum_1m": -6.177607741449531,
       "momentum_3m": -7.954547014446645,
-      "volatility": 22.134991935501137,
+      "volatility": 22.33106851045914,
       "avg_volume": 3402577.466666667,
       "trailing_pe": 7.922794,
       "dividend_yield": 1.31008485,
@@ -341,7 +341,7 @@
       "price": 13.5,
       "momentum_1m": -7.975460601289375,
       "momentum_3m": -7.849826952047689,
-      "volatility": 40.485407047075945,
+      "volatility": 40.801874235607976,
       "avg_volume": 11413645.433333334,
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
@@ -358,7 +358,7 @@
       "price": 22.979999542236328,
       "momentum_1m": -4.250001907348633,
       "momentum_3m": 12.979347934333951,
-      "volatility": 32.523234513443775,
+      "volatility": 32.632187880560195,
       "avg_volume": 2511866.3666666667,
       "trailing_pe": 31.835442,
       "dividend_yield": 0.0,
@@ -375,14 +375,14 @@
       "price": 24.06999969482422,
       "momentum_1m": -3.6814729280518987,
       "momentum_3m": 2.4691355017345984,
-      "volatility": 20.08298658874462,
+      "volatility": 20.298391204145926,
       "avg_volume": 529891.9666666667,
       "trailing_pe": 4.0722895,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
       "article_count": 1,
       "top_headlines": [
-        "Credit Agricole Egypt stock falls 1.55 percent on EGX - ad-hoc-news.de"
+        "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
       ],
       "score": 41.7,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
@@ -394,7 +394,7 @@
       "price": 91.80000305175781,
       "momentum_1m": -5.855808593353595,
       "momentum_3m": -1.923072063789566,
-      "volatility": 27.647586131495665,
+      "volatility": 27.670604740176323,
       "avg_volume": 2530221.3666666667,
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
@@ -411,14 +411,14 @@
       "price": 31.68000030517578,
       "momentum_1m": -9.871980284690352,
       "momentum_3m": -16.8285634595268,
-      "volatility": 23.877038959285183,
+      "volatility": 23.43107652709669,
       "avg_volume": 1679023.5666666667,
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.7,
+      "score": 41.1,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -428,14 +428,14 @@
       "price": 28.0,
       "momentum_1m": -11.111111111111116,
       "momentum_3m": 14.801150884340375,
-      "volatility": 43.79676302890061,
+      "volatility": 44.185562421533795,
       "avg_volume": 2280295.7333333334,
       "trailing_pe": 13.990354,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 35.3,
+      "score": 34.9,
       "blurb": "Ranks high on strong 3-month momentum (+14.8%)."
     },
     {
@@ -445,7 +445,7 @@
       "price": 8.180000305175781,
       "momentum_1m": -3.8777898334958705,
       "momentum_3m": -8.08988027207793,
-      "volatility": 38.61370412247409,
+      "volatility": 38.9684411539785,
       "avg_volume": 3934437.7333333334,
       "trailing_pe": 19.021738,
       "dividend_yield": 0.0,
@@ -462,15 +462,15 @@
       "price": 25.979999542236328,
       "momentum_1m": -4.660552138582286,
       "momentum_3m": -12.584117959375652,
-      "volatility": 44.223366990516915,
+      "volatility": 44.63543465746784,
       "avg_volume": 749061.6333333333,
       "trailing_pe": 12.390728,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "Juhayna Food Industries stock holds steady as investors await fresh earnings - ad-hoc-news.de",
-        "Juhayna Food Industries stock holds steady as investors eye latest earnings - ad-hoc-news.de"
+        "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS",
+        "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
       ],
       "score": 22.7,
       "blurb": "No single standout factor; ranks mid-pack across the board."
