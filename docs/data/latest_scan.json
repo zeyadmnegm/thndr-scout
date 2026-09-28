@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:59:05.399549+00:00",
+  "generated_at": "2026-09-28T03:59:54.516973+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -87,16 +87,15 @@
       "trailing_pe": 2.8670888,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 6,
+      "article_count": 4,
       "top_headlines": [
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media",
         "EBRD Approves Up to USD 32.1M Investment in Hassan Allam Utilities\u2019 RWD - waya.media",
-        "Nawy Shares & CI Capital Partner to Launch Digital Real Estate Investment Funds - waya.media",
         "EFG Holding Secures USD 40M EBRD Facility to Expand MSME Financing in Egypt - waya.media",
-        "QIA & JP Morgan Asset Management to Launch USD 20B Partnership - waya.media"
+        "Orascom Development Egypt to Raise Capital to USD 70.3M and Distribute Bonus Shares to Shareholders - waya.media"
       ],
       "score": 60.4,
-      "blurb": "Ranks high on positive recent news (6 articles) and attractive valuation (P/E 2.9)."
+      "blurb": "Ranks high on positive recent news (4 articles) and attractive valuation (P/E 2.9)."
     },
     {
       "ticker": "ACGC.CA",
@@ -223,7 +222,7 @@
       "article_count": 3,
       "top_headlines": [
         "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS",
-        "How government borrowing shapes interest rate decisions - EnterpriseAM",
+        "How government borrowing shapes interest rate decisions - enterpriseam.com",
         "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
       "score": 53.1,
