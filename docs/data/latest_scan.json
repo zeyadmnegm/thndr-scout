@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:00:46.935540+00:00",
+  "generated_at": "2026-09-30T21:56:00.977711+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -107,17 +107,16 @@
       "momentum_3m": 19.81600424265637,
       "volatility": 35.56189272754728,
       "avg_volume": 227966.56666666668,
-      "trailing_pe": 3.9528196,
+      "trailing_pe": 3.9588935,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS",
-        "NAMI Stock Price and Chart \u2014 EGX:NAMI - TradingView",
         "Egypt Aluminum Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com"
       ],
       "score": 59.4,
-      "blurb": "Ranks high on positive recent news (3 articles) and attractive valuation (P/E 4.0)."
+      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "CCAP.CA",
@@ -145,7 +144,7 @@
       "momentum_3m": 51.13760022879919,
       "volatility": 44.18679253064972,
       "avg_volume": 2077664.6666666667,
-      "trailing_pe": 4.1438355,
+      "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
