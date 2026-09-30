@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:58:01.101385+00:00",
+  "generated_at": "2026-09-30T04:17:05.158467+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -112,7 +112,7 @@
       "article_count": 3,
       "top_headlines": [
         "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS",
-        "NAMI Stock Price and Chart \u2014 EGX:NAMI - TradingView",
+        "NAMI Stock Price and Chart \u2014 EGX:NAMI - tradingview.com",
         "Egypt Aluminum Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com"
       ],
       "score": 60.3,
@@ -150,7 +150,7 @@
       "article_count": 2,
       "top_headlines": [
         "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - AD HOC NEWS",
-        "ADIB Stock Price and Chart \u2014 EGX:ADIB - TradingView"
+        "ADIB Stock Price and Chart \u2014 EGX:ADIB - tradingview.com"
       ],
       "score": 56.9,
       "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.9)."
@@ -218,7 +218,7 @@
       "momentum_3m": 30.798741083405922,
       "volatility": 39.039317036976136,
       "avg_volume": 605530.2333333333,
-      "trailing_pe": 6.266754,
+      "trailing_pe": 6.275,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
@@ -345,7 +345,7 @@
       "sentiment_score": 100.0,
       "article_count": 2,
       "top_headlines": [
-        "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView",
+        "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - tradingview.com",
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
       "score": 43.1,
