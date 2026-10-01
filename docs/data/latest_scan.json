@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:33:38.926760+00:00",
+  "generated_at": "2026-10-01T22:24:49.963434+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -15,10 +15,10 @@
       "sentiment_score": 100.0,
       "article_count": 2,
       "top_headlines": [
-        "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - ad-hoc-news.de",
-        "Alexandria Mineral Oils Company stock holds steady amid sector activity - ad-hoc-news.de"
+        "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS",
+        "Alexandria Mineral Oils Company stock holds steady amid sector activity - AD HOC NEWS"
       ],
-      "score": 79.0,
+      "score": 78.7,
       "blurb": "Ranks high on strong 3-month momentum (+69.3%) and a high dividend yield (8.8%)."
     },
     {
@@ -37,7 +37,7 @@
       "top_headlines": [
         "Telecom Egypt Targets $2.3 Billion Revenue by 2026 - \u0648\u0631\u062f\u0646\u0627"
       ],
-      "score": 70.4,
+      "score": 70.1,
       "blurb": "Ranks high on solid recent momentum (+16.5%) and attractive valuation (P/E 2.2)."
     },
     {
@@ -54,9 +54,9 @@
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - ad-hoc-news.de"
+        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
       ],
-      "score": 62.4,
+      "score": 62.1,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+23.1%)."
     },
     {
@@ -73,9 +73,9 @@
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
-        "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - ad-hoc-news.de"
+        "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - AD HOC NEWS"
       ],
-      "score": 62.4,
+      "score": 62.1,
       "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.9)."
     },
     {
@@ -90,11 +90,12 @@
       "trailing_pe": 4.103082,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - ad-hoc-news.de"
+        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView",
+        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
       ],
-      "score": 60.2,
+      "score": 59.9,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -111,7 +112,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.6,
+      "score": 59.3,
       "blurb": "Ranks high on strong 3-month momentum (+57.4%) and solid recent momentum (+7.7%)."
     },
     {
@@ -128,8 +129,27 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.8,
+      "score": 58.5,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+12.4%)."
+    },
+    {
+      "ticker": "ORHD.CA",
+      "name": "Orascom Development Egypt",
+      "sector": "Real Estate",
+      "price": 37.59000015258789,
+      "momentum_1m": -10.4999996366955,
+      "momentum_3m": -1.467893449260127,
+      "volatility": 37.69015354387835,
+      "avg_volume": 3467865.6,
+      "trailing_pe": 2.8670888,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "EBRD Approves Up to USD 32.1M Investment in Hassan Allam Utilities\u2019 RWD - waya.media"
+      ],
+      "score": 58.3,
+      "blurb": "Ranks high on attractive valuation (P/E 2.9) and positive recent news (1 articles)."
     },
     {
       "ticker": "MFPC.CA",
@@ -145,7 +165,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 56.4,
+      "score": 56.1,
       "blurb": "Ranks high on strong 3-month momentum (+23.7%) and solid recent momentum (-3.4%)."
     },
     {
@@ -162,11 +182,11 @@
       "sentiment_score": 100.0,
       "article_count": 3,
       "top_headlines": [
-        "Egypt Aluminum stock gains 1.00 percent after profit jumps - ad-hoc-news.de",
+        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS",
         "NAMI Stock Price and Chart \u2014 EGX:NAMI - TradingView",
         "Egypt Aluminum Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com"
       ],
-      "score": 56.2,
+      "score": 55.9,
       "blurb": "Ranks high on positive recent news (3 articles) and attractive valuation (P/E 4.0)."
     },
     {
@@ -183,7 +203,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.4,
+      "score": 52.1,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-3.7%)."
     },
     {
@@ -198,14 +218,13 @@
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "Egyptian billionaire Ahmed Elsewedy gains $174 million in Q3 - Billionaires.Africa",
-        "Elsewedy Electric stock holds value as 2026 figures guide investors - ad-hoc-news.de",
-        "Elsewedy Electric stock gains attention as company opens new China office - ad-hoc-news.de"
+        "Elsewedy Electric stock holds value as 2026 figures guide investors - AD HOC NEWS"
       ],
-      "score": 52.2,
-      "blurb": "Ranks high on positive recent news (3 articles) and strong 3-month momentum (+20.0%)."
+      "score": 51.9,
+      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+20.0%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -221,25 +240,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.8,
+      "score": 51.5,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
-    },
-    {
-      "ticker": "ORHD.CA",
-      "name": "Orascom Development Egypt",
-      "sector": "Real Estate",
-      "price": 37.59000015258789,
-      "momentum_1m": -10.4999996366955,
-      "momentum_3m": -1.467893449260127,
-      "volatility": 37.69015354387835,
-      "avg_volume": 3467865.6,
-      "trailing_pe": 2.8670888,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 51.4,
-      "blurb": "Ranks high on attractive valuation (P/E 2.9) and strong trading liquidity."
     },
     {
       "ticker": "ISPH.CA",
@@ -255,7 +257,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.0,
+      "score": 50.7,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -272,8 +274,8 @@
       "sentiment_score": -100.0,
       "article_count": 2,
       "top_headlines": [
-        "Heliopolis Housing stock falls 3.66 percent on September 23 - ad-hoc-news.de",
-        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - ad-hoc-news.de"
+        "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS",
+        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
       ],
       "score": 49.7,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+9.2%)."
@@ -292,7 +294,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.6,
+      "score": 47.3,
       "blurb": "Ranks high on solid recent momentum (-3.3%) and low price volatility."
     },
     {
@@ -309,7 +311,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.6,
+      "score": 47.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -326,7 +328,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.0,
+      "score": 44.7,
       "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
@@ -346,7 +348,7 @@
         "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView",
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
-      "score": 44.6,
+      "score": 44.3,
       "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.6)."
     },
     {
@@ -363,25 +365,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.8,
+      "score": 42.5,
       "blurb": "Ranks high on low price volatility."
-    },
-    {
-      "ticker": "EAST.CA",
-      "name": "Eastern Company",
-      "sector": "Consumer Goods",
-      "price": 28.510000228881836,
-      "momentum_1m": -20.27404483485592,
-      "momentum_3m": -23.3602160103046,
-      "volatility": 23.975156257400414,
-      "avg_volume": 1806178.3,
-      "trailing_pe": 7.29097,
-      "dividend_yield": 13.418078,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 41.8,
-      "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
       "ticker": "CIEB.CA",
@@ -397,10 +382,27 @@
       "sentiment_score": -100.0,
       "article_count": 1,
       "top_headlines": [
-        "Credit Agricole Egypt stock falls 1.55 percent on EGX - ad-hoc-news.de"
+        "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
       ],
       "score": 41.7,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
+    },
+    {
+      "ticker": "EAST.CA",
+      "name": "Eastern Company",
+      "sector": "Consumer Goods",
+      "price": 28.510000228881836,
+      "momentum_1m": -20.27404483485592,
+      "momentum_3m": -23.3602160103046,
+      "volatility": 23.975156257400414,
+      "avg_volume": 1806178.3,
+      "trailing_pe": 7.29097,
+      "dividend_yield": 13.418078,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 41.5,
+      "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
       "ticker": "OCDI.CA",
@@ -416,7 +418,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 33.6,
+      "score": 33.3,
       "blurb": "Ranks high on strong 3-month momentum (-0.0%)."
     },
     {
@@ -433,7 +435,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 30.0,
+      "score": 29.7,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -450,10 +452,10 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "Juhayna Food Industries stock holds steady as investors await fresh earnings - ad-hoc-news.de",
-        "Juhayna Food Industries stock holds steady as investors eye latest earnings - ad-hoc-news.de"
+        "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS",
+        "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
       ],
-      "score": 27.8,
+      "score": 27.5,
       "blurb": "Ranks high on solid recent momentum (-9.1%)."
     },
     {
@@ -470,7 +472,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 23.6,
+      "score": 23.3,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
