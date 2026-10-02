@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:24:49.963434+00:00",
+  "generated_at": "2026-10-02T04:21:56.364640+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -37,27 +37,8 @@
       "top_headlines": [
         "Telecom Egypt Targets $2.3 Billion Revenue by 2026 - \u0648\u0631\u062f\u0646\u0627"
       ],
-      "score": 70.1,
+      "score": 69.8,
       "blurb": "Ranks high on solid recent momentum (+16.5%) and attractive valuation (P/E 2.2)."
-    },
-    {
-      "ticker": "ABUK.CA",
-      "name": "Abu Qir Fertilizers",
-      "sector": "Chemicals",
-      "price": 85.77999877929688,
-      "momentum_1m": -8.74468214968418,
-      "momentum_3m": 23.070304928413954,
-      "volatility": 35.566515637779986,
-      "avg_volume": 1624417.9,
-      "trailing_pe": 6.8210526,
-      "dividend_yield": 10.1608805,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
-      ],
-      "score": 62.1,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+23.1%)."
     },
     {
       "ticker": "ADIB.CA",
@@ -79,6 +60,25 @@
       "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.9)."
     },
     {
+      "ticker": "ABUK.CA",
+      "name": "Abu Qir Fertilizers",
+      "sector": "Chemicals",
+      "price": 85.77999877929688,
+      "momentum_1m": -8.74468214968418,
+      "momentum_3m": 23.070304928413954,
+      "volatility": 35.566515637779986,
+      "avg_volume": 1624417.9,
+      "trailing_pe": 6.8210526,
+      "dividend_yield": 10.1608805,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
+      ],
+      "score": 61.8,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+23.1%)."
+    },
+    {
       "ticker": "COMI.CA",
       "name": "Commercial International Bank",
       "sector": "Banks",
@@ -95,7 +95,7 @@
         "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView",
         "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
       ],
-      "score": 59.9,
+      "score": 59.6,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -112,25 +112,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.3,
+      "score": 59.0,
       "blurb": "Ranks high on strong 3-month momentum (+57.4%) and solid recent momentum (+7.7%)."
-    },
-    {
-      "ticker": "CCAP.CA",
-      "name": "Citadel Capital",
-      "sector": "Financial Services",
-      "price": 6.630000114440918,
-      "momentum_1m": 12.372881479216735,
-      "momentum_3m": 29.239765429585663,
-      "volatility": 43.86561181780175,
-      "avg_volume": 120261408.56666666,
-      "trailing_pe": 9.565217,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 58.5,
-      "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+12.4%)."
     },
     {
       "ticker": "ORHD.CA",
@@ -152,21 +135,21 @@
       "blurb": "Ranks high on attractive valuation (P/E 2.9) and positive recent news (1 articles)."
     },
     {
-      "ticker": "MFPC.CA",
-      "name": "Misr Fertilizers Production (MOPCO)",
-      "sector": "Chemicals",
-      "price": 44.900001525878906,
-      "momentum_1m": -3.44085693359375,
-      "momentum_3m": 23.69146685831931,
-      "volatility": 34.4954022121383,
-      "avg_volume": 2936026.966666667,
-      "trailing_pe": 9.124999,
+      "ticker": "CCAP.CA",
+      "name": "Citadel Capital",
+      "sector": "Financial Services",
+      "price": 6.630000114440918,
+      "momentum_1m": 12.372881479216735,
+      "momentum_3m": 29.239765429585663,
+      "volatility": 43.86561181780175,
+      "avg_volume": 120261408.56666666,
+      "trailing_pe": 9.565217,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 56.1,
-      "blurb": "Ranks high on strong 3-month momentum (+23.7%) and solid recent momentum (-3.4%)."
+      "score": 58.2,
+      "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+12.4%)."
     },
     {
       "ticker": "EGAL.CA",
@@ -190,21 +173,42 @@
       "blurb": "Ranks high on positive recent news (3 articles) and attractive valuation (P/E 4.0)."
     },
     {
-      "ticker": "FWRY.CA",
-      "name": "Fawry for Banking Technology",
-      "sector": "Fintech",
-      "price": 18.25,
-      "momentum_1m": -3.693935275762339,
-      "momentum_3m": -0.8690920626737597,
-      "volatility": 25.532097374455283,
-      "avg_volume": 6124213.833333333,
-      "trailing_pe": 8.023529,
+      "ticker": "MFPC.CA",
+      "name": "Misr Fertilizers Production (MOPCO)",
+      "sector": "Chemicals",
+      "price": 44.900001525878906,
+      "momentum_1m": -3.44085693359375,
+      "momentum_3m": 23.69146685831931,
+      "volatility": 34.4954022121383,
+      "avg_volume": 2936026.966666667,
+      "trailing_pe": 9.124999,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.1,
-      "blurb": "Ranks high on low price volatility and solid recent momentum (-3.7%)."
+      "score": 55.8,
+      "blurb": "Ranks high on strong 3-month momentum (+23.7%) and solid recent momentum (-3.4%)."
+    },
+    {
+      "ticker": "HELI.CA",
+      "name": "Heliopolis Housing",
+      "sector": "Real Estate",
+      "price": 7.25,
+      "momentum_1m": -10.493831375789341,
+      "momentum_3m": 9.186749183434294,
+      "volatility": 38.65440451441515,
+      "avg_volume": 18347376.033333335,
+      "trailing_pe": 4.327731,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 3,
+      "top_headlines": [
+        "Egypt's market hits new six-year record after pound devaluation - Economy - Business - Ahram Online",
+        "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS",
+        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
+      ],
+      "score": 55.4,
+      "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+9.2%)."
     },
     {
       "ticker": "SWDY.CA",
@@ -227,6 +231,23 @@
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+20.0%)."
     },
     {
+      "ticker": "FWRY.CA",
+      "name": "Fawry for Banking Technology",
+      "sector": "Fintech",
+      "price": 18.25,
+      "momentum_1m": -3.693935275762339,
+      "momentum_3m": -0.8690920626737597,
+      "volatility": 25.532097374455283,
+      "avg_volume": 6124213.833333333,
+      "trailing_pe": 8.023529,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 51.8,
+      "blurb": "Ranks high on low price volatility and solid recent momentum (-3.7%)."
+    },
+    {
       "ticker": "HRHO.CA",
       "name": "EFG Hermes Holding",
       "sector": "Financial Services",
@@ -240,7 +261,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.5,
+      "score": 51.2,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
@@ -257,28 +278,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.7,
+      "score": 50.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
-    },
-    {
-      "ticker": "HELI.CA",
-      "name": "Heliopolis Housing",
-      "sector": "Real Estate",
-      "price": 7.25,
-      "momentum_1m": -10.493831375789341,
-      "momentum_3m": 9.186749183434294,
-      "volatility": 38.65440451441515,
-      "avg_volume": 18347376.033333335,
-      "trailing_pe": 4.327731,
-      "dividend_yield": 0.0,
-      "sentiment_score": -100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS",
-        "Heliopolis Housing and Development stock holds steady as investors eye recent earnings - AD HOC NEWS"
-      ],
-      "score": 49.7,
-      "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+9.2%)."
     },
     {
       "ticker": "EFIH.CA",
@@ -294,7 +295,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.3,
+      "score": 47.0,
       "blurb": "Ranks high on solid recent momentum (-3.3%) and low price volatility."
     },
     {
@@ -311,7 +312,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.3,
+      "score": 47.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -328,7 +329,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.7,
+      "score": 44.4,
       "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
@@ -365,7 +366,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.5,
+      "score": 42.2,
       "blurb": "Ranks high on low price volatility."
     },
     {
@@ -384,7 +385,7 @@
       "top_headlines": [
         "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
       ],
-      "score": 41.7,
+      "score": 41.4,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
     },
     {
@@ -401,7 +402,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 41.5,
+      "score": 41.2,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -418,7 +419,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 33.3,
+      "score": 33.0,
       "blurb": "Ranks high on strong 3-month momentum (-0.0%)."
     },
     {
@@ -435,7 +436,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 29.7,
+      "score": 29.4,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -455,7 +456,7 @@
         "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS",
         "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
       ],
-      "score": 27.5,
+      "score": 27.2,
       "blurb": "Ranks high on solid recent momentum (-9.1%)."
     },
     {
@@ -472,7 +473,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 23.3,
+      "score": 23.0,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
