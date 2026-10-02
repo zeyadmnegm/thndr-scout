@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:48:29.589718+00:00",
+  "generated_at": "2026-10-02T21:53:18.416829+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -184,9 +184,8 @@
       "trailing_pe": 4.103082,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView",
         "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
       ],
       "score": 56.6,
@@ -451,10 +450,9 @@
       "trailing_pe": 12.390728,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS",
-        "Juhayna Food Industries stock holds steady as investors eye latest earnings - AD HOC NEWS"
+        "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS"
       ],
       "score": 25.8,
       "blurb": "No single standout factor; ranks mid-pack across the board."
