@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T11:58:57.902722+00:00",
+  "generated_at": "2026-10-02T17:48:29.589718+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -10,7 +10,7 @@
       "momentum_3m": 81.05669814856917,
       "volatility": 42.632159131113326,
       "avg_volume": 11330205.033333333,
-      "trailing_pe": 7.3821135,
+      "trailing_pe": 7.827586,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 100.0,
       "article_count": 2,
@@ -18,7 +18,7 @@
         "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS",
         "Alexandria Mineral Oils Company stock holds steady amid sector activity - AD HOC NEWS"
       ],
-      "score": 80.1,
+      "score": 79.5,
       "blurb": "Ranks high on strong 3-month momentum (+81.1%) and solid recent momentum (+4.1%)."
     },
     {
@@ -153,26 +153,6 @@
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+14.7%)."
     },
     {
-      "ticker": "COMI.CA",
-      "name": "Commercial International Bank",
-      "sector": "Banks",
-      "price": 127.69000244140625,
-      "momentum_1m": -9.439714580562942,
-      "momentum_3m": -5.063195210850369,
-      "volatility": 22.910085327132794,
-      "avg_volume": 4145001.2333333334,
-      "trailing_pe": 4.057971,
-      "dividend_yield": 7.444168600000001,
-      "sentiment_score": 0.0,
-      "article_count": 2,
-      "top_headlines": [
-        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView",
-        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
-      ],
-      "score": 57.2,
-      "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
-    },
-    {
       "ticker": "SWDY.CA",
       "name": "Elsewedy Electric",
       "sector": "Industrials",
@@ -191,6 +171,26 @@
       ],
       "score": 56.9,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+36.5%)."
+    },
+    {
+      "ticker": "COMI.CA",
+      "name": "Commercial International Bank",
+      "sector": "Banks",
+      "price": 127.69000244140625,
+      "momentum_1m": -9.439714580562942,
+      "momentum_3m": -5.063195210850369,
+      "volatility": 22.910085327132794,
+      "avg_volume": 4145001.2333333334,
+      "trailing_pe": 4.103082,
+      "dividend_yield": 7.444168600000001,
+      "sentiment_score": 0.0,
+      "article_count": 2,
+      "top_headlines": [
+        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView",
+        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
+      ],
+      "score": 56.6,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
       "ticker": "HELI.CA",
@@ -244,7 +244,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.4,
+      "score": 52.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -324,7 +324,7 @@
       "momentum_3m": -19.6859865962683,
       "volatility": 47.078990429420166,
       "avg_volume": 7272956.133333334,
-      "trailing_pe": 3.4098358,
+      "trailing_pe": 3.6491227,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
@@ -332,8 +332,8 @@
         "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView",
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
-      "score": 44.5,
-      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.4)."
+      "score": 43.9,
+      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.6)."
     },
     {
       "ticker": "EFIH.CA",
@@ -368,7 +368,7 @@
       "top_headlines": [
         "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
       ],
-      "score": 42.0,
+      "score": 42.6,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
     },
     {
@@ -402,7 +402,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 39.0,
+      "score": 39.6,
       "blurb": "Ranks high on low price volatility."
     },
     {
