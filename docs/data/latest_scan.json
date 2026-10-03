@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:03:50.972581+00:00",
+  "generated_at": "2026-10-03T11:12:19.504567+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,10 +13,9 @@
       "trailing_pe": 7.827586,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS",
-        "Alexandria Mineral Oils Company stock holds steady amid sector activity - AD HOC NEWS"
+        "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS"
       ],
       "score": 79.5,
       "blurb": "Ranks high on strong 3-month momentum (+81.1%) and solid recent momentum (+4.1%)."
@@ -90,10 +89,8 @@
       "trailing_pe": 6.8210526,
       "dividend_yield": 10.1608805,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Abu Qir Fertilizers stock steady as investors eye latest financial performance - AD HOC NEWS"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 61.2,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+24.8%)."
     },
@@ -126,14 +123,12 @@
       "trailing_pe": 3.9588935,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 3,
+      "article_count": 1,
       "top_headlines": [
-        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS",
-        "NAMI Stock Price and Chart \u2014 EGX:NAMI - TradingView",
-        "Egypt Aluminum Reports Earnings Results for the Full Year Ended June 30, 2026 - marketscreener.com"
+        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
       ],
       "score": 57.9,
-      "blurb": "Ranks high on positive recent news (3 articles) and attractive valuation (P/E 4.0)."
+      "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "CCAP.CA",
@@ -184,10 +179,8 @@
       "trailing_pe": 4.103082,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Commercial International Bank Egypt stock holds firm as EGX banking sector benefits from currency mo - AD HOC NEWS"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 56.6,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
