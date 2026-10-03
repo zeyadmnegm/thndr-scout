@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:49:07.814041+00:00",
+  "generated_at": "2026-10-03T20:40:07.650082+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -17,7 +17,7 @@
       "top_headlines": [
         "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS"
       ],
-      "score": 79.7,
+      "score": 79.5,
       "blurb": "Ranks high on strong 3-month momentum (+81.1%) and solid recent momentum (+4.1%)."
     },
     {
@@ -36,7 +36,7 @@
       "top_headlines": [
         "Telecom Egypt Targets $2.3 Billion Revenue by 2026 - \u0648\u0631\u062f\u0646\u0627"
       ],
-      "score": 70.0,
+      "score": 69.8,
       "blurb": "Ranks high on solid recent momentum (+19.6%) and attractive valuation (P/E 2.2)."
     },
     {
@@ -55,25 +55,8 @@
       "top_headlines": [
         "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - AD HOC NEWS"
       ],
-      "score": 61.7,
+      "score": 62.1,
       "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.9)."
-    },
-    {
-      "ticker": "ABUK.CA",
-      "name": "Abu Qir Fertilizers",
-      "sector": "Chemicals",
-      "price": 87.0199966430664,
-      "momentum_1m": -5.812320361573353,
-      "momentum_3m": 24.849355026063623,
-      "volatility": 35.476962277942896,
-      "avg_volume": 1607279.5666666667,
-      "trailing_pe": 6.8210526,
-      "dividend_yield": 10.1608805,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 60.7,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+24.8%)."
     },
     {
       "ticker": "ORHD.CA",
@@ -91,8 +74,25 @@
       "top_headlines": [
         "EBRD Approves Up to USD 32.1M Investment in Hassan Allam Utilities\u2019 RWD - waya.media"
       ],
-      "score": 60.4,
+      "score": 61.3,
       "blurb": "Ranks high on attractive valuation (P/E 2.9) and positive recent news (1 articles)."
+    },
+    {
+      "ticker": "ABUK.CA",
+      "name": "Abu Qir Fertilizers",
+      "sector": "Chemicals",
+      "price": 87.0199966430664,
+      "momentum_1m": -5.812320361573353,
+      "momentum_3m": 24.849355026063623,
+      "volatility": 35.476962277942896,
+      "avg_volume": 1607279.5666666667,
+      "trailing_pe": 6.8210526,
+      "dividend_yield": 10.1608805,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 61.2,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+24.8%)."
     },
     {
       "ticker": "ACGC.CA",
@@ -108,8 +108,28 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.9,
+      "score": 58.2,
       "blurb": "Ranks high on strong 3-month momentum (+52.2%) and solid recent momentum (+2.4%)."
+    },
+    {
+      "ticker": "EGAL.CA",
+      "name": "Egypt Aluminum",
+      "sector": "Materials",
+      "price": 342.0,
+      "momentum_1m": -8.556149732620321,
+      "momentum_3m": 14.957983193277302,
+      "volatility": 35.63518192036676,
+      "avg_volume": 225729.3,
+      "trailing_pe": 3.9588935,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 2,
+      "top_headlines": [
+        "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
+      ],
+      "score": 57.9,
+      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "CCAP.CA",
@@ -125,27 +145,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.5,
+      "score": 57.6,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+14.7%)."
-    },
-    {
-      "ticker": "EGAL.CA",
-      "name": "Egypt Aluminum",
-      "sector": "Materials",
-      "price": 342.0,
-      "momentum_1m": -8.556149732620321,
-      "momentum_3m": 14.957983193277302,
-      "volatility": 35.63518192036676,
-      "avg_volume": 225729.3,
-      "trailing_pe": 3.9588935,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
-      ],
-      "score": 57.3,
-      "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "SWDY.CA",
@@ -164,7 +165,7 @@
         "Egyptian billionaire Ahmed Elsewedy gains $174 million in Q3 as Elsewedy Electric shares climb - Billionaires.Africa",
         "Elsewedy Electric stock holds value as 2026 figures guide investors - AD HOC NEWS"
       ],
-      "score": 56.2,
+      "score": 56.9,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+36.5%)."
     },
     {
@@ -181,7 +182,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.1,
+      "score": 56.6,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -201,7 +202,7 @@
         "Egypt's market hits new six-year record after pound devaluation - Economy - Business - Ahram Online",
         "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS"
       ],
-      "score": 54.6,
+      "score": 55.4,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+10.2%)."
     },
     {
@@ -218,7 +219,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.2,
+      "score": 54.4,
       "blurb": "Ranks high on strong 3-month momentum (+27.6%) and solid recent momentum (-1.3%)."
     },
     {
@@ -235,25 +236,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.5,
+      "score": 52.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
-    },
-    {
-      "ticker": "HRHO.CA",
-      "name": "EFG Hermes Holding",
-      "sector": "Financial Services",
-      "price": 24.200000762939453,
-      "momentum_1m": -6.923073988694406,
-      "momentum_3m": -10.635152026885441,
-      "volatility": 22.16227010659317,
-      "avg_volume": 3585413.066666667,
-      "trailing_pe": 7.922794,
-      "dividend_yield": 1.31008485,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 49.3,
-      "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
       "ticker": "FWRY.CA",
@@ -269,8 +253,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.8,
+      "score": 49.6,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-0.8%)."
+    },
+    {
+      "ticker": "HRHO.CA",
+      "name": "EFG Hermes Holding",
+      "sector": "Financial Services",
+      "price": 24.200000762939453,
+      "momentum_1m": -6.923073988694406,
+      "momentum_3m": -10.635152026885441,
+      "volatility": 22.16227010659317,
+      "avg_volume": 3585413.066666667,
+      "trailing_pe": 7.922794,
+      "dividend_yield": 1.31008485,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 49.4,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
       "ticker": "SKPC.CA",
@@ -286,7 +287,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.6,
+      "score": 47.0,
       "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
@@ -303,7 +304,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.2,
+      "score": 47.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -323,7 +324,7 @@
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media",
         "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView"
       ],
-      "score": 43.8,
+      "score": 43.9,
       "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.6)."
     },
     {
@@ -340,7 +341,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.9,
+      "score": 43.2,
       "blurb": "Ranks high on solid recent momentum (-0.4%) and low price volatility."
     },
     {
@@ -359,7 +360,7 @@
       "top_headlines": [
         "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
       ],
-      "score": 41.6,
+      "score": 42.6,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
     },
     {
@@ -376,8 +377,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.9,
+      "score": 41.2,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
+    },
+    {
+      "ticker": "TMGH.CA",
+      "name": "Talaat Moustafa Group",
+      "sector": "Real Estate",
+      "price": 87.69999694824219,
+      "momentum_1m": -10.327204282570923,
+      "momentum_3m": -10.501072701147528,
+      "volatility": 26.513375942936797,
+      "avg_volume": 2716816.033333333,
+      "trailing_pe": 7.733333,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 39.6,
+      "blurb": "Ranks high on low price volatility."
     },
     {
       "ticker": "MTIE.CA",
@@ -410,7 +428,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 29.2,
+      "score": 29.6,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -425,10 +443,8 @@
       "trailing_pe": 12.390728,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Juhayna Food Industries stock holds steady as investors await fresh earnings - AD HOC NEWS"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 25.8,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
@@ -444,9 +460,11 @@
       "trailing_pe": 19.282894,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 23.9,
+      "article_count": 1,
+      "top_headlines": [
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - Simply Wall Street"
+      ],
+      "score": 23.8,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
