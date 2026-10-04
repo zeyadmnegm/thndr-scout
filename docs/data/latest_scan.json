@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:40:07.650082+00:00",
+  "generated_at": "2026-10-04T04:37:13.313738+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -123,13 +123,12 @@
       "trailing_pe": 3.9588935,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall Street",
         "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
       ],
       "score": 57.9,
-      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 4.0)."
+      "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "CCAP.CA",
@@ -321,8 +320,8 @@
       "sentiment_score": 100.0,
       "article_count": 2,
       "top_headlines": [
-        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media",
-        "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView"
+        "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView",
+        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
       "score": 43.9,
       "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.6)."
@@ -462,7 +461,7 @@
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - Simply Wall Street"
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - simplywall.st"
       ],
       "score": 23.8,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
