@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T04:37:13.313738+00:00",
+  "generated_at": "2026-10-04T11:51:49.445489+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -8,14 +8,15 @@
       "price": 14.050000190734863,
       "momentum_1m": 4.074075486924911,
       "momentum_3m": 81.05669814856917,
-      "volatility": 42.632159131113326,
+      "volatility": 42.867604782056006,
       "avg_volume": 11330205.033333333,
       "trailing_pe": 7.827586,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS"
+        "AMOC Advances Acid Gas Treatment Project, Completes Group II Base Oil Trial - Egypt Oil & Gas",
+        "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - ad-hoc-news.de"
       ],
       "score": 79.5,
       "blurb": "Ranks high on strong 3-month momentum (+81.1%) and solid recent momentum (+4.1%)."
@@ -27,7 +28,7 @@
       "price": 138.7100067138672,
       "momentum_1m": 19.587903499043378,
       "momentum_3m": 43.74093959986236,
-      "volatility": 31.41972246233506,
+      "volatility": 30.87193542207928,
       "avg_volume": 1859293.8666666667,
       "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
@@ -46,14 +47,14 @@
       "price": 49.81999969482422,
       "momentum_1m": -5.554502948200534,
       "momentum_3m": 5.999999350689822,
-      "volatility": 33.35087587233002,
+      "volatility": 33.50282697200457,
       "avg_volume": 1381509.1,
       "trailing_pe": 3.8821719,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
-        "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - AD HOC NEWS"
+        "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - ad-hoc-news.de"
       ],
       "score": 62.1,
       "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.9)."
@@ -65,7 +66,7 @@
       "price": 38.900001525878906,
       "momentum_1m": -9.112144347434082,
       "momentum_3m": 0.6468305048645595,
-      "volatility": 37.79973392693251,
+      "volatility": 38.03888303000146,
       "avg_volume": 3419033.0,
       "trailing_pe": 2.8670888,
       "dividend_yield": 0.0,
@@ -84,15 +85,35 @@
       "price": 87.0199966430664,
       "momentum_1m": -5.812320361573353,
       "momentum_3m": 24.849355026063623,
-      "volatility": 35.476962277942896,
+      "volatility": 35.59539697885071,
       "avg_volume": 1607279.5666666667,
       "trailing_pe": 6.8210526,
       "dividend_yield": 10.1608805,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 61.2,
+      "score": 60.8,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+24.8%)."
+    },
+    {
+      "ticker": "EGAL.CA",
+      "name": "Egypt Aluminum",
+      "sector": "Materials",
+      "price": 342.0,
+      "momentum_1m": -8.556149732620321,
+      "momentum_3m": 14.957983193277302,
+      "volatility": 34.35147856410395,
+      "avg_volume": 225729.3,
+      "trailing_pe": 3.9588935,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 2,
+      "top_headlines": [
+        "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "Egypt Aluminum stock gains 1.00 percent after profit jumps - ad-hoc-news.de"
+      ],
+      "score": 58.7,
+      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "ACGC.CA",
@@ -101,7 +122,7 @@
       "price": 14.520000457763672,
       "momentum_1m": 2.3977443248981434,
       "momentum_3m": 52.20126326859378,
-      "volatility": 44.7762941707159,
+      "volatility": 45.12835841112281,
       "avg_volume": 1962159.6666666667,
       "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
@@ -112,32 +133,13 @@
       "blurb": "Ranks high on strong 3-month momentum (+52.2%) and solid recent momentum (+2.4%)."
     },
     {
-      "ticker": "EGAL.CA",
-      "name": "Egypt Aluminum",
-      "sector": "Materials",
-      "price": 342.0,
-      "momentum_1m": -8.556149732620321,
-      "momentum_3m": 14.957983193277302,
-      "volatility": 35.63518192036676,
-      "avg_volume": 225729.3,
-      "trailing_pe": 3.9588935,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
-      ],
-      "score": 57.9,
-      "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 4.0)."
-    },
-    {
       "ticker": "CCAP.CA",
       "name": "Citadel Capital",
       "sector": "Financial Services",
       "price": 6.880000114440918,
       "momentum_1m": 14.666668574015308,
       "momentum_3m": 35.96838324590219,
-      "volatility": 43.93803422469583,
+      "volatility": 44.09676406892661,
       "avg_volume": 121313203.8,
       "trailing_pe": 9.565217,
       "dividend_yield": 0.0,
@@ -154,7 +156,7 @@
       "price": 120.0,
       "momentum_1m": -7.692307692307687,
       "momentum_3m": 36.549844959551095,
-      "volatility": 44.435698263143884,
+      "volatility": 44.78775128422402,
       "avg_volume": 575998.4666666667,
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
@@ -162,7 +164,7 @@
       "article_count": 2,
       "top_headlines": [
         "Egyptian billionaire Ahmed Elsewedy gains $174 million in Q3 as Elsewedy Electric shares climb - Billionaires.Africa",
-        "Elsewedy Electric stock holds value as 2026 figures guide investors - AD HOC NEWS"
+        "Elsewedy Electric stock holds value as 2026 figures guide investors - ad-hoc-news.de"
       ],
       "score": 56.9,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+36.5%)."
@@ -174,7 +176,7 @@
       "price": 127.69000244140625,
       "momentum_1m": -9.439714580562942,
       "momentum_3m": -5.063195210850369,
-      "volatility": 22.910085327132794,
+      "volatility": 22.842153094990813,
       "avg_volume": 4145001.2333333334,
       "trailing_pe": 4.103082,
       "dividend_yield": 7.444168600000001,
@@ -191,7 +193,7 @@
       "price": 7.460000038146973,
       "momentum_1m": -8.578429195524272,
       "momentum_3m": 10.19202450759873,
-      "volatility": 38.67651303259528,
+      "volatility": 38.92603495042024,
       "avg_volume": 17847635.2,
       "trailing_pe": 4.327731,
       "dividend_yield": 0.0,
@@ -199,7 +201,7 @@
       "article_count": 2,
       "top_headlines": [
         "Egypt's market hits new six-year record after pound devaluation - Economy - Business - Ahram Online",
-        "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS"
+        "Heliopolis Housing stock falls 3.66 percent on September 23 - ad-hoc-news.de"
       ],
       "score": 55.4,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+10.2%)."
@@ -211,14 +213,14 @@
       "price": 45.630001068115234,
       "momentum_1m": -1.3405382311021952,
       "momentum_3m": 27.564999955742266,
-      "volatility": 34.41789550284465,
+      "volatility": 34.57318456534946,
       "avg_volume": 2906460.7666666666,
       "trailing_pe": 9.124999,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.4,
+      "score": 54.0,
       "blurb": "Ranks high on strong 3-month momentum (+27.6%) and solid recent momentum (-1.3%)."
     },
     {
@@ -228,7 +230,7 @@
       "price": 11.699999809265137,
       "momentum_1m": -11.02661483899874,
       "momentum_3m": 0.775195135652984,
-      "volatility": 41.956249737702024,
+      "volatility": 42.260911061580195,
       "avg_volume": 5291783.666666667,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
@@ -245,7 +247,7 @@
       "price": 18.850000381469727,
       "momentum_1m": -0.7894716764751286,
       "momentum_3m": -2.7849356636235667,
-      "volatility": 25.84637364358559,
+      "volatility": 25.921965708525597,
       "avg_volume": 6216861.633333334,
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
@@ -262,7 +264,7 @@
       "price": 24.200000762939453,
       "momentum_1m": -6.923073988694406,
       "momentum_3m": -10.635152026885441,
-      "volatility": 22.16227010659317,
+      "volatility": 22.196479080196585,
       "avg_volume": 3585413.066666667,
       "trailing_pe": 7.922794,
       "dividend_yield": 1.31008485,
@@ -279,7 +281,7 @@
       "price": 16.200000762939453,
       "momentum_1m": -13.967069418070254,
       "momentum_3m": 0.49627741650823953,
-      "volatility": 32.933904497894666,
+      "volatility": 33.1494225164802,
       "avg_volume": 6102151.233333333,
       "trailing_pe": 59.326088,
       "dividend_yield": 1.8587360000000002,
@@ -296,7 +298,7 @@
       "price": 13.279999732971191,
       "momentum_1m": -10.512132099571826,
       "momentum_3m": -10.451788258320605,
-      "volatility": 40.89558271382566,
+      "volatility": 41.18925400392937,
       "avg_volume": 10021415.666666666,
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
@@ -313,7 +315,7 @@
       "price": 6.650000095367432,
       "momentum_1m": -11.333332061767576,
       "momentum_3m": -19.6859865962683,
-      "volatility": 47.078990429420166,
+      "volatility": 47.3621790873031,
       "avg_volume": 7272956.133333334,
       "trailing_pe": 3.6491227,
       "dividend_yield": 0.0,
@@ -333,7 +335,7 @@
       "price": 23.399999618530273,
       "momentum_1m": -0.4255335381690539,
       "momentum_3m": -0.12804390206891947,
-      "volatility": 33.539177932578575,
+      "volatility": 33.697074799286305,
       "avg_volume": 2373521.8,
       "trailing_pe": 31.835442,
       "dividend_yield": 0.0,
@@ -350,14 +352,14 @@
       "price": 23.950000762939453,
       "momentum_1m": -6.04158109849664,
       "momentum_3m": -2.165027733691116,
-      "volatility": 19.23025098460224,
+      "volatility": 18.86271041637303,
       "avg_volume": 486467.36666666664,
       "trailing_pe": 4.0722895,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
       "article_count": 1,
       "top_headlines": [
-        "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
+        "Credit Agricole Egypt stock falls 1.55 percent on EGX - ad-hoc-news.de"
       ],
       "score": 42.6,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.1)."
@@ -369,7 +371,7 @@
       "price": 29.469999313354492,
       "momentum_1m": -18.20704881542159,
       "momentum_3m": -21.413335164388027,
-      "volatility": 24.391226171582495,
+      "volatility": 24.557140912339193,
       "avg_volume": 1829041.1,
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
@@ -386,7 +388,7 @@
       "price": 87.69999694824219,
       "momentum_1m": -10.327204282570923,
       "momentum_3m": -10.501072701147528,
-      "volatility": 26.513375942936797,
+      "volatility": 26.383254927743277,
       "avg_volume": 2716816.033333333,
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
@@ -403,7 +405,7 @@
       "price": 8.260000228881836,
       "momentum_1m": -5.4919857529346245,
       "momentum_3m": -11.65775516702764,
-      "volatility": 39.27249556978866,
+      "volatility": 39.50467735412929,
       "avg_volume": 3444453.5,
       "trailing_pe": 19.021738,
       "dividend_yield": 0.0,
@@ -420,7 +422,7 @@
       "price": 26.920000076293945,
       "momentum_1m": -20.237036810980904,
       "momentum_3m": -0.6642077588266737,
-      "volatility": 45.84308633628743,
+      "volatility": 46.14498022596528,
       "avg_volume": 2199712.033333333,
       "trailing_pe": 13.990354,
       "dividend_yield": 0.0,
@@ -437,7 +439,7 @@
       "price": 25.079999923706055,
       "momentum_1m": -8.46715228877314,
       "momentum_3m": -17.662505983163733,
-      "volatility": 43.718065382693794,
+      "volatility": 44.071053199705105,
       "avg_volume": 717785.2,
       "trailing_pe": 12.390728,
       "dividend_yield": 0.0,
@@ -454,14 +456,14 @@
       "price": 19.290000915527344,
       "momentum_1m": -36.483370489053094,
       "momentum_3m": -32.90434464164402,
-      "volatility": 56.19930880459469,
+      "volatility": 56.65106844041501,
       "avg_volume": 2207737.966666667,
       "trailing_pe": 19.282894,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - simplywall.st"
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - Simply Wall Street"
       ],
       "score": 23.8,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
