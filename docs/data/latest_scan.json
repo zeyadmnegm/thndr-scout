@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:48:26.914574+00:00",
+  "generated_at": "2026-10-06T05:10:38.820704+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -69,7 +69,7 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "Egypt's market hits new six-year record after pound devaluation - Economy - Business - english.ahram.org.eg",
+        "Egypt's market hits new six-year record after pound devaluation - Economy - Business - Ahram Online",
         "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS"
       ],
       "score": 60.1,
@@ -140,7 +140,7 @@
       "momentum_3m": 32.53012344377928,
       "volatility": 34.790647099926026,
       "avg_volume": 2894395.0,
-      "trailing_pe": 9.439655,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -157,7 +157,7 @@
       "momentum_3m": -7.428193144823469,
       "volatility": 22.765322589109026,
       "avg_volume": 4137445.933333333,
-      "trailing_pe": 3.9094846,
+      "trailing_pe": 3.881453,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -208,7 +208,7 @@
       "momentum_3m": 3.24786427893784,
       "volatility": 42.31747858958584,
       "avg_volume": 5220986.533333333,
-      "trailing_pe": 3.5,
+      "trailing_pe": 3.4597702,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -225,7 +225,7 @@
       "momentum_3m": 34.067036719295565,
       "volatility": 44.609017908515156,
       "avg_volume": 581515.9666666667,
-      "trailing_pe": 6.266754,
+      "trailing_pe": 6.2096353,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
@@ -245,13 +245,13 @@
       "momentum_3m": -1.0083129055820539,
       "volatility": 37.892200898188015,
       "avg_volume": 3432896.6666666665,
-      "trailing_pe": 2.8670888,
+      "trailing_pe": 2.8136647,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
       "score": 50.9,
-      "blurb": "Ranks high on attractive valuation (P/E 2.9) and strong trading liquidity."
+      "blurb": "Ranks high on attractive valuation (P/E 2.8) and strong trading liquidity."
     },
     {
       "ticker": "FWRY.CA",
@@ -262,7 +262,7 @@
       "momentum_3m": -1.7489719302848372,
       "volatility": 25.87897985970565,
       "avg_volume": 6399920.166666667,
-      "trailing_pe": 8.023529,
+      "trailing_pe": 7.9302325,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -296,7 +296,7 @@
       "momentum_3m": 3.271632560732596,
       "volatility": 33.71935267311471,
       "avg_volume": 2444610.8333333335,
-      "trailing_pe": 36.985294,
+      "trailing_pe": 37.53731,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -313,16 +313,15 @@
       "momentum_3m": -15.527949942643303,
       "volatility": 47.25584950297896,
       "avg_volume": 7205436.666666667,
-      "trailing_pe": 3.6491227,
+      "trailing_pe": 3.586207,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView",
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
       "score": 46.2,
-      "blurb": "Ranks high on positive recent news (2 articles) and strong trading liquidity."
+      "blurb": "Ranks high on positive recent news (1 articles) and strong trading liquidity."
     },
     {
       "ticker": "CIEB.CA",
@@ -352,13 +351,13 @@
       "momentum_3m": -12.290126806657176,
       "volatility": 41.12646878741886,
       "avg_volume": 10211770.5,
-      "trailing_pe": 3.3475177,
+      "trailing_pe": 3.3956833,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
       "score": 42.5,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
+      "blurb": "Ranks high on attractive valuation (P/E 3.4) and strong trading liquidity."
     },
     {
       "ticker": "EAST.CA",
@@ -369,7 +368,7 @@
       "momentum_3m": -22.01591770939273,
       "volatility": 24.457736291617966,
       "avg_volume": 1860140.5666666667,
-      "trailing_pe": 7.29097,
+      "trailing_pe": 7.1947193,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
       "article_count": 0,
