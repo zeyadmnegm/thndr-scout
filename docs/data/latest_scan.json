@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:52:23.017135+00:00",
+  "generated_at": "2026-10-06T22:24:20.057188+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -50,13 +50,12 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall Street",
         "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
       ],
       "score": 62.5,
-      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (2 articles)."
+      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
     },
     {
       "ticker": "ABUK.CA",
@@ -143,12 +142,13 @@
       "trailing_pe": 2.8670888,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Egypt Stocks: Research Stocks from Egypt Stock Market - GuruFocus",
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
       "score": 56.7,
-      "blurb": "Ranks high on attractive valuation (P/E 2.9) and positive recent news (1 articles)."
+      "blurb": "Ranks high on attractive valuation (P/E 2.9) and positive recent news (2 articles)."
     },
     {
       "ticker": "COMI.CA",
@@ -164,7 +164,7 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com",
+        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - Innovation Village",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
       ],
       "score": 56.6,
@@ -269,8 +269,10 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "e-finance for Digital and Financial InvestmentsE (CASE:EFIH) - Stock Analysis - Simply Wall Street"
+      ],
       "score": 48.0,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
@@ -300,7 +302,7 @@
       "momentum_3m": -15.000000611329678,
       "volatility": 47.16193853462585,
       "avg_volume": 7235463.033333333,
-      "trailing_pe": 3.586207,
+      "trailing_pe": 3.6491227,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
