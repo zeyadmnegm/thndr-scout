@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:46:14.643860+00:00",
+  "generated_at": "2026-10-07T22:49:15.448555+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,12 +13,13 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 3,
       "top_headlines": [
+        "Alexandria Mineral Oils (CASE:AMOC) - Stock Analysis - Simply Wall Street",
         "AMOC Advances Acid Gas Treatment Project, Completes Group II Base Oil Trial - Egypt Oil & Gas",
         "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS"
       ],
-      "score": 81.5,
+      "score": 81.8,
       "blurb": "Ranks high on strong 3-month momentum (+80.0%) and a high dividend yield (8.8%)."
     },
     {
@@ -35,27 +36,27 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 71.2,
+      "score": 70.9,
       "blurb": "Ranks high on solid recent momentum (+24.8%) and attractive valuation (P/E 2.2)."
     },
     {
-      "ticker": "EGAL.CA",
-      "name": "Egypt Aluminum",
-      "sector": "Materials",
-      "price": 343.4100036621094,
-      "momentum_1m": -8.42155454670339,
-      "momentum_3m": 17.200775474120732,
-      "volatility": 33.98818599960312,
-      "avg_volume": 206831.26666666666,
-      "trailing_pe": 2.7443411,
+      "ticker": "HELI.CA",
+      "name": "Heliopolis Housing",
+      "sector": "Real Estate",
+      "price": 7.369999885559082,
+      "momentum_1m": -8.674099575419925,
+      "momentum_3m": 0.5457020773446786,
+      "volatility": 38.652672160552385,
+      "avg_volume": 17189274.333333332,
+      "trailing_pe": 3.2802548,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
-        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
+        "Egypt's market hits new six-year record after pound devaluation - Economy - Business - Ahram Online"
       ],
-      "score": 62.1,
-      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
+      "score": 63.2,
+      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.3)."
     },
     {
       "ticker": "ABUK.CA",
@@ -71,8 +72,28 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 61.6,
+      "score": 61.9,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+23.6%)."
+    },
+    {
+      "ticker": "EGAL.CA",
+      "name": "Egypt Aluminum",
+      "sector": "Materials",
+      "price": 343.4100036621094,
+      "momentum_1m": -8.42155454670339,
+      "momentum_3m": 17.200775474120732,
+      "volatility": 33.98818599960312,
+      "avg_volume": 206831.26666666666,
+      "trailing_pe": 2.7443411,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 2,
+      "top_headlines": [
+        "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall Street",
+        "Egypt Aluminum stock gains 1.00 percent after profit jumps - AD HOC NEWS"
+      ],
+      "score": 61.8,
+      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (2 articles)."
     },
     {
       "ticker": "CCAP.CA",
@@ -88,7 +109,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.4,
+      "score": 58.1,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (+6.2%)."
     },
     {
@@ -108,7 +129,7 @@
         "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - Innovation Village",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
       ],
-      "score": 57.6,
+      "score": 57.9,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -123,12 +144,13 @@
       "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - AD HOC NEWS",
         "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - AD HOC NEWS"
       ],
-      "score": 57.5,
-      "blurb": "Ranks high on positive recent news (1 articles) and low price volatility."
+      "score": 57.8,
+      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 4.2)."
     },
     {
       "ticker": "HRHO.CA",
@@ -144,28 +166,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.2,
+      "score": 57.5,
       "blurb": "Ranks high on solid recent momentum (+3.4%) and low price volatility."
-    },
-    {
-      "ticker": "HELI.CA",
-      "name": "Heliopolis Housing",
-      "sector": "Real Estate",
-      "price": 7.369999885559082,
-      "momentum_1m": -8.674099575419925,
-      "momentum_3m": 0.5457020773446786,
-      "volatility": 38.652672160552385,
-      "avg_volume": 17189274.333333332,
-      "trailing_pe": 3.2802548,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Egypt's market hits new six-year record after pound devaluation - Economy - Business - Ahram Online",
-        "Heliopolis Housing stock falls 3.66 percent on September 23 - AD HOC NEWS"
-      ],
-      "score": 55.4,
-      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.3)."
     },
     {
       "ticker": "MFPC.CA",
@@ -176,12 +178,12 @@
       "momentum_3m": 24.390242893860247,
       "volatility": 34.3686575974065,
       "avg_volume": 2796797.3666666667,
-      "trailing_pe": 9.439655,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.8,
+      "score": 55.1,
       "blurb": "Ranks high on strong 3-month momentum (+24.4%) and solid recent momentum (-2.3%)."
     },
     {
@@ -198,8 +200,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.0,
-      "blurb": "Ranks high on strong 3-month momentum (+51.5%) and solid recent momentum (-6.9%)."
+      "score": 53.3,
+      "blurb": "Ranks high on strong 3-month momentum (+51.5%) and attractive valuation (P/E 4.3)."
     },
     {
       "ticker": "SWDY.CA",
@@ -215,10 +217,10 @@
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
-        "Egyptian billionaire Ahmed Elsewedy gains $174 million in Q3 as Elsewedy Electric shares climb - Billionaires.Africa"
+        "Egyptian billionaire Ahmed Elsewedy gains $174 million in Q3 - Billionaires.Africa"
       ],
-      "score": 52.9,
-      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+32.6%)."
+      "score": 53.2,
+      "blurb": "Ranks high on strong 3-month momentum (+32.6%) and positive recent news (1 articles)."
     },
     {
       "ticker": "ISPH.CA",
@@ -234,7 +236,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.0,
+      "score": 51.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -249,11 +251,12 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Fawry stock gained 1.82 percent on October 7 - AD HOC NEWS",
         "e-finance for Digital and Financial InvestmentsE (CASE:EFIH) - Stock Analysis - Simply Wall Street"
       ],
-      "score": 49.8,
+      "score": 50.1,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -270,7 +273,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.0,
+      "score": 48.7,
       "blurb": "Ranks high on solid recent momentum (+4.2%) and strong 3-month momentum (+11.7%)."
     },
     {
@@ -290,7 +293,7 @@
         "Cr\u00e9dit Agricole Egypt joined the 2nd edition of Egypt Business Forum in Paris as Official Banking Partner - Zawya",
         "Credit Agricole Egypt stock falls 1.55 percent on EGX - AD HOC NEWS"
       ],
-      "score": 46.2,
+      "score": 46.8,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-5.1%)."
     },
     {
@@ -310,7 +313,7 @@
         "ZAWYA: Egypt: Raya Holding conditionally approves up to $60mln for data center acquisition - TradingView",
         "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
       ],
-      "score": 45.7,
+      "score": 46.0,
       "blurb": "Ranks high on positive recent news (2 articles) and strong trading liquidity."
     },
     {
@@ -327,8 +330,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.2,
-      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.3)."
+      "score": 45.5,
+      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
       "ticker": "SKPC.CA",
@@ -344,7 +347,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.4,
+      "score": 44.1,
       "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
@@ -361,7 +364,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.8,
+      "score": 43.1,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -378,28 +381,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 41.2,
+      "score": 41.5,
       "blurb": "Ranks high on low price volatility."
-    },
-    {
-      "ticker": "ORHD.CA",
-      "name": "Orascom Development Egypt",
-      "sector": "Real Estate",
-      "price": 12.029047012329102,
-      "momentum_1m": -71.53561881189236,
-      "momentum_3m": -69.24304059165553,
-      "volatility": 106.7613421081209,
-      "avg_volume": 5117713.1,
-      "trailing_pe": 2.8976545,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Egypt Stocks: Research Stocks from Egypt Stock Market - GuruFocus",
-        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
-      ],
-      "score": 39.5,
-      "blurb": "Ranks high on attractive valuation (P/E 2.9) and positive recent news (2 articles)."
     },
     {
       "ticker": "OCDI.CA",
@@ -415,7 +398,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 35.4,
+      "score": 35.1,
       "blurb": "Ranks high on strong 3-month momentum (+1.9%)."
     },
     {
@@ -432,8 +415,29 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 33.2,
+      "score": 32.9,
       "blurb": "Ranks high on solid recent momentum (-6.4%)."
+    },
+    {
+      "ticker": "ORHD.CA",
+      "name": "Orascom Development Egypt",
+      "sector": "Real Estate",
+      "price": 12.029047012329102,
+      "momentum_1m": -71.53561881189236,
+      "momentum_3m": -69.24304059165553,
+      "volatility": 106.7613421081209,
+      "avg_volume": 5117713.1,
+      "trailing_pe": 9.244898,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 3,
+      "top_headlines": [
+        "Orascom Development Egypt to raise capital to EGP 3.65B - \u0622\u0631\u0627\u0628 \u0641\u0627\u064a\u0646\u0627\u0646\u0633",
+        "Egypt Stocks: Research Stocks from Egypt Stock Market - GuruFocus",
+        "Raya Holding Approves Up to USD 60M Funding for Proposed Data Center Acquisition - waya.media"
+      ],
+      "score": 29.6,
+      "blurb": "Ranks high on positive recent news (3 articles) and strong trading liquidity."
     },
     {
       "ticker": "JUFO.CA",
@@ -449,7 +453,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.2,
+      "score": 26.9,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -468,7 +472,7 @@
       "top_headlines": [
         "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - Simply Wall Street"
       ],
-      "score": 26.2,
+      "score": 25.9,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
