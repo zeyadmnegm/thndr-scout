@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:41:07.007203+00:00",
+  "generated_at": "2026-10-09T22:21:18.665147+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,10 +13,9 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 100.0,
-      "article_count": 4,
+      "article_count": 3,
       "top_headlines": [
         "Alexandria Mineral Oils stock gained 3.3 percent on October 6 - AD HOC NEWS",
-        "Alexandria Mineral Oils (CASE:AMOC) - Stock Analysis - Simply Wall Street",
         "AMOC Advances Acid Gas Treatment Project, Completes Group II Base Oil Trial - Egypt Oil & Gas",
         "Alexandria Mineral Oils Company stock gains 93.40 percent YTD - AD HOC NEWS"
       ],
@@ -71,11 +70,12 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 4,
+      "article_count": 5,
       "top_headlines": [
         "COMI stock backs MNT-Halan with EGP 2 billion investment - AD HOC NEWS",
         "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
         "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com",
+        "Egypt\u2019s CIB to invest up to $38mln in MNT-Halan share offering - Zawya",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
       ],
       "score": 64.6,
@@ -242,12 +242,12 @@
       "momentum_3m": 26.016254951611238,
       "volatility": 34.98092225765745,
       "avg_volume": 2816017.6333333333,
-      "trailing_pe": 9.439655,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.5,
+      "score": 53.1,
       "blurb": "Ranks high on strong 3-month momentum (+26.0%) and solid recent momentum (-2.6%)."
     },
     {
@@ -481,7 +481,7 @@
         "Orascom Development Egypt to raise capital to EGP 3.65B - \u0622\u0631\u0627\u0628 \u0641\u0627\u064a\u0646\u0627\u0646\u0633",
         "Egypt Stocks: Research Stocks from Egypt Stock Market - GuruFocus"
       ],
-      "score": 22.5,
+      "score": 21.9,
       "blurb": "Ranks high on strong trading liquidity."
     }
   ]
