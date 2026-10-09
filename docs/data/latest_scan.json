@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:00:00.044824+00:00",
+  "generated_at": "2026-10-09T04:51:29.553522+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -243,12 +243,12 @@
       "momentum_3m": 26.016254951611238,
       "volatility": 34.98092225765745,
       "avg_volume": 2816017.6333333333,
-      "trailing_pe": 9.439655,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.2,
+      "score": 52.8,
       "blurb": "Ranks high on strong 3-month momentum (+26.0%) and solid recent momentum (-2.6%)."
     },
     {
@@ -484,7 +484,7 @@
         "Orascom Development Egypt to raise capital to EGP 3.65B - \u0622\u0631\u0627\u0628 \u0641\u0627\u064a\u0646\u0627\u0646\u0633",
         "Egypt Stocks: Research Stocks from Egypt Stock Market - GuruFocus"
       ],
-      "score": 22.2,
+      "score": 21.6,
       "blurb": "Ranks high on strong trading liquidity."
     }
   ]
