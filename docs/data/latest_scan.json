@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T12:12:53.389923+00:00",
+  "generated_at": "2026-10-11T21:34:45.103337+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -51,8 +51,9 @@
       "trailing_pe": 3.22884,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Banque du Caire set to float 30% of its shares - EnterpriseAM",
         "Misr El Gadida for Housing and Development stock reports 197.18 percent revenue growth - AD HOC NEWS"
       ],
       "score": 67.4,
@@ -74,8 +75,8 @@
       "top_headlines": [
         "COMI stock backs MNT-Halan with EGP 2 billion investment - AD HOC NEWS",
         "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
-        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com",
-        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
+        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
+        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com"
       ],
       "score": 64.6,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
@@ -207,7 +208,7 @@
       "sentiment_score": 100.0,
       "article_count": 2,
       "top_headlines": [
-        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - AD HOC NEWS",
+        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de",
         "Abu Dhabi Islamic Bank Egypt stock reports 21.60 percent profit growth - AD HOC NEWS"
       ],
       "score": 55.6,
@@ -436,10 +437,9 @@
       "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Edita Food Industries stock secures EGP 390 million loans - AD HOC NEWS",
-        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Price - Simply Wall Street"
+        "Edita Food Industries stock secures EGP 390 million loans - AD HOC NEWS"
       ],
       "score": 25.3,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
