@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:34:45.103337+00:00",
+  "generated_at": "2026-10-12T04:37:59.124552+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -31,7 +31,7 @@
       "momentum_3m": 51.25191855689435,
       "volatility": 33.152728637972196,
       "avg_volume": 2036840.1666666667,
-      "trailing_pe": 2.239918,
+      "trailing_pe": 2.1949096,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -78,7 +78,7 @@
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
         "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com"
       ],
-      "score": 64.6,
+      "score": 64.0,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -150,14 +150,14 @@
       "momentum_3m": -0.4975158999091178,
       "volatility": 19.17530413115556,
       "avg_volume": 485550.76666666666,
-      "trailing_pe": 3.9609377,
+      "trailing_pe": 3.9075146,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
         "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
       ],
-      "score": 57.6,
+      "score": 58.2,
       "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
@@ -296,7 +296,7 @@
       "momentum_3m": 13.648642680927914,
       "volatility": 33.467686369954876,
       "avg_volume": 2768731.8333333335,
-      "trailing_pe": 36.985294,
+      "trailing_pe": 35.92857,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -366,7 +366,7 @@
       "momentum_3m": -9.485066147480204,
       "volatility": 24.17411491246465,
       "avg_volume": 2807509.033333333,
-      "trailing_pe": 7.733333,
+      "trailing_pe": 7.5916233,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -400,7 +400,7 @@
       "momentum_3m": 2.32209331149289,
       "volatility": 47.14242302003636,
       "avg_volume": 2083339.3,
-      "trailing_pe": 13.105421,
+      "trailing_pe": 12.722221,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
