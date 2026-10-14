@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:21:09.536342+00:00",
+  "generated_at": "2026-10-14T03:47:23.017744+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -15,7 +15,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 75.4,
+      "score": 76.0,
       "blurb": "Ranks high on strong 3-month momentum (+67.8%) and solid recent momentum (+0.1%)."
     },
     {
@@ -32,31 +32,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 70.8,
+      "score": 71.4,
       "blurb": "Ranks high on solid recent momentum (+11.9%) and attractive valuation (P/E 2.2)."
-    },
-    {
-      "ticker": "COMI.CA",
-      "name": "Commercial International Bank",
-      "sector": "Banks",
-      "price": 122.48999786376953,
-      "momentum_1m": -9.966927514753243,
-      "momentum_3m": -10.525928908083682,
-      "volatility": 21.6494579823727,
-      "avg_volume": 4083191.8,
-      "trailing_pe": 3.9094846,
-      "dividend_yield": 7.444168600000001,
-      "sentiment_score": 100.0,
-      "article_count": 5,
-      "top_headlines": [
-        "COMI stock backs MNT-Halan with EGP 2 billion investment - ad-hoc-news.de",
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
-        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
-        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com",
-        "Egypt\u2019s CIB to invest up to $38mln in MNT-Halan share offering - Zawya"
-      ],
-      "score": 67.2,
-      "blurb": "Ranks high on low price volatility and positive recent news (5 articles)."
     },
     {
       "ticker": "HELI.CA",
@@ -75,7 +52,7 @@
         "Banque du Caire set to float 30% of its shares - EnterpriseAM",
         "Misr El Gadida for Housing and Development stock reports 197.18 percent revenue growth - AD HOC NEWS"
       ],
-      "score": 67.2,
+      "score": 67.5,
       "blurb": "Ranks high on strong trading liquidity and positive recent news (2 articles)."
     },
     {
@@ -94,8 +71,25 @@
       "top_headlines": [
         "Abu Qir Fertilizers and Chemical Industries stock gained 4.00 percent - AD HOC NEWS"
       ],
-      "score": 64.6,
+      "score": 65.2,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+24.5%)."
+    },
+    {
+      "ticker": "COMI.CA",
+      "name": "Commercial International Bank",
+      "sector": "Banks",
+      "price": 122.48999786376953,
+      "momentum_1m": -9.966927514753243,
+      "momentum_3m": -10.525928908083682,
+      "volatility": 21.6494579823727,
+      "avg_volume": 4083191.8,
+      "trailing_pe": 3.9094846,
+      "dividend_yield": 7.444168600000001,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 60.0,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
       "ticker": "ACGC.CA",
@@ -113,8 +107,8 @@
       "top_headlines": [
         "Arabian Cement Company stock reports stronger quarterly profit - AD HOC NEWS"
       ],
-      "score": 59.2,
-      "blurb": "Ranks high on strong 3-month momentum (+31.3%) and positive recent news (1 articles)."
+      "score": 59.5,
+      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+31.3%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -149,7 +143,7 @@
       "top_headlines": [
         "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
       ],
-      "score": 56.2,
+      "score": 56.5,
       "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
@@ -161,7 +155,7 @@
       "momentum_3m": 26.596584666702316,
       "volatility": 45.76214762218836,
       "avg_volume": 549274.3666666667,
-      "trailing_pe": 6.233987,
+      "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
@@ -169,7 +163,7 @@
         "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media",
         "Egyptian billionaire Ahmed Elsewedy gains $174 million in Q3 - Billionaires.Africa"
       ],
-      "score": 55.8,
+      "score": 56.1,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+26.6%)."
     },
     {
@@ -186,8 +180,27 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.2,
+      "score": 55.8,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (-0.5%)."
+    },
+    {
+      "ticker": "FWRY.CA",
+      "name": "Fawry for Banking Technology",
+      "sector": "Fintech",
+      "price": 18.700000762939453,
+      "momentum_1m": -2.0942387986459976,
+      "momentum_3m": -3.1088005069396907,
+      "volatility": 25.30901745774175,
+      "avg_volume": 6978679.433333334,
+      "trailing_pe": 8.023529,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Fawry stock gained 1.82 percent on October 7 - AD HOC NEWS"
+      ],
+      "score": 55.4,
+      "blurb": "Ranks high on strong trading liquidity and solid recent momentum (-2.1%)."
     },
     {
       "ticker": "ISPH.CA",
@@ -205,7 +218,7 @@
       "top_headlines": [
         "Ibnsina Pharma (CASE:ISPH) - Stock Analysis - Simply Wall Street"
       ],
-      "score": 54.8,
+      "score": 55.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -220,33 +233,15 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
+        "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - ad-hoc-news.de",
         "Egypt Aluminum stock drops 1.17% on October 7, remains 14% below 52-week high - AL Circle",
         "Egypt Aluminum stock fell 1.17 percent on October 7 - AD HOC NEWS",
         "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall Street"
       ],
-      "score": 54.6,
+      "score": 55.2,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and low price volatility."
-    },
-    {
-      "ticker": "FWRY.CA",
-      "name": "Fawry for Banking Technology",
-      "sector": "Fintech",
-      "price": 18.700000762939453,
-      "momentum_1m": -2.0942387986459976,
-      "momentum_3m": -3.1088005069396907,
-      "volatility": 25.30901745774175,
-      "avg_volume": 6978679.433333334,
-      "trailing_pe": 8.119048,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Fawry stock gained 1.82 percent on October 7 - AD HOC NEWS"
-      ],
-      "score": 54.2,
-      "blurb": "Ranks high on strong trading liquidity and solid recent momentum (-2.1%)."
     },
     {
       "ticker": "MFPC.CA",
@@ -262,7 +257,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.8,
+      "score": 54.4,
       "blurb": "Ranks high on strong 3-month momentum (+17.8%) and solid recent momentum (-6.2%)."
     },
     {
@@ -279,7 +274,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.8,
+      "score": 50.4,
       "blurb": "Ranks high on solid recent momentum (+1.3%) and strong 3-month momentum (+7.3%)."
     },
     {
@@ -296,7 +291,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.6,
+      "score": 50.2,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -315,7 +310,7 @@
       "top_headlines": [
         "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
       ],
-      "score": 47.6,
+      "score": 48.2,
       "blurb": "Ranks high on attractive valuation (P/E 4.2) and low price volatility."
     },
     {
@@ -332,7 +327,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.2,
+      "score": 45.8,
       "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
@@ -349,7 +344,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.2,
+      "score": 43.8,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -364,9 +359,11 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 42.2,
+      "article_count": 1,
+      "top_headlines": [
+        "TMG partners with AXA Egypt: what it means for TMG stock - ad-hoc-news.de"
+      ],
+      "score": 42.8,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -383,7 +380,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 35.4,
+      "score": 36.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
     },
     {
@@ -400,7 +397,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 30.4,
+      "score": 31.0,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -417,7 +414,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 30.2,
+      "score": 30.8,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -429,34 +426,15 @@
       "momentum_3m": -19.081966212538426,
       "volatility": 44.805614351304875,
       "avg_volume": 740414.8666666667,
-      "trailing_pe": 12.14935,
+      "trailing_pe": 12.390728,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "Juhayna Food Industries stock was last at EGP 25 on October 7, 2026 - AD HOC NEWS"
       ],
-      "score": 29.4,
+      "score": 30.0,
       "blurb": "Ranks high on solid recent momentum (-9.2%)."
-    },
-    {
-      "ticker": "EFID.CA",
-      "name": "Edita Food Industries",
-      "sector": "Consumer Goods",
-      "price": 18.600000381469727,
-      "momentum_1m": -39.805823265073506,
-      "momentum_3m": -34.460884667033575,
-      "volatility": 56.529023759263865,
-      "avg_volume": 2456915.9,
-      "trailing_pe": 18.909678,
-      "dividend_yield": 1.9538669000000002,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Edita Food Industries stock secures EGP 390 million loans - AD HOC NEWS"
-      ],
-      "score": 26.2,
-      "blurb": "Ranks high on a high dividend yield (2.0%)."
     },
     {
       "ticker": "ORHD.CA",
@@ -475,8 +453,29 @@
         "Orascom Development Egypt to raise capital to EGP 3.65B - \u0622\u0631\u0627\u0628 \u0641\u0627\u064a\u0646\u0627\u0646\u0633",
         "Egypt Stocks: Research Stocks from Egypt Stock Market - GuruFocus"
       ],
-      "score": 22.8,
+      "score": 23.4,
       "blurb": "Ranks high on strong trading liquidity."
+    },
+    {
+      "ticker": "EFID.CA",
+      "name": "Edita Food Industries",
+      "sector": "Consumer Goods",
+      "price": 18.600000381469727,
+      "momentum_1m": -39.805823265073506,
+      "momentum_3m": -34.460884667033575,
+      "volatility": 56.529023759263865,
+      "avg_volume": 2456915.9,
+      "trailing_pe": 19.156862,
+      "dividend_yield": 1.9538669000000002,
+      "sentiment_score": -100.0,
+      "article_count": 3,
+      "top_headlines": [
+        "Fintel cuts target for Edita Food Industries stock - ad-hoc-news.de",
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall Street",
+        "Edita Food Industries stock secures EGP 390 million loans - AD HOC NEWS"
+      ],
+      "score": 20.2,
+      "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
 }
