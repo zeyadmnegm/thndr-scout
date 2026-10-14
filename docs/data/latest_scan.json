@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:20:02.573827+00:00",
+  "generated_at": "2026-10-14T16:40:41.899996+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -401,12 +401,12 @@
       "momentum_3m": -22.048063991249713,
       "volatility": 40.33168812827871,
       "avg_volume": 2587338.566666667,
-      "trailing_pe": 19.021738,
+      "trailing_pe": 19.444445,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 31.1,
+      "score": 30.5,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -482,7 +482,7 @@
         "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall Street",
         "Edita Food Industries stock secures EGP 390 million loans - AD HOC NEWS"
       ],
-      "score": 19.6,
+      "score": 20.2,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
