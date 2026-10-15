@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:20:12.778014+00:00",
+  "generated_at": "2026-10-15T03:28:48.845532+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -49,16 +49,15 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 5,
+      "article_count": 4,
       "top_headlines": [
-        "COMI stock backs MNT-Halan with EGP 2 billion investment - ad-hoc-news.de",
         "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
         "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com",
         "Egypt\u2019s CIB to invest up to $38mln in MNT-Halan share offering - Zawya"
       ],
       "score": 68.0,
-      "blurb": "Ranks high on low price volatility and positive recent news (5 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (4 articles)."
     },
     {
       "ticker": "ABUK.CA",
