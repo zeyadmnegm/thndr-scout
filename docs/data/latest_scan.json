@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:25:40.983914+00:00",
+  "generated_at": "2026-10-15T21:00:19.772992+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -181,7 +181,7 @@
       "momentum_3m": 15.815785056666321,
       "volatility": 34.99523733688623,
       "avg_volume": 2478857.2666666666,
-      "trailing_pe": 8.848485,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -306,7 +306,7 @@
       "momentum_3m": 0.5591361753402246,
       "volatility": 34.009427756567774,
       "avg_volume": 1591904.2333333334,
-      "trailing_pe": 4.247758,
+      "trailing_pe": 4.1867404,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -347,9 +347,10 @@
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de"
+        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de",
+        "Eastern Company stock fell 2.72 percent on EGX - AD HOC NEWS"
       ],
       "score": 43.4,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
