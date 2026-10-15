@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:57:19.761572+00:00",
+  "generated_at": "2026-10-15T16:25:40.983914+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -49,14 +49,13 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
-        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
-        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - innovation-village.com"
+        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
       ],
       "score": 67.9,
-      "blurb": "Ranks high on low price volatility and positive recent news (3 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (2 articles)."
     },
     {
       "ticker": "ABUK.CA",
@@ -67,7 +66,7 @@
       "momentum_3m": 17.13888380262587,
       "volatility": 36.22323984456127,
       "avg_volume": 1404723.4666666666,
-      "trailing_pe": 5.512287,
+      "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -86,14 +85,14 @@
       "momentum_3m": 32.862905280336996,
       "volatility": 46.17157179790102,
       "avg_volume": 1429763.2,
-      "trailing_pe": 4.060403,
+      "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
         "Arabian Cement Company stock reports stronger quarterly profit - AD HOC NEWS"
       ],
-      "score": 63.5,
+      "score": 62.9,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+32.9%)."
     },
     {
@@ -145,12 +144,14 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 3,
       "top_headlines": [
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
+        "Cr\u00e9dit Agricole Egypt for Development and Education first celebrate the graduation of the 2026 cohort of Ebhar Misr Program - Zawya",
+        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
+        "Cr\u00e9dit Agricole Egypt joined the 2nd edition of Egypt Business Forum in Paris as Official Banking Partner - Zawya"
       ],
       "score": 58.1,
-      "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (3 articles)."
     },
     {
       "ticker": "FWRY.CA",
@@ -180,7 +181,7 @@
       "momentum_3m": 15.815785056666321,
       "volatility": 34.99523733688623,
       "avg_volume": 2478857.2666666666,
-      "trailing_pe": 9.1060295,
+      "trailing_pe": 8.848485,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -233,9 +234,9 @@
       "price": 11.130000114440918,
       "momentum_1m": -10.505651670770877,
       "momentum_3m": -1.0686364805795545,
-      "volatility": 43.09611628654931,
+      "volatility": 43.09611667668981,
       "avg_volume": 5164039.266666667,
-      "trailing_pe": 3.5411763,
+      "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -297,6 +298,25 @@
       "blurb": "Ranks high on solid recent momentum (+1.4%) and strong 3-month momentum (+8.4%)."
     },
     {
+      "ticker": "ADIB.CA",
+      "name": "Abu Dhabi Islamic Bank Egypt",
+      "sector": "Banks",
+      "price": 46.7599983215332,
+      "momentum_1m": -10.232293752047317,
+      "momentum_3m": 0.5591361753402246,
+      "volatility": 34.009427756567774,
+      "avg_volume": 1591904.2333333334,
+      "trailing_pe": 4.247758,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
+      ],
+      "score": 49.6,
+      "blurb": "Ranks high on attractive valuation (P/E 4.2) and strong 3-month momentum (+0.6%)."
+    },
+    {
       "ticker": "SWDY.CA",
       "name": "Elsewedy Electric",
       "sector": "Industrials",
@@ -314,25 +334,6 @@
       ],
       "score": 49.4,
       "blurb": "Ranks high on strong 3-month momentum (+26.0%)."
-    },
-    {
-      "ticker": "ADIB.CA",
-      "name": "Abu Dhabi Islamic Bank Egypt",
-      "sector": "Banks",
-      "price": 46.7599983215332,
-      "momentum_1m": -10.232293752047317,
-      "momentum_3m": 0.5591361753402246,
-      "volatility": 34.009427756567774,
-      "avg_volume": 1591904.2333333334,
-      "trailing_pe": 4.1867404,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
-      ],
-      "score": 49.0,
-      "blurb": "Ranks high on attractive valuation (P/E 4.2) and strong 3-month momentum (+0.6%)."
     },
     {
       "ticker": "EAST.CA",
