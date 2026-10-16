@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T10:50:18.012659+00:00",
+  "generated_at": "2026-10-16T16:11:15.270578+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -160,7 +160,7 @@
       "price": 11.270000457763672,
       "momentum_1m": -6.557341013203244,
       "momentum_3m": -0.8695248067943973,
-      "volatility": 42.94867563433177,
+      "volatility": 42.94867524615065,
       "avg_volume": 5138912.833333333,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
@@ -241,10 +241,8 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egyptian billionaire Yasseen Mansour lifts Palm Hills stake as his son takes shares - Billionaires.Africa"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 51.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
@@ -296,9 +294,10 @@
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media"
+        "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media",
+        "Egyptian billionaire Ahmed Elsewedy plans to build electric cars in Algeria - Billionaires.Africa"
       ],
       "score": 49.8,
       "blurb": "Ranks high on strong 3-month momentum (+23.7%)."
