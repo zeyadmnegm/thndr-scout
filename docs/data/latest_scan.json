@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:00:19.772992+00:00",
+  "generated_at": "2026-10-16T03:24:31.011525+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -234,7 +234,7 @@
       "price": 11.130000114440918,
       "momentum_1m": -10.505651670770877,
       "momentum_3m": -1.0686364805795545,
-      "volatility": 43.09611667668981,
+      "volatility": 43.09611628654931,
       "avg_volume": 5164039.266666667,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
