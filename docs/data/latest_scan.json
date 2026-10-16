@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:11:15.270578+00:00",
+  "generated_at": "2026-10-16T20:34:54.831675+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -92,7 +92,7 @@
       "top_headlines": [
         "Arabian Cement Company stock reports stronger quarterly profit - ad-hoc-news.de"
       ],
-      "score": 63.5,
+      "score": 62.9,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+33.4%)."
     },
     {
@@ -165,10 +165,8 @@
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Ibnsina Pharma (CASE:ISPH) - Stock Analysis - Simply Wall Street"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 56.8,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and solid recent momentum (-6.6%)."
     },
@@ -209,6 +207,25 @@
       "blurb": "Ranks high on solid recent momentum (+4.6%) and strong 3-month momentum (+9.5%)."
     },
     {
+      "ticker": "ADIB.CA",
+      "name": "Abu Dhabi Islamic Bank Egypt",
+      "sector": "Banks",
+      "price": 47.02000045776367,
+      "momentum_1m": -9.594304989053558,
+      "momentum_3m": 0.2558612536900595,
+      "volatility": 33.87567547527923,
+      "avg_volume": 1527135.3,
+      "trailing_pe": 4.247758,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
+      ],
+      "score": 51.8,
+      "blurb": "Ranks high on attractive valuation (P/E 4.2) and strong 3-month momentum (+0.3%)."
+    },
+    {
       "ticker": "EGAL.CA",
       "name": "Egypt Aluminum",
       "sector": "Materials",
@@ -241,29 +258,12 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 51.4,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
-    },
-    {
-      "ticker": "ADIB.CA",
-      "name": "Abu Dhabi Islamic Bank Egypt",
-      "sector": "Banks",
-      "price": 47.02000045776367,
-      "momentum_1m": -9.594304989053558,
-      "momentum_3m": 0.2558612536900595,
-      "volatility": 33.87567547527923,
-      "avg_volume": 1527135.3,
-      "trailing_pe": 4.2717023,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
+        "Egyptian billionaire Yasseen Mansour lifts Palm Hills stake as his son takes shares - Billionaires.Africa"
       ],
-      "score": 51.2,
-      "blurb": "Ranks high on strong 3-month momentum (+0.3%) and attractive valuation (P/E 4.3)."
+      "score": 51.4,
+      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
       "ticker": "MFPC.CA",
@@ -274,7 +274,7 @@
       "momentum_3m": 16.16402310495575,
       "volatility": 34.85204244574187,
       "avg_volume": 2148198.2,
-      "trailing_pe": 8.848485,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -294,10 +294,9 @@
       "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media",
-        "Egyptian billionaire Ahmed Elsewedy plans to build electric cars in Algeria - Billionaires.Africa"
+        "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media"
       ],
       "score": 49.8,
       "blurb": "Ranks high on strong 3-month momentum (+23.7%)."
