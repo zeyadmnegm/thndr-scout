@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:14:35.220702+00:00",
+  "generated_at": "2026-10-17T10:14:49.035887+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -122,13 +122,12 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
-        "Cr\u00e9dit Agricole Egypt joined the 2nd edition of Egypt Business Forum in Paris as Official Banking Partner - Zawya"
+        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
       ],
       "score": 59.4,
-      "blurb": "Ranks high on low price volatility and positive recent news (2 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
       "ticker": "ISPH.CA",
@@ -137,15 +136,13 @@
       "price": 11.270000457763672,
       "momentum_1m": -6.557341013203244,
       "momentum_3m": -0.8695248067943973,
-      "volatility": 42.94867524615065,
+      "volatility": 42.94867563433177,
       "avg_volume": 5138912.833333333,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Ibnsina Pharma (CASE:ISPH) - Stock Analysis - Simply Wall Street"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 57.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and solid recent momentum (-6.6%)."
     },
@@ -272,7 +269,7 @@
       "momentum_3m": 16.16402310495575,
       "volatility": 34.85204244574187,
       "avg_volume": 2148198.2,
-      "trailing_pe": 8.848485,
+      "trailing_pe": 9.1060295,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -328,9 +325,10 @@
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de"
+        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de",
+        "Eastern Company stock fell 2.72 percent on EGX - AD HOC NEWS"
       ],
       "score": 46.1,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
@@ -453,10 +451,8 @@
       "trailing_pe": 9.244898,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Orascom Development Egypt to raise capital to EGP 3.65B - \u0622\u0631\u0627\u0628 \u0641\u0627\u064a\u0646\u0627\u0646\u0633"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 24.9,
       "blurb": "Ranks high on strong trading liquidity."
     },
