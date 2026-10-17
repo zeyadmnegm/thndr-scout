@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:04:37.533927+00:00",
+  "generated_at": "2026-10-17T20:13:41.983444+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -122,13 +122,12 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
-        "Cr\u00e9dit Agricole Egypt joined the 2nd edition of Egypt Business Forum in Paris as Official Banking Partner - Zawya"
+        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
       ],
       "score": 59.4,
-      "blurb": "Ranks high on low price volatility and positive recent news (2 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
       "ticker": "ISPH.CA",
@@ -137,7 +136,7 @@
       "price": 11.270000457763672,
       "momentum_1m": -6.557341013203244,
       "momentum_3m": -0.8695248067943973,
-      "volatility": 42.94867563433177,
+      "volatility": 42.94867524615065,
       "avg_volume": 5138912.833333333,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
