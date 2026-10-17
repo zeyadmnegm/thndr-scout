@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:14:49.035887+00:00",
+  "generated_at": "2026-10-17T15:04:37.533927+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -122,12 +122,13 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
+        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
+        "Cr\u00e9dit Agricole Egypt joined the 2nd edition of Egypt Business Forum in Paris as Official Banking Partner - Zawya"
       ],
       "score": 59.4,
-      "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (2 articles)."
     },
     {
       "ticker": "ISPH.CA",
@@ -325,10 +326,9 @@
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de",
-        "Eastern Company stock fell 2.72 percent on EGX - AD HOC NEWS"
+        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de"
       ],
       "score": 46.1,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
@@ -468,11 +468,10 @@
       "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": -100.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "Fintel cuts target for Edita Food Industries stock - ad-hoc-news.de",
-        "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall Street",
-        "Edita Food Industries stock secures EGP 390 million loans - AD HOC NEWS"
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall Street"
       ],
       "score": 21.0,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
