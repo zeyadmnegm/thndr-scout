@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:28:34.796071+00:00",
+  "generated_at": "2026-10-18T20:10:44.490477+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -49,14 +49,15 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
+        "Egyptian Stock Market \u2014 Live Quotes, News, Ideas - TradingView",
         "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Price - Simply Wall Street",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
         "Egypt\u2019s CIB to invest up to $38mln in MNT-Halan share offering - Zawya"
       ],
       "score": 71.1,
-      "blurb": "Ranks high on positive recent news (3 articles) and low price volatility."
+      "blurb": "Ranks high on positive recent news (4 articles) and low price volatility."
     },
     {
       "ticker": "ABUK.CA",
@@ -159,8 +160,9 @@
       "trailing_pe": 3.3012822,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
+        "What the markets are doing on 18 October - EnterpriseAM",
         "What the markets are doing on 12 October 2026 - EnterpriseAM",
         "Banque du Caire set to float 30% of its shares - EnterpriseAM",
         "What the markets are doing on 11 October 2026 - EnterpriseAM"
@@ -216,8 +218,9 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
+        "Egyptian Stock Market \u2014 Live Quotes, News, Ideas - TradingView",
         "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - ad-hoc-news.de",
         "Egypt Aluminum stock fell 1.17 percent on October 7 - ad-hoc-news.de",
         "Egypt Aluminum stock drops 1.17% on October 7, remains 14% below 52-week high - AL Circle"
@@ -254,8 +257,10 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Egyptian billionaire Yasseen Mansour lifts Palm Hills stake as his son takes shares - Billionaires.Africa"
+      ],
       "score": 52.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
