@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:13:41.983444+00:00",
+  "generated_at": "2026-10-18T03:18:38.929758+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -17,7 +17,7 @@
       "top_headlines": [
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
-      "score": 75.9,
+      "score": 76.5,
       "blurb": "Ranks high on strong 3-month momentum (+64.2%) and a high dividend yield (8.8%)."
     },
     {
@@ -34,28 +34,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 72.1,
+      "score": 72.7,
       "blurb": "Ranks high on solid recent momentum (+10.7%) and attractive valuation (P/E 2.2)."
-    },
-    {
-      "ticker": "COMI.CA",
-      "name": "Commercial International Bank",
-      "sector": "Banks",
-      "price": 125.0,
-      "momentum_1m": -5.123339658444026,
-      "momentum_3m": -7.952873938921479,
-      "volatility": 21.53088036572107,
-      "avg_volume": 4084644.7,
-      "trailing_pe": 3.9094846,
-      "dividend_yield": 7.444168600000001,
-      "sentiment_score": 100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS",
-        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
-      ],
-      "score": 71.2,
-      "blurb": "Ranks high on low price volatility and positive recent news (2 articles)."
     },
     {
       "ticker": "ABUK.CA",
@@ -71,8 +51,28 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 65.5,
+      "score": 66.1,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+19.0%)."
+    },
+    {
+      "ticker": "COMI.CA",
+      "name": "Commercial International Bank",
+      "sector": "Banks",
+      "price": 125.0,
+      "momentum_1m": -5.123339658444026,
+      "momentum_3m": -7.952873938921479,
+      "volatility": 21.53088036572107,
+      "avg_volume": 4084644.7,
+      "trailing_pe": 3.9094846,
+      "dividend_yield": 7.444168600000001,
+      "sentiment_score": 0.0,
+      "article_count": 2,
+      "top_headlines": [
+        "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Price - Simply Wall Street",
+        "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView"
+      ],
+      "score": 64.3,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
       "ticker": "ACGC.CA",
@@ -90,7 +90,7 @@
       "top_headlines": [
         "Arabian Cement Company stock reports stronger quarterly profit - ad-hoc-news.de"
       ],
-      "score": 63.2,
+      "score": 63.8,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+33.4%)."
     },
     {
@@ -107,27 +107,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 61.5,
+      "score": 62.1,
       "blurb": "Ranks high on solid recent momentum (+1.9%) and low price volatility."
-    },
-    {
-      "ticker": "CIEB.CA",
-      "name": "Credit Agricole Egypt",
-      "sector": "Banks",
-      "price": 22.989999771118164,
-      "momentum_1m": -6.696427189131581,
-      "momentum_3m": -4.92142480991985,
-      "volatility": 19.55545888005304,
-      "avg_volume": 445399.56666666665,
-      "trailing_pe": 3.9609377,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "CIEB stock was last quoted at EGP 24.64 as H1 profit reached EGP 3.61 billion - AD HOC NEWS"
-      ],
-      "score": 59.4,
-      "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
       "ticker": "ISPH.CA",
@@ -136,14 +117,14 @@
       "price": 11.270000457763672,
       "momentum_1m": -6.557341013203244,
       "momentum_3m": -0.8695248067943973,
-      "volatility": 42.94867524615065,
+      "volatility": 42.94867563433177,
       "avg_volume": 5138912.833333333,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.1,
+      "score": 57.7,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and solid recent momentum (-6.6%)."
     },
     {
@@ -162,7 +143,7 @@
       "top_headlines": [
         "Fawry stock gained 1.82 percent on October 7 - AD HOC NEWS"
       ],
-      "score": 56.7,
+      "score": 57.3,
       "blurb": "Ranks high on solid recent momentum (-0.5%) and low price volatility."
     },
     {
@@ -177,11 +158,13 @@
       "trailing_pe": 3.3012822,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 3,
       "top_headlines": [
-        "Banque du Caire set to float 30% of its shares - EnterpriseAM"
+        "What the markets are doing on 12 October 2026 - EnterpriseAM",
+        "Banque du Caire set to float 30% of its shares - EnterpriseAM",
+        "What the markets are doing on 11 October 2026 - EnterpriseAM"
       ],
-      "score": 53.3,
+      "score": 53.9,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.3)."
     },
     {
@@ -198,7 +181,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.1,
+      "score": 52.7,
       "blurb": "Ranks high on solid recent momentum (+4.6%) and strong 3-month momentum (+9.5%)."
     },
     {
@@ -217,8 +200,25 @@
       "top_headlines": [
         "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
       ],
-      "score": 52.1,
+      "score": 52.7,
       "blurb": "Ranks high on attractive valuation (P/E 4.2) and strong 3-month momentum (+0.3%)."
+    },
+    {
+      "ticker": "CIEB.CA",
+      "name": "Credit Agricole Egypt",
+      "sector": "Banks",
+      "price": 22.989999771118164,
+      "momentum_1m": -6.696427189131581,
+      "momentum_3m": -4.92142480991985,
+      "volatility": 19.55545888005304,
+      "avg_volume": 445399.56666666665,
+      "trailing_pe": 3.9609377,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 52.5,
+      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
       "ticker": "EGAL.CA",
@@ -238,7 +238,7 @@
         "Egypt Aluminum stock fell 1.17 percent on October 7 - ad-hoc-news.de",
         "Egypt Aluminum stock drops 1.17% on October 7, remains 14% below 52-week high - AL Circle"
       ],
-      "score": 51.7,
+      "score": 52.3,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and strong 3-month momentum (+1.0%)."
     },
     {
@@ -253,11 +253,9 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Yasseen Mansour Increases Palm Hills Stake - Billionaires.Africa"
-      ],
-      "score": 51.7,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 52.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -274,7 +272,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.7,
+      "score": 51.3,
       "blurb": "Ranks high on strong 3-month momentum (+16.2%) and low price volatility."
     },
     {
@@ -293,7 +291,7 @@
       "top_headlines": [
         "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media"
       ],
-      "score": 50.1,
+      "score": 50.7,
       "blurb": "Ranks high on strong 3-month momentum (+23.7%)."
     },
     {
@@ -310,7 +308,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.1,
+      "score": 50.7,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+11.6%)."
     },
     {
@@ -329,7 +327,7 @@
       "top_headlines": [
         "Eastern Company appears in board disclosure: what it means for Eastern Company stock - ad-hoc-news.de"
       ],
-      "score": 46.1,
+      "score": 46.7,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -346,7 +344,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.5,
+      "score": 46.1,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -361,11 +359,9 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "TMG partners with AXA Egypt: what it means for TMG stock - ad-hoc-news.de"
-      ],
-      "score": 42.5,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 43.1,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -382,7 +378,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 36.7,
+      "score": 37.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
     },
     {
@@ -399,7 +395,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 31.5,
+      "score": 32.1,
       "blurb": "Ranks high on solid recent momentum (-8.8%)."
     },
     {
@@ -416,7 +412,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 29.1,
+      "score": 29.7,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -433,9 +429,9 @@
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Juhayna Food Industries stock was last at EGP 25 on October 7, 2026 - AD HOC NEWS"
+        "Juhayna Food Industries stock was last at EGP 25 on October 7, 2026 - ad-hoc-news.de"
       ],
-      "score": 28.3,
+      "score": 28.9,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -452,7 +448,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 24.9,
+      "score": 25.5,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -467,10 +463,9 @@
       "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": -100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Fintel cuts target for Edita Food Industries stock - ad-hoc-news.de",
-        "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall Street"
+        "Fintel cuts target for Edita Food Industries stock - ad-hoc-news.de"
       ],
       "score": 21.0,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
