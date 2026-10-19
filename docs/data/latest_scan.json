@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:10:44.490477+00:00",
+  "generated_at": "2026-10-19T03:31:13.312953+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,8 +13,9 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - ad-hoc-news.de",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
       "score": 76.2,
@@ -49,15 +50,14 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 4,
+      "article_count": 3,
       "top_headlines": [
-        "Egyptian Stock Market \u2014 Live Quotes, News, Ideas - TradingView",
         "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Price - Simply Wall Street",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
         "Egypt\u2019s CIB to invest up to $38mln in MNT-Halan share offering - Zawya"
       ],
       "score": 71.1,
-      "blurb": "Ranks high on positive recent news (4 articles) and low price volatility."
+      "blurb": "Ranks high on positive recent news (3 articles) and low price volatility."
     },
     {
       "ticker": "ABUK.CA",
@@ -71,8 +71,10 @@
       "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Qir Fertilizers stock gained 4.00 percent ahead of results - ad-hoc-news.de"
+      ],
       "score": 65.8,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+19.0%)."
     },
@@ -88,12 +90,13 @@
       "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - ad-hoc-news.de",
         "Arabian Cement Company stock reports stronger quarterly profit - ad-hoc-news.de"
       ],
       "score": 63.5,
-      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+33.4%)."
+      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+33.4%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -199,8 +202,9 @@
       "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de",
         "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
       ],
       "score": 52.4,
@@ -218,9 +222,8 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 4,
+      "article_count": 3,
       "top_headlines": [
-        "Egyptian Stock Market \u2014 Live Quotes, News, Ideas - TradingView",
         "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - ad-hoc-news.de",
         "Egypt Aluminum stock fell 1.17 percent on October 7 - ad-hoc-news.de",
         "Egypt Aluminum stock drops 1.17% on October 7, remains 14% below 52-week high - AL Circle"
@@ -240,8 +243,10 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de"
+      ],
       "score": 52.2,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
@@ -257,10 +262,8 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egyptian billionaire Yasseen Mansour lifts Palm Hills stake as his son takes shares - Billionaires.Africa"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 52.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
