@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:03:22.643094+00:00",
+  "generated_at": "2026-10-20T03:41:23.562962+00:00",
   "results": [
     {
       "ticker": "COMI.CA",
@@ -13,15 +13,16 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 4,
+      "article_count": 5,
       "top_headlines": [
         "CIB backed MNT-Halan with EGP 2 billion: target for COMI stock rose to EGP 150.00 - ad-hoc-news.de",
         "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Price - Simply Wall Street",
         "CIBEY Stock Price and Chart \u2014 OTC:CIBEY - TradingView",
+        "CIB Egypt commits up to $37M to anchor MNT-Halan\u2019s upcoming Egyptian Exchange flotation - Innovation Village",
         "Egypt\u2019s CIB to invest up to $38mln in MNT-Halan share offering - Zawya"
       ],
       "score": 76.6,
-      "blurb": "Ranks high on low price volatility and positive recent news (4 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (5 articles)."
     },
     {
       "ticker": "AMOC.CA",
@@ -113,7 +114,7 @@
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Fawry stock gained 1.82 percent on October 7 - AD HOC NEWS"
+        "Fawry stock gained 1.82 percent on October 7 - ad-hoc-news.de"
       ],
       "score": 60.9,
       "blurb": "Ranks high on solid recent momentum (-2.9%) and low price volatility."
