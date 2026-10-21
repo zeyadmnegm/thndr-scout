@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:17:26.106209+00:00",
+  "generated_at": "2026-10-21T16:43:33.098842+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -18,7 +18,7 @@
         "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - AD HOC NEWS",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
-      "score": 75.5,
+      "score": 75.2,
       "blurb": "Ranks high on strong 3-month momentum (+65.7%) and a high dividend yield (8.8%)."
     },
     {
@@ -35,7 +35,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 72.9,
+      "score": 72.6,
       "blurb": "Ranks high on solid recent momentum (+5.7%) and attractive valuation (P/E 2.2)."
     },
     {
@@ -54,7 +54,7 @@
       "top_headlines": [
         "Abu Qir Fertilizers stock gained 4.00 percent ahead of results - AD HOC NEWS"
       ],
-      "score": 66.9,
+      "score": 66.6,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+28.3%)."
     },
     {
@@ -71,7 +71,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 63.3,
+      "score": 63.0,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -83,16 +83,15 @@
       "momentum_3m": 30.8910868090984,
       "volatility": 46.999887885489485,
       "avg_volume": 1184242.8333333333,
-      "trailing_pe": 4.4160585,
+      "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - ad-hoc-news.de",
-        "Arabian Cement Company stock reports stronger quarterly profit - ad-hoc-news.de"
+        "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - ad-hoc-news.de"
       ],
-      "score": 63.2,
-      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+30.9%)."
+      "score": 62.9,
+      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+30.9%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -108,8 +107,27 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.9,
+      "score": 59.0,
       "blurb": "Ranks high on solid recent momentum (+0.4%) and low price volatility."
+    },
+    {
+      "ticker": "SKPC.CA",
+      "name": "Sidi Kerir Petrochemicals",
+      "sector": "Chemicals",
+      "price": 15.6899995803833,
+      "momentum_1m": -12.833335664537216,
+      "momentum_3m": -1.6300954983761495,
+      "volatility": 34.201593584990206,
+      "avg_volume": 5162584.566666666,
+      "trailing_pe": 58.06383,
+      "dividend_yield": 1.8587360000000002,
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
+      ],
+      "score": 58.5,
+      "blurb": "Ranks high on positive recent news (1 articles) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "FWRY.CA",
@@ -120,14 +138,14 @@
       "momentum_3m": -3.6749435594601088,
       "volatility": 25.142017762975293,
       "avg_volume": 5364010.1,
-      "trailing_pe": 8.119048,
+      "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "Fawry stock gained 1.82 percent on October 7 - ad-hoc-news.de"
       ],
-      "score": 56.1,
+      "score": 56.4,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-1.5%)."
     },
     {
@@ -142,11 +160,9 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Yasseen Mansour Increases Palm Hills Stake - Billionaires.Africa"
-      ],
-      "score": 55.3,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 55.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -163,7 +179,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.7,
+      "score": 53.4,
       "blurb": "Ranks high on strong 3-month momentum (+23.3%) and solid recent momentum (-6.4%)."
     },
     {
@@ -180,7 +196,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.9,
+      "score": 52.6,
       "blurb": "Ranks high on solid recent momentum (+5.7%) and strong 3-month momentum (+4.8%)."
     },
     {
@@ -197,7 +213,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.1,
+      "score": 51.8,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+17.0%)."
     },
     {
@@ -214,25 +230,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.5,
+      "score": 51.2,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
-    },
-    {
-      "ticker": "SKPC.CA",
-      "name": "Sidi Kerir Petrochemicals",
-      "sector": "Chemicals",
-      "price": 15.6899995803833,
-      "momentum_1m": -12.833335664537216,
-      "momentum_3m": -1.6300954983761495,
-      "volatility": 34.201593584990206,
-      "avg_volume": 5162584.566666666,
-      "trailing_pe": 58.06383,
-      "dividend_yield": 1.8587360000000002,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 51.3,
-      "blurb": "Ranks high on a high dividend yield (1.9%) and strong trading liquidity."
     },
     {
       "ticker": "EGAL.CA",
@@ -250,7 +249,7 @@
       "top_headlines": [
         "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - ad-hoc-news.de"
       ],
-      "score": 50.1,
+      "score": 49.8,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and strong 3-month momentum (+0.7%)."
     },
     {
@@ -265,11 +264,13 @@
       "trailing_pe": 3.4333334,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 3,
       "top_headlines": [
+        "What the markets are doing on 12 October 2026 - EnterpriseAM",
+        "Banque du Caire set to float 30% of its shares - EnterpriseAM",
         "What the markets are doing on 11 October 2026 - EnterpriseAM"
       ],
-      "score": 48.9,
+      "score": 48.6,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.4)."
     },
     {
@@ -289,7 +290,7 @@
         "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de",
         "Cr\u00e9dit Agricole Egypt for Development and Education first celebrate the graduation of the 2026 cohort of Ebhar Misr Program - Zawya"
       ],
-      "score": 48.5,
+      "score": 48.2,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -306,7 +307,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.5,
+      "score": 47.2,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -325,7 +326,7 @@
       "top_headlines": [
         "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media"
       ],
-      "score": 45.3,
+      "score": 45.0,
       "blurb": "Ranks high on strong 3-month momentum (+20.8%)."
     },
     {
@@ -340,11 +341,13 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 3,
       "top_headlines": [
+        "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa",
+        "TMGH Stock Price and Chart \u2014 EGX:TMGH - TradingView",
         "TMG partners with AXA Egypt: what it means for TMG stock - ad-hoc-news.de"
       ],
-      "score": 44.5,
+      "score": 44.2,
       "blurb": "Ranks high on low price volatility."
     },
     {
@@ -363,7 +366,7 @@
       "top_headlines": [
         "Raya Holding Company for Financial Investments (S.A.E) (CASE:RAYA) - Stock Analysis - Simply Wall Street"
       ],
-      "score": 43.6,
+      "score": 43.3,
       "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.6)."
     },
     {
@@ -375,7 +378,7 @@
       "momentum_3m": -8.157899735859253,
       "volatility": 34.72951471216326,
       "avg_volume": 1449673.5333333334,
-      "trailing_pe": 4.281356,
+      "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -383,8 +386,8 @@
         "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de",
         "Abu Dhabi Islamic Bank Egypt stock adds payment security certification - ad-hoc-news.de"
       ],
-      "score": 43.3,
-      "blurb": "Ranks high on attractive valuation (P/E 4.3) and low price volatility."
+      "score": 43.0,
+      "blurb": "Ranks high on attractive valuation (P/E 4.2) and low price volatility."
     },
     {
       "ticker": "OCDI.CA",
@@ -400,7 +403,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 37.7,
+      "score": 37.4,
       "blurb": "Ranks high on strong 3-month momentum (-3.3%)."
     },
     {
@@ -419,7 +422,7 @@
       "top_headlines": [
         "Juhayna Allocates 5% of its pink product proceeds during October to Support Women Battling Breast Cancer Through \u201c5 Kheir\u201d Campaign, Continuing Its 11-Year Partnership with Baheya Foundation - almotawwer.com"
       ],
-      "score": 32.6,
+      "score": 32.3,
       "blurb": "Ranks high on positive recent news (1 articles)."
     },
     {
@@ -436,7 +439,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 32.5,
+      "score": 31.6,
       "blurb": "Ranks high on solid recent momentum (-8.6%)."
     },
     {
@@ -448,14 +451,14 @@
       "momentum_3m": -33.33332880012196,
       "volatility": 56.49708727424942,
       "avg_volume": 2356240.7,
-      "trailing_pe": 19.804054,
+      "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": -100.0,
       "article_count": 1,
       "top_headlines": [
         "Fintel cuts target for Edita Food Industries stock - ad-hoc-news.de"
       ],
-      "score": 25.6,
+      "score": 26.2,
       "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (-8.1%)."
     },
     {
@@ -472,7 +475,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.3,
+      "score": 25.0,
       "blurb": "Ranks high on strong trading liquidity."
     }
   ]
