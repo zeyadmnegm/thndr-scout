@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:16:01.509105+00:00",
+  "generated_at": "2026-10-22T16:43:53.565662+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -69,8 +69,11 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 2,
+      "top_headlines": [
+        "Commercial International Bank - Egypt (CIB) S.A.E. Sponsored GDR RegS Financial Disclosures & Filings - TradingView",
+        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
+      ],
       "score": 66.1,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
@@ -90,7 +93,7 @@
       "top_headlines": [
         "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - AD HOC NEWS"
       ],
-      "score": 59.2,
+      "score": 59.8,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+22.4%)."
     },
     {
@@ -124,8 +127,10 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
+      ],
       "score": 57.7,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
@@ -209,8 +214,10 @@
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Eastern Company appears in board disclosure: what it means for Eastern Company stock - AD HOC NEWS"
+      ],
       "score": 50.3,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
@@ -299,15 +306,15 @@
       "momentum_3m": -4.685593497651097,
       "volatility": 35.051875442486505,
       "avg_volume": 1432633.5333333334,
-      "trailing_pe": 4.247758,
+      "trailing_pe": 4.281356,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - AD HOC NEWS"
       ],
-      "score": 47.9,
-      "blurb": "Ranks high on attractive valuation (P/E 4.2) and low price volatility."
+      "score": 47.3,
+      "blurb": "Ranks high on attractive valuation (P/E 4.3) and low price volatility."
     },
     {
       "ticker": "ISPH.CA",
