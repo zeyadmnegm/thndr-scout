@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:43:53.565662+00:00",
+  "generated_at": "2026-10-22T21:15:21.448195+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -71,7 +71,7 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "Commercial International Bank - Egypt (CIB) S.A.E. Sponsored GDR RegS Financial Disclosures & Filings - TradingView",
+        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
         "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
       ],
       "score": 66.1,
@@ -180,8 +180,10 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Yasseen Mansour Increases Palm Hills Stake - Billionaires.Africa"
+      ],
       "score": 53.9,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
@@ -455,7 +457,7 @@
       "sentiment_score": -100.0,
       "article_count": 1,
       "top_headlines": [
-        "Fintel cuts target for Edita Food Industries stock - ad-hoc-news.de"
+        "Fintel cuts target for Edita Food Industries stock - AD HOC NEWS"
       ],
       "score": 25.4,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
