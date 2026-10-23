@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:34:41.186285+00:00",
+  "generated_at": "2026-10-23T21:04:12.773947+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -273,10 +273,9 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa",
-        "TMGH Stock Price and Chart \u2014 EGX:TMGH - TradingView",
         "TMG partners with AXA Egypt: what it means for TMG stock - ad-hoc-news.de"
       ],
       "score": 49.2,
