@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:07:06.131658+00:00",
+  "generated_at": "2026-10-23T16:34:41.186285+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -33,10 +33,8 @@
       "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "TELECOM EGYPT S A E (TEEG) Equity Price and Quote - London Stock Exchange"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 70.0,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+30.0%)."
     },
@@ -71,33 +69,13 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
-        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
+        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView"
       ],
       "score": 66.6,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-2.3%)."
-    },
-    {
-      "ticker": "ACGC.CA",
-      "name": "Arabian Cement",
-      "sector": "Materials",
-      "price": 13.0,
-      "momentum_1m": -7.076481682022484,
-      "momentum_3m": 21.04283311960018,
-      "volatility": 46.9293106848887,
-      "avg_volume": 1105683.7333333334,
-      "trailing_pe": 4.260564,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - AD HOC NEWS"
-      ],
-      "score": 60.7,
-      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+21.0%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -115,6 +93,25 @@
       "top_headlines": [],
       "score": 60.4,
       "blurb": "Ranks high on solid recent momentum (+0.4%) and low price volatility."
+    },
+    {
+      "ticker": "ACGC.CA",
+      "name": "Arabian Cement",
+      "sector": "Materials",
+      "price": 13.0,
+      "momentum_1m": -7.076481682022484,
+      "momentum_3m": 21.04283311960018,
+      "volatility": 46.9293106848887,
+      "avg_volume": 1105683.7333333334,
+      "trailing_pe": 4.260564,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - AD HOC NEWS"
+      ],
+      "score": 60.1,
+      "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+21.0%)."
     },
     {
       "ticker": "FWRY.CA",
@@ -167,9 +164,10 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS"
+        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS",
+        "Cr\u00e9dit Agricole Egypt for Development and Education first celebrate the graduation of the 2026 cohort of Ebhar Misr Program - Zawya"
       ],
       "score": 56.2,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
@@ -241,7 +239,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.8,
+      "score": 52.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -293,17 +291,16 @@
       "momentum_3m": -8.387620157724374,
       "volatility": 35.457031217643944,
       "avg_volume": 1448134.4666666666,
-      "trailing_pe": 4.281356,
+      "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
-        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - AD HOC NEWS",
-        "Abu Dhabi Islamic Bank-Egypt Advanced Charts | ADIB - Barron's"
+        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - AD HOC NEWS"
       ],
-      "score": 47.6,
-      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.3)."
+      "score": 48.2,
+      "blurb": "Ranks high on attractive valuation (P/E 4.2) and low price volatility."
     },
     {
       "ticker": "ISPH.CA",
@@ -314,13 +311,13 @@
       "momentum_3m": -12.490025887111777,
       "volatility": 43.98318735748522,
       "avg_volume": 4569834.933333334,
-      "trailing_pe": 3.3444445,
+      "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.2,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
+      "score": 45.6,
+      "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
       "ticker": "HELI.CA",
@@ -458,12 +455,11 @@
       "momentum_3m": -34.50881553310633,
       "volatility": 56.41488253304632,
       "avg_volume": 2236165.8666666667,
-      "trailing_pe": 18.550632,
+      "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": -100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Edita Food Industries stock: Fintel cuts target from EGP 36.62 to EGP 26.69 - AD HOC NEWS",
         "Fintel cuts target for Edita Food Industries stock - AD HOC NEWS"
       ],
       "score": 25.4,
