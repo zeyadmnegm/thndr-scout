@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:31:49.966078+00:00",
+  "generated_at": "2026-10-24T10:24:05.683298+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -18,7 +18,7 @@
         "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - AD HOC NEWS",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
-      "score": 75.7,
+      "score": 76.4,
       "blurb": "Ranks high on strong 3-month momentum (+61.6%) and solid recent momentum (+0.8%)."
     },
     {
@@ -35,7 +35,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 69.8,
+      "score": 70.0,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+30.0%)."
     },
     {
@@ -54,7 +54,7 @@
       "top_headlines": [
         "Abu Qir Fertilizers stock gained 4.00 percent ahead of results - AD HOC NEWS"
       ],
-      "score": 68.4,
+      "score": 69.0,
       "blurb": "Ranks high on strong 3-month momentum (+31.1%) and a high dividend yield (10.2%)."
     },
     {
@@ -69,14 +69,13 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 4,
+      "article_count": 3,
       "top_headlines": [
         "Commercial International Bank - Egypt (CIB) S.A.E. Estimates \u2013 EGX:COMI - TradingView",
         "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
         "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
       ],
-      "score": 65.9,
+      "score": 66.6,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-2.3%)."
     },
     {
@@ -93,7 +92,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.5,
+      "score": 60.4,
       "blurb": "Ranks high on solid recent momentum (+0.4%) and low price volatility."
     },
     {
@@ -112,7 +111,7 @@
       "top_headlines": [
         "Arabian Cement reports 54.6 percent H1 profit growth. Arabian Cement stock yields 7.98 percent - AD HOC NEWS"
       ],
-      "score": 59.2,
+      "score": 60.1,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+21.0%)."
     },
     {
@@ -132,7 +131,7 @@
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - AD HOC NEWS",
         "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
       ],
-      "score": 57.3,
+      "score": 58.0,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -147,12 +146,13 @@
       "trailing_pe": 58.06383,
       "dividend_yield": 1.8587360000000002,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "SKPC.CA - | Stock Price & Latest News - Reuters",
         "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
       ],
-      "score": 55.5,
-      "blurb": "Ranks high on positive recent news (1 articles) and a high dividend yield (1.9%)."
+      "score": 56.3,
+      "blurb": "Ranks high on positive recent news (2 articles) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "CIEB.CA",
@@ -166,12 +166,11 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS",
-        "Cr\u00e9dit Agricole Egypt for Development and Education first celebrate the graduation of the 2026 cohort of Ebhar Misr Program - Zawya"
+        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS"
       ],
-      "score": 55.4,
+      "score": 56.2,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -188,7 +187,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.2,
+      "score": 56.0,
       "blurb": "Ranks high on strong 3-month momentum (+23.3%) and solid recent momentum (-4.6%)."
     },
     {
@@ -207,7 +206,7 @@
       "top_headlines": [
         "Eastern Company appears in board disclosure: what it means for Eastern Company stock - AD HOC NEWS"
       ],
-      "score": 52.8,
+      "score": 54.0,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -224,7 +223,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.5,
+      "score": 53.2,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+14.5%)."
     },
     {
@@ -241,7 +240,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.5,
+      "score": 52.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -260,7 +259,7 @@
       "top_headlines": [
         "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - AD HOC NEWS"
       ],
-      "score": 50.6,
+      "score": 51.6,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and strong 3-month momentum (+0.4%)."
     },
     {
@@ -280,7 +279,7 @@
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa",
         "TMG partners with AXA Egypt: what it means for TMG stock - ad-hoc-news.de"
       ],
-      "score": 48.1,
+      "score": 49.2,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-6.3%)."
     },
     {
@@ -295,12 +294,13 @@
       "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 3,
       "top_headlines": [
+        "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
         "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
         "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - AD HOC NEWS"
       ],
-      "score": 47.1,
+      "score": 48.2,
       "blurb": "Ranks high on attractive valuation (P/E 4.2) and low price volatility."
     },
     {
@@ -317,7 +317,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.4,
+      "score": 45.6,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -336,27 +336,8 @@
       "top_headlines": [
         "Banque du Caire set to float 30% of its shares - EnterpriseAM"
       ],
-      "score": 44.0,
+      "score": 45.6,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
-    },
-    {
-      "ticker": "SWDY.CA",
-      "name": "Elsewedy Electric",
-      "sector": "Industrials",
-      "price": 106.94000244140625,
-      "momentum_1m": -13.758062547253026,
-      "momentum_3m": 10.991182288528577,
-      "volatility": 47.04140433245258,
-      "avg_volume": 499898.73333333334,
-      "trailing_pe": 6.266754,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media"
-      ],
-      "score": 41.9,
-      "blurb": "Ranks high on strong 3-month momentum (+11.0%)."
     },
     {
       "ticker": "RAYA.CA",
@@ -374,8 +355,27 @@
       "top_headlines": [
         "Raya Holding Company for Financial Investments (S.A.E) (CASE:RAYA) - Stock Analysis - Simply Wall Street"
       ],
-      "score": 41.9,
+      "score": 43.5,
       "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.6)."
+    },
+    {
+      "ticker": "SWDY.CA",
+      "name": "Elsewedy Electric",
+      "sector": "Industrials",
+      "price": 106.94000244140625,
+      "momentum_1m": -13.758062547253026,
+      "momentum_3m": 10.991182288528577,
+      "volatility": 47.04140433245258,
+      "avg_volume": 499898.73333333334,
+      "trailing_pe": 6.266754,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Elsewedy Electric Studies Establishing an Electric & Hybrid Car Factory in Algeria - waya.media"
+      ],
+      "score": 43.2,
+      "blurb": "Ranks high on strong 3-month momentum (+11.0%)."
     },
     {
       "ticker": "EFIH.CA",
@@ -391,24 +391,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 36.9,
-      "blurb": "No single standout factor; ranks mid-pack across the board."
-    },
-    {
-      "ticker": "OCDI.CA",
-      "name": "Sixth of October Development (SODIC)",
-      "sector": "Real Estate",
-      "price": 24.530000686645508,
-      "momentum_1m": -12.92154554416074,
-      "momentum_3m": -9.483393574346655,
-      "volatility": 48.6012402576296,
-      "avg_volume": 1635126.9666666666,
-      "trailing_pe": 13.105421,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 32.5,
+      "score": 37.8,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -428,8 +411,25 @@
         "Juhayna Food Industries Estimates \u2013 EGX:JUFO - TradingView",
         "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - AD HOC NEWS"
       ],
-      "score": 32.3,
+      "score": 33.7,
       "blurb": "Ranks high on positive recent news (2 articles)."
+    },
+    {
+      "ticker": "OCDI.CA",
+      "name": "Sixth of October Development (SODIC)",
+      "sector": "Real Estate",
+      "price": 24.530000686645508,
+      "momentum_1m": -12.92154554416074,
+      "momentum_3m": -9.483393574346655,
+      "volatility": 48.6012402576296,
+      "avg_volume": 1635126.9666666666,
+      "trailing_pe": 13.105421,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 33.6,
+      "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
       "ticker": "MTIE.CA",
@@ -445,7 +445,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.7,
+      "score": 29.0,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -464,8 +464,25 @@
       "top_headlines": [
         "Fintel cuts target for Edita Food Industries stock - AD HOC NEWS"
       ],
-      "score": 24.0,
+      "score": 25.4,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
+    },
+    {
+      "ticker": "ORHD.CA",
+      "name": "Orascom Development Egypt",
+      "sector": "Real Estate",
+      "price": 9.800000190734863,
+      "momentum_1m": -75.80246866485219,
+      "momentum_3m": -75.43859695248723,
+      "volatility": 107.30159683184593,
+      "avg_volume": 8262678.666666667,
+      "trailing_pe": 9.244898,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 25.0,
+      "blurb": "Ranks high on strong trading liquidity."
     }
   ]
 }
