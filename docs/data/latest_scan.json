@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:24:05.683298+00:00",
+  "generated_at": "2026-10-24T15:28:58.016184+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -73,7 +73,7 @@
       "top_headlines": [
         "Commercial International Bank - Egypt (CIB) S.A.E. Estimates \u2013 EGX:COMI - TradingView",
         "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
+        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView"
       ],
       "score": 66.6,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-2.3%)."
@@ -146,13 +146,12 @@
       "trailing_pe": 58.06383,
       "dividend_yield": 1.8587360000000002,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "SKPC.CA - | Stock Price & Latest News - Reuters",
         "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
       ],
       "score": 56.3,
-      "blurb": "Ranks high on positive recent news (2 articles) and a high dividend yield (1.9%)."
+      "blurb": "Ranks high on positive recent news (1 articles) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "CIEB.CA",
@@ -166,9 +165,10 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS"
+        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS",
+        "Cr\u00e9dit Agricole Egypt for Development and Education first celebrate the graduation of the 2026 cohort of Ebhar Misr Program - Zawya"
       ],
       "score": 56.2,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
