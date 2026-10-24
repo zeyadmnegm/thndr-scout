@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:28:58.016184+00:00",
+  "generated_at": "2026-10-24T20:19:59.380006+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -126,10 +126,9 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Fawry stock: Fawry discloses September ownership data for Fawry stock - AD HOC NEWS",
-        "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
+        "Fawry stock: Fawry discloses September ownership data for Fawry stock - AD HOC NEWS"
       ],
       "score": 58.0,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
