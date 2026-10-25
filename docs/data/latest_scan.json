@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:19:59.380006+00:00",
+  "generated_at": "2026-10-25T03:28:21.909382+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -126,8 +126,9 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - AD HOC NEWS"
       ],
       "score": 58.0,
@@ -145,12 +146,13 @@
       "trailing_pe": 58.06383,
       "dividend_yield": 1.8587360000000002,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "SKPC.CA - | Stock Price & Latest News - Reuters",
         "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
       ],
       "score": 56.3,
-      "blurb": "Ranks high on positive recent news (1 articles) and a high dividend yield (1.9%)."
+      "blurb": "Ranks high on positive recent news (2 articles) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "CIEB.CA",
@@ -408,7 +410,7 @@
       "article_count": 2,
       "top_headlines": [
         "Juhayna Food Industries Estimates \u2013 EGX:JUFO - TradingView",
-        "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - AD HOC NEWS"
+        "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
       ],
       "score": 33.7,
       "blurb": "Ranks high on positive recent news (2 articles)."
