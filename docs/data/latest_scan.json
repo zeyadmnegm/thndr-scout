@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:39:05.873931+00:00",
+  "generated_at": "2026-10-25T20:27:28.539517+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,9 +13,8 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - AD HOC NEWS",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
       "score": 76.7,
@@ -33,8 +32,10 @@
       "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Egyptian Stock Market \u2014 Live Quotes, News, Ideas - TradingView"
+      ],
       "score": 70.3,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+30.0%)."
     },
@@ -69,11 +70,12 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
         "Commercial International Bank - Egypt (CIB) S.A.E. Estimates \u2013 EGX:COMI - TradingView",
         "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView"
+        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
+        "Egyptian Stock Market \u2014 Live Quotes, News, Ideas - TradingView"
       ],
       "score": 66.9,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-2.3%)."
@@ -126,9 +128,8 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
-        "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de",
         "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
       ],
