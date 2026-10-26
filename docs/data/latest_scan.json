@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T20:27:28.539517+00:00",
+  "generated_at": "2026-10-26T03:30:39.542441+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,8 +13,9 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - AD HOC NEWS",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
       "score": 76.7,
@@ -170,7 +171,7 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - AD HOC NEWS",
+        "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de",
         "Cr\u00e9dit Agricole Egypt for Development and Education first celebrate the graduation of the 2026 cohort of Ebhar Misr Program - Zawya"
       ],
       "score": 56.5,
