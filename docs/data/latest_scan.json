@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:34:18.304667+00:00",
+  "generated_at": "2026-10-27T21:52:41.440480+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -15,10 +15,10 @@
       "sentiment_score": 0.0,
       "article_count": 2,
       "top_headlines": [
-        "Alexandria Mineral Oils (CASE:AMOC) - Stock Analysis - Simply Wall Street",
+        "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - AD HOC NEWS",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
-      "score": 77.2,
+      "score": 76.9,
       "blurb": "Ranks high on strong 3-month momentum (+54.9%) and a high dividend yield (8.8%)."
     },
     {
@@ -37,7 +37,7 @@
       "top_headlines": [
         "Abu Qir Fertilizers stock gained 4.00 percent ahead of results - ad-hoc-news.de"
       ],
-      "score": 71.0,
+      "score": 70.7,
       "blurb": "Ranks high on solid recent momentum (+1.1%) and strong 3-month momentum (+23.9%)."
     },
     {
@@ -52,15 +52,13 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 5,
+      "article_count": 3,
       "top_headlines": [
         "Commercial International Bank - Egypt (CIB) S.A.E. Estimates \u2013 EGX:COMI - TradingView",
         "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
-        "CBKD Stock Price and Chart \u2014 LSIN:CBKD - TradingView",
         "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
       ],
-      "score": 66.8,
+      "score": 66.5,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -77,7 +75,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 63.8,
+      "score": 63.5,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+11.2%)."
     },
     {
@@ -94,7 +92,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 63.6,
+      "score": 63.3,
       "blurb": "Ranks high on solid recent momentum (+1.1%) and low price volatility."
     },
     {
@@ -111,7 +109,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.4,
+      "score": 59.1,
       "blurb": "Ranks high on strong 3-month momentum (+22.0%) and solid recent momentum (-0.9%)."
     },
     {
@@ -130,7 +128,7 @@
       "top_headlines": [
         "Eastern Company appears in board disclosure: what it means for Eastern Company stock - AD HOC NEWS"
       ],
-      "score": 58.0,
+      "score": 57.7,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -147,7 +145,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.4,
+      "score": 55.1,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+11.3%)."
     },
     {
@@ -166,7 +164,7 @@
       "top_headlines": [
         "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - ad-hoc-news.de"
       ],
-      "score": 54.4,
+      "score": 54.1,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and strong 3-month momentum (-2.6%)."
     },
     {
@@ -187,7 +185,7 @@
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de",
         "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
       ],
-      "score": 54.0,
+      "score": 53.7,
       "blurb": "Ranks high on strong trading liquidity and low price volatility."
     },
     {
@@ -204,7 +202,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.0,
+      "score": 53.7,
       "blurb": "Ranks high on strong 3-month momentum (+14.5%) and attractive valuation (P/E 4.3)."
     },
     {
@@ -223,7 +221,7 @@
       "top_headlines": [
         "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de"
       ],
-      "score": 53.0,
+      "score": 52.7,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -242,7 +240,7 @@
       "top_headlines": [
         "SKPC.CA - | Stock Price & Latest News - Reuters"
       ],
-      "score": 52.6,
+      "score": 52.3,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -259,7 +257,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.2,
+      "score": 51.9,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -276,7 +274,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.4,
+      "score": 50.1,
       "blurb": "Ranks high on strong 3-month momentum (+8.4%) and solid recent momentum (-8.8%)."
     },
     {
@@ -291,12 +289,13 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 3,
       "top_headlines": [
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa",
-        "TMGH Stock Price and Chart \u2014 EGX:TMGH - TradingView"
+        "TMGH Stock Price and Chart \u2014 EGX:TMGH - TradingView",
+        "TMG partners with AXA Egypt: what it means for TMG stock - ad-hoc-news.de"
       ],
-      "score": 48.4,
+      "score": 48.1,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-9.7%)."
     },
     {
@@ -313,8 +312,29 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.2,
+      "score": 47.9,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
+    },
+    {
+      "ticker": "ADIB.CA",
+      "name": "Abu Dhabi Islamic Bank Egypt",
+      "sector": "Banks",
+      "price": 44.5,
+      "momentum_1m": -14.258191345503224,
+      "momentum_3m": -14.669225890784821,
+      "volatility": 35.618619571762494,
+      "avg_volume": 1589582.2333333334,
+      "trailing_pe": 4.247758,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 3,
+      "top_headlines": [
+        "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
+        "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
+        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de"
+      ],
+      "score": 46.9,
+      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.2)."
     },
     {
       "ticker": "EFIH.CA",
@@ -330,7 +350,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.6,
+      "score": 46.3,
       "blurb": "Ranks high on strong 3-month momentum (-8.9%) and solid recent momentum (-10.3%)."
     },
     {
@@ -367,7 +387,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.0,
+      "score": 43.7,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.9)."
     },
     {
@@ -384,30 +404,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.4,
+      "score": 40.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
-    },
-    {
-      "ticker": "ADIB.CA",
-      "name": "Abu Dhabi Islamic Bank Egypt",
-      "sector": "Banks",
-      "price": 44.5,
-      "momentum_1m": -14.258191345503224,
-      "momentum_3m": -14.669225890784821,
-      "volatility": 35.618619571762494,
-      "avg_volume": 1589582.2333333334,
-      "trailing_pe": 4.1913714,
-      "dividend_yield": 0.0,
-      "sentiment_score": -100.0,
-      "article_count": 4,
-      "top_headlines": [
-        "Analysis: What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
-        "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
-        "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
-        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de"
-      ],
-      "score": 39.7,
-      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.2)."
     },
     {
       "ticker": "ORHD.CA",
@@ -425,7 +423,7 @@
       "top_headlines": [
         "Orascom Development Egypt (S.A.E) Estimates \u2013 EGX:ORHD - TradingView"
       ],
-      "score": 26.2,
+      "score": 25.9,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -442,7 +440,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.2,
+      "score": 24.9,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -459,7 +457,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.0,
+      "score": 24.7,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -478,7 +476,7 @@
       "top_headlines": [
         "Fintel cuts target for Edita Food Industries stock - AD HOC NEWS"
       ],
-      "score": 24.5,
+      "score": 24.2,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
