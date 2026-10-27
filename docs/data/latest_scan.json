@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:41:51.439906+00:00",
+  "generated_at": "2026-10-27T17:34:18.304667+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,11 +13,12 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Alexandria Mineral Oils (CASE:AMOC) - Stock Analysis - Simply Wall Street",
         "AMOC completes acid gas project: what it means for AMOC stock - ad-hoc-news.de"
       ],
-      "score": 76.6,
+      "score": 77.2,
       "blurb": "Ranks high on strong 3-month momentum (+54.9%) and a high dividend yield (8.8%)."
     },
     {
@@ -36,7 +37,7 @@
       "top_headlines": [
         "Abu Qir Fertilizers stock gained 4.00 percent ahead of results - ad-hoc-news.de"
       ],
-      "score": 70.4,
+      "score": 71.0,
       "blurb": "Ranks high on solid recent momentum (+1.1%) and strong 3-month momentum (+23.9%)."
     },
     {
@@ -59,7 +60,7 @@
         "CBKD Stock Price and Chart \u2014 LSIN:CBKD - TradingView",
         "COMI Stock Price and Chart \u2014 EGX:COMI - TradingView"
       ],
-      "score": 66.2,
+      "score": 66.8,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -76,7 +77,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 63.2,
+      "score": 63.8,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+11.2%)."
     },
     {
@@ -93,28 +94,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 63.0,
+      "score": 63.6,
       "blurb": "Ranks high on solid recent momentum (+1.1%) and low price volatility."
-    },
-    {
-      "ticker": "SKPC.CA",
-      "name": "Sidi Kerir Petrochemicals",
-      "sector": "Chemicals",
-      "price": 14.319999694824219,
-      "momentum_1m": -12.362303787639494,
-      "momentum_3m": -10.444028143830074,
-      "volatility": 34.17982600002578,
-      "avg_volume": 4373863.166666667,
-      "trailing_pe": 58.06383,
-      "dividend_yield": 1.8587360000000002,
-      "sentiment_score": 100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "SKPC.CA - | Stock Price & Latest News - Reuters",
-        "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
-      ],
-      "score": 59.5,
-      "blurb": "Ranks high on positive recent news (2 articles) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "MFPC.CA",
@@ -130,7 +111,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.8,
+      "score": 59.4,
       "blurb": "Ranks high on strong 3-month momentum (+22.0%) and solid recent momentum (-0.9%)."
     },
     {
@@ -149,7 +130,7 @@
       "top_headlines": [
         "Eastern Company appears in board disclosure: what it means for Eastern Company stock - AD HOC NEWS"
       ],
-      "score": 57.4,
+      "score": 58.0,
       "blurb": "Ranks high on a high dividend yield (13.4%) and low price volatility."
     },
     {
@@ -166,7 +147,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.8,
+      "score": 55.4,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+11.3%)."
     },
     {
@@ -185,7 +166,7 @@
       "top_headlines": [
         "Egypt Aluminum schedules meeting. Analysts set EGP 391.50 target for Egypt Aluminum stock - ad-hoc-news.de"
       ],
-      "score": 53.8,
+      "score": 54.4,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and strong 3-month momentum (-2.6%)."
     },
     {
@@ -200,12 +181,13 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 3,
       "top_headlines": [
+        "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de",
         "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
       ],
-      "score": 53.4,
+      "score": 54.0,
       "blurb": "Ranks high on strong trading liquidity and low price volatility."
     },
     {
@@ -222,7 +204,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.4,
+      "score": 54.0,
       "blurb": "Ranks high on strong 3-month momentum (+14.5%) and attractive valuation (P/E 4.3)."
     },
     {
@@ -241,8 +223,27 @@
       "top_headlines": [
         "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de"
       ],
-      "score": 52.4,
+      "score": 53.0,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
+    },
+    {
+      "ticker": "SKPC.CA",
+      "name": "Sidi Kerir Petrochemicals",
+      "sector": "Chemicals",
+      "price": 14.319999694824219,
+      "momentum_1m": -12.362303787639494,
+      "momentum_3m": -10.444028143830074,
+      "volatility": 34.17982600002578,
+      "avg_volume": 4373863.166666667,
+      "trailing_pe": 58.06383,
+      "dividend_yield": 1.8587360000000002,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "SKPC.CA - | Stock Price & Latest News - Reuters"
+      ],
+      "score": 52.6,
+      "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
       "ticker": "PHDC.CA",
@@ -258,7 +259,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.6,
+      "score": 52.2,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -275,7 +276,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.8,
+      "score": 50.4,
       "blurb": "Ranks high on strong 3-month momentum (+8.4%) and solid recent momentum (-8.8%)."
     },
     {
@@ -290,11 +291,12 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa"
+        "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa",
+        "TMGH Stock Price and Chart \u2014 EGX:TMGH - TradingView"
       ],
-      "score": 47.8,
+      "score": 48.4,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-9.7%)."
     },
     {
@@ -311,29 +313,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.6,
+      "score": 48.2,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
-    },
-    {
-      "ticker": "ADIB.CA",
-      "name": "Abu Dhabi Islamic Bank Egypt",
-      "sector": "Banks",
-      "price": 44.5,
-      "momentum_1m": -14.258191345503224,
-      "momentum_3m": -14.669225890784821,
-      "volatility": 35.618619571762494,
-      "avg_volume": 1589582.2333333334,
-      "trailing_pe": 4.1913714,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 3,
-      "top_headlines": [
-        "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
-        "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
-        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de"
-      ],
-      "score": 46.6,
-      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.2)."
     },
     {
       "ticker": "EFIH.CA",
@@ -349,7 +330,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.0,
+      "score": 46.6,
       "blurb": "Ranks high on strong 3-month momentum (-8.9%) and solid recent momentum (-10.3%)."
     },
     {
@@ -369,7 +350,7 @@
         "Juhayna Food Industries Estimates \u2013 EGX:JUFO - TradingView",
         "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
       ],
-      "score": 45.7,
+      "score": 46.0,
       "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (-4.8%)."
     },
     {
@@ -386,7 +367,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.4,
+      "score": 44.0,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.9)."
     },
     {
@@ -403,8 +384,30 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 39.8,
+      "score": 40.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
+    },
+    {
+      "ticker": "ADIB.CA",
+      "name": "Abu Dhabi Islamic Bank Egypt",
+      "sector": "Banks",
+      "price": 44.5,
+      "momentum_1m": -14.258191345503224,
+      "momentum_3m": -14.669225890784821,
+      "volatility": 35.618619571762494,
+      "avg_volume": 1589582.2333333334,
+      "trailing_pe": 4.1913714,
+      "dividend_yield": 0.0,
+      "sentiment_score": -100.0,
+      "article_count": 4,
+      "top_headlines": [
+        "Analysis: What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
+        "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
+        "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
+        "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de"
+      ],
+      "score": 39.7,
+      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.2)."
     },
     {
       "ticker": "ORHD.CA",
@@ -422,7 +425,7 @@
       "top_headlines": [
         "Orascom Development Egypt (S.A.E) Estimates \u2013 EGX:ORHD - TradingView"
       ],
-      "score": 25.6,
+      "score": 26.2,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -439,7 +442,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 24.6,
+      "score": 25.2,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -456,7 +459,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 24.4,
+      "score": 25.0,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -475,7 +478,7 @@
       "top_headlines": [
         "Fintel cuts target for Edita Food Industries stock - AD HOC NEWS"
       ],
-      "score": 24.2,
+      "score": 24.5,
       "blurb": "Ranks high on a high dividend yield (2.0%)."
     }
   ]
