@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:13:42.022574+00:00",
+  "generated_at": "2026-10-28T22:16:14.101686+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -29,14 +29,14 @@
       "momentum_3m": 27.874365309147198,
       "volatility": 39.28071942242414,
       "avg_volume": 1039158.7,
-      "trailing_pe": 5.7401576,
+      "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "Abu Qir Fertilizers stock gained 4.00 percent ahead of results - ad-hoc-news.de"
       ],
-      "score": 71.1,
+      "score": 71.4,
       "blurb": "Ranks high on strong 3-month momentum (+27.9%) and solid recent momentum (+2.5%)."
     },
     {
@@ -58,7 +58,7 @@
         "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
         "CBKD Stock Price and Chart \u2014 LSIN:CBKD - TradingView"
       ],
-      "score": 64.7,
+      "score": 64.3,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -75,9 +75,9 @@
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "TELECOM EGYPT S A E (TEEG) Equity Price and Quote - London Stock Exchange"
+        "Telecom Egypt schedules Q3 2026 results release on London Stock Exchange - Traders Union"
       ],
-      "score": 62.9,
+      "score": 62.5,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+18.4%)."
     },
     {
@@ -94,7 +94,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 62.1,
+      "score": 61.6,
       "blurb": "Ranks high on solid recent momentum (+2.3%) and low price volatility."
     },
     {
@@ -111,7 +111,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.1,
+      "score": 57.4,
       "blurb": "Ranks high on solid recent momentum (+6.7%) and a high dividend yield (13.4%)."
     },
     {
@@ -132,6 +132,26 @@
       "blurb": "Ranks high on strong 3-month momentum (+23.4%) and solid recent momentum (-2.2%)."
     },
     {
+      "ticker": "SKPC.CA",
+      "name": "Sidi Kerir Petrochemicals",
+      "sector": "Chemicals",
+      "price": 14.710000038146973,
+      "momentum_1m": -9.197534905067029,
+      "momentum_3m": -7.774293328817883,
+      "volatility": 34.41546769066589,
+      "avg_volume": 4323524.666666667,
+      "trailing_pe": 58.06383,
+      "dividend_yield": 1.8587360000000002,
+      "sentiment_score": 100.0,
+      "article_count": 2,
+      "top_headlines": [
+        "SKPC.CA - | Stock Price & Latest News - Reuters",
+        "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
+      ],
+      "score": 56.8,
+      "blurb": "Ranks high on positive recent news (2 articles) and a high dividend yield (1.9%)."
+    },
+    {
       "ticker": "ACGC.CA",
       "name": "Arabian Cement",
       "sector": "Materials",
@@ -140,12 +160,12 @@
       "momentum_3m": 24.495679424709937,
       "volatility": 48.35244665922298,
       "avg_volume": 1033021.8333333334,
-      "trailing_pe": 4.548872,
+      "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 56.3,
+      "score": 56.2,
       "blurb": "Ranks high on strong 3-month momentum (+24.5%) and solid recent momentum (-4.4%)."
     },
     {
@@ -160,11 +180,12 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Cr\u00e9dit Agricole Egypt: Standalone financial results for the period ended September 30, 2026 - Zawya",
         "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de"
       ],
-      "score": 54.7,
+      "score": 54.2,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -181,7 +202,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.3,
+      "score": 53.5,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+15.4%)."
     },
     {
@@ -198,7 +219,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.3,
+      "score": 52.5,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and strong 3-month momentum (+1.9%)."
     },
     {
@@ -219,8 +240,8 @@
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de",
         "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
       ],
-      "score": 52.5,
-      "blurb": "Ranks high on low price volatility and strong trading liquidity."
+      "score": 51.9,
+      "blurb": "Ranks high on strong trading liquidity and low price volatility."
     },
     {
       "ticker": "SWDY.CA",
@@ -231,51 +252,13 @@
       "momentum_3m": 15.281729965868207,
       "volatility": 47.9387901834957,
       "avg_volume": 503264.13333333336,
-      "trailing_pe": 6.632823,
+      "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.5,
+      "score": 50.2,
       "blurb": "Ranks high on strong 3-month momentum (+15.3%) and solid recent momentum (-2.7%)."
-    },
-    {
-      "ticker": "PHDC.CA",
-      "name": "Palm Hills Developments",
-      "sector": "Real Estate",
-      "price": 11.699999809265137,
-      "momentum_1m": -8.522284252063205,
-      "momentum_3m": -19.91786390003195,
-      "volatility": 37.803235379455614,
-      "avg_volume": 7478780.833333333,
-      "trailing_pe": 3.3475177,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Palm Hills DevelopmentsE (CASE:PHDC) - Stock Analysis - Simply Wall Street"
-      ],
-      "score": 50.1,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
-    },
-    {
-      "ticker": "SKPC.CA",
-      "name": "Sidi Kerir Petrochemicals",
-      "sector": "Chemicals",
-      "price": 14.710000038146973,
-      "momentum_1m": -9.197534905067029,
-      "momentum_3m": -7.774293328817883,
-      "volatility": 34.41546769066589,
-      "avg_volume": 4323524.666666667,
-      "trailing_pe": 58.06383,
-      "dividend_yield": 1.8587360000000002,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "SKPC.CA - | Stock Price & Latest News - Reuters"
-      ],
-      "score": 49.9,
-      "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
       "ticker": "EFIH.CA",
@@ -291,28 +274,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.3,
+      "score": 47.9,
       "blurb": "Ranks high on solid recent momentum (-0.4%) and strong 3-month momentum (-4.7%)."
-    },
-    {
-      "ticker": "JUFO.CA",
-      "name": "Juhayna Food Industries",
-      "sector": "Consumer Goods",
-      "price": 23.299999237060547,
-      "momentum_1m": -6.9117115546384555,
-      "momentum_3m": 1.4101645511583438,
-      "volatility": 48.713359659258536,
-      "avg_volume": 688777.2666666667,
-      "trailing_pe": 12.390728,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Juhayna Food Industries Estimates \u2013 EGX:JUFO - TradingView",
-        "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
-      ],
-      "score": 47.6,
-      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+1.4%)."
     },
     {
       "ticker": "ISPH.CA",
@@ -332,6 +295,26 @@
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
+      "ticker": "JUFO.CA",
+      "name": "Juhayna Food Industries",
+      "sector": "Consumer Goods",
+      "price": 23.299999237060547,
+      "momentum_1m": -6.9117115546384555,
+      "momentum_3m": 1.4101645511583438,
+      "volatility": 48.713359659258536,
+      "avg_volume": 688777.2666666667,
+      "trailing_pe": 12.390728,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 2,
+      "top_headlines": [
+        "Juhayna Food Industries Estimates \u2013 EGX:JUFO - TradingView",
+        "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
+      ],
+      "score": 46.9,
+      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (+1.4%)."
+    },
+    {
       "ticker": "TMGH.CA",
       "name": "Talaat Moustafa Group",
       "sector": "Real Estate",
@@ -347,8 +330,8 @@
       "top_headlines": [
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa"
       ],
-      "score": 45.5,
-      "blurb": "Ranks high on low price volatility and solid recent momentum (-5.7%)."
+      "score": 44.6,
+      "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
       "ticker": "HELI.CA",
@@ -364,8 +347,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 43.3,
+      "score": 43.8,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.8)."
+    },
+    {
+      "ticker": "RAYA.CA",
+      "name": "Raya Holding",
+      "sector": "Technology",
+      "price": 5.570000171661377,
+      "momentum_1m": -9.577917051387564,
+      "momentum_3m": -25.930848593232092,
+      "volatility": 47.63578738996414,
+      "avg_volume": 4668016.6,
+      "trailing_pe": 3.6491227,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 40.6,
+      "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
     },
     {
       "ticker": "ADIB.CA",
@@ -386,25 +386,8 @@
         "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
         "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de"
       ],
-      "score": 41.0,
-      "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.2)."
-    },
-    {
-      "ticker": "RAYA.CA",
-      "name": "Raya Holding",
-      "sector": "Technology",
-      "price": 5.570000171661377,
-      "momentum_1m": -9.577917051387564,
-      "momentum_3m": -25.930848593232092,
-      "volatility": 47.63578738996414,
-      "avg_volume": 4668016.6,
-      "trailing_pe": 3.6491227,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 39.9,
-      "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
+      "score": 40.5,
+      "blurb": "Ranks high on attractive valuation (P/E 4.2) and low price volatility."
     },
     {
       "ticker": "EFID.CA",
@@ -420,7 +403,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 34.1,
+      "score": 33.9,
       "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (-5.4%)."
     },
     {
@@ -437,7 +420,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.5,
+      "score": 26.7,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -454,7 +437,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.9,
+      "score": 26.0,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -466,14 +449,14 @@
       "momentum_3m": -75.62201662207079,
       "volatility": 108.27077089918986,
       "avg_volume": 9195696.866666667,
-      "trailing_pe": 9.7769785,
+      "trailing_pe": 9.244898,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "Orascom Development Egypt (S.A.E) Estimates \u2013 EGX:ORHD - TradingView"
       ],
-      "score": 25.7,
+      "score": 26.0,
       "blurb": "Ranks high on strong trading liquidity."
     }
   ]
