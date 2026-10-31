@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:23:30.024229+00:00",
+  "generated_at": "2026-10-31T11:46:42.393392+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -51,12 +51,10 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 4,
+      "article_count": 2,
       "top_headlines": [
         "Commercial International Bank - Egypt (CIB) S.A.E. Estimates \u2013 EGX:COMI - TradingView",
-        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
-        "Egyptian fintech tycoon Mounir Nakhla's MNT-Halan valued at $775 million on stock debut - Billionaires.Africa"
+        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange"
       ],
       "score": 62.7,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
@@ -126,8 +124,9 @@
       "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Telecom Egypt schedules Q3 2026 results release on London Stock Exchange - Traders Union",
         "TELECOM EGYPT S A E (TEEG) Equity Price and Quote - London Stock Exchange"
       ],
       "score": 57.9,
@@ -380,7 +379,7 @@
       "momentum_3m": -12.913531641658526,
       "volatility": 36.200005061366305,
       "avg_volume": 1610780.5666666667,
-      "trailing_pe": 4.168317,
+      "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
       "article_count": 4,
