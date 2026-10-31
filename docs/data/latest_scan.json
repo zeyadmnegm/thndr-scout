@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:46:42.393392+00:00",
+  "generated_at": "2026-10-31T16:54:16.880303+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -178,10 +178,9 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
         "Credit Agricole - Egypt Bank (S.A.E.) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
-        "Cr\u00e9dit Agricole Egypt: Standalone financial results for the period ended September 30, 2026 - Zawya",
         "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de"
       ],
       "score": 53.9,
@@ -233,13 +232,12 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 5,
+      "article_count": 4,
       "top_headlines": [
         "3 Stocks Tied To Money Market Demand As AI Spending Pressures Tech - Simply Wall St",
         "Fawry stock gets preliminary approval to enter factoring - ad-hoc-news.de",
         "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
-        "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de",
-        "Fawry For Banking Technology And Electronic Payment Financial Disclosures & Filings - TradingView"
+        "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de"
       ],
       "score": 51.9,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
