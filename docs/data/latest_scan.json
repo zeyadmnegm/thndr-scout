@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:45:17.965441+00:00",
+  "generated_at": "2026-11-02T04:44:03.747972+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -12,10 +12,13 @@
       "avg_volume": 9006752.333333334,
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 76.2,
+      "sentiment_score": 100.0,
+      "article_count": 2,
+      "top_headlines": [
+        "AMOC Delivers 2.5 fold Profit Growth in 9M 2026 - Egypt Oil & Gas",
+        "Why AMOC sets a November 14 meeting for Alexandria Mineral Oils stock - ad-hoc-news.de"
+      ],
+      "score": 82.8,
       "blurb": "Ranks high on strong 3-month momentum (+46.1%) and solid recent momentum (+5.3%)."
     },
     {
@@ -27,13 +30,15 @@
       "momentum_3m": 18.192796471056916,
       "volatility": 39.65293977202437,
       "avg_volume": 1104889.8666666667,
-      "trailing_pe": 5.580861,
+      "trailing_pe": 5.360294,
       "dividend_yield": 10.1608805,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 68.0,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+18.2%)."
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
+      ],
+      "score": 74.6,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (1 articles)."
     },
     {
       "ticker": "COMI.CA",
@@ -51,7 +56,7 @@
       "top_headlines": [
         "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange"
       ],
-      "score": 63.0,
+      "score": 62.1,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -63,12 +68,12 @@
       "momentum_3m": -10.952516181834671,
       "volatility": 27.10582841924742,
       "avg_volume": 1469876.4666666666,
-      "trailing_pe": 7.29097,
+      "trailing_pe": 7.1947193,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 62.8,
+      "score": 61.9,
       "blurb": "Ranks high on solid recent momentum (+13.8%) and a high dividend yield (13.4%)."
     },
     {
@@ -83,13 +88,31 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de",
-        "Egypt Aluminum to pay EGP 16/share dividend for FY2025/26 - \u0622\u0631\u0627\u0628 \u0641\u0627\u064a\u0646\u0627\u0646\u0633"
+        "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de"
       ],
-      "score": 62.0,
-      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 2.7)."
+      "score": 60.8,
+      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
+    },
+    {
+      "ticker": "SKPC.CA",
+      "name": "Sidi Kerir Petrochemicals",
+      "sector": "Chemicals",
+      "price": 15.0,
+      "momentum_1m": -5.303031215253206,
+      "momentum_3m": -5.601008962197707,
+      "volatility": 34.639516407636705,
+      "avg_volume": 4113176.4,
+      "trailing_pe": 58.06383,
+      "dividend_yield": 1.8587360000000002,
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Sidpec Revenue Rises 34.8% in 9M 2026 - Egypt Oil & Gas"
+      ],
+      "score": 60.0,
+      "blurb": "Ranks high on positive recent news (1 articles) and a high dividend yield (1.9%)."
     },
     {
       "ticker": "ETEL.CA",
@@ -100,7 +123,7 @@
       "momentum_3m": 6.179823027186715,
       "volatility": 39.57561802965268,
       "avg_volume": 2057990.2,
-      "trailing_pe": 2.239918,
+      "trailing_pe": 2.1978538,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -108,25 +131,8 @@
         "Telecom Egypt schedules Q3 2026 results release on London Stock Exchange - Traders Union",
         "TELECOM EGYPT S A E (TEEG) Equity Price and Quote - London Stock Exchange"
       ],
-      "score": 58.2,
+      "score": 57.3,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+6.2%)."
-    },
-    {
-      "ticker": "MFPC.CA",
-      "name": "Misr Fertilizers Production (MOPCO)",
-      "sector": "Chemicals",
-      "price": 44.849998474121094,
-      "momentum_1m": -0.11136536761361393,
-      "momentum_3m": 18.807942977804217,
-      "volatility": 37.52114557379929,
-      "avg_volume": 1646997.6,
-      "trailing_pe": 9.1060295,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 58.0,
-      "blurb": "Ranks high on strong 3-month momentum (+18.8%) and solid recent momentum (-0.1%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -142,8 +148,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.8,
+      "score": 56.9,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-0.8%)."
+    },
+    {
+      "ticker": "MFPC.CA",
+      "name": "Misr Fertilizers Production (MOPCO)",
+      "sector": "Chemicals",
+      "price": 44.849998474121094,
+      "momentum_1m": -0.11136536761361393,
+      "momentum_3m": 18.807942977804217,
+      "volatility": 37.52114557379929,
+      "avg_volume": 1646997.6,
+      "trailing_pe": 9.1060295,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 56.5,
+      "blurb": "Ranks high on strong 3-month momentum (+18.8%) and solid recent momentum (-0.1%)."
     },
     {
       "ticker": "CIEB.CA",
@@ -162,7 +185,7 @@
         "Credit Agricole - Egypt Bank (S.A.E.) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
         "Credit Agricole Egypt joins Paris forum ahead of earnings for Credit Agricole Egypt stock - ad-hoc-news.de"
       ],
-      "score": 54.2,
+      "score": 53.3,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -179,7 +202,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.2,
+      "score": 53.3,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+14.2%)."
     },
     {
@@ -191,30 +214,15 @@
       "momentum_3m": 17.563883591808228,
       "volatility": 48.335491879336665,
       "avg_volume": 516929.13333333336,
-      "trailing_pe": 6.266754,
+      "trailing_pe": 6.1614985,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 53.8,
+      "article_count": 1,
+      "top_headlines": [
+        "Egyptian tycoon Ahmed Elsewedy's firm moves into elevators - Billionaires.Africa"
+      ],
+      "score": 52.9,
       "blurb": "Ranks high on solid recent momentum (+6.9%) and strong 3-month momentum (+17.6%)."
-    },
-    {
-      "ticker": "SKPC.CA",
-      "name": "Sidi Kerir Petrochemicals",
-      "sector": "Chemicals",
-      "price": 15.0,
-      "momentum_1m": -5.303031215253206,
-      "momentum_3m": -5.601008962197707,
-      "volatility": 34.639516407636705,
-      "avg_volume": 4113176.4,
-      "trailing_pe": 58.06383,
-      "dividend_yield": 1.8587360000000002,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 53.4,
-      "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
       "ticker": "FWRY.CA",
@@ -225,7 +233,7 @@
       "momentum_3m": -10.966059651707171,
       "volatility": 25.565228275265184,
       "avg_volume": 6045192.233333333,
-      "trailing_pe": 8.023529,
+      "trailing_pe": 7.6629214,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 4,
@@ -235,7 +243,7 @@
         "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de"
       ],
-      "score": 52.6,
+      "score": 52.3,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -247,13 +255,13 @@
       "momentum_3m": 23.148147739337155,
       "volatility": 48.89192172448082,
       "avg_volume": 787790.4666666667,
-      "trailing_pe": 4.260564,
+      "trailing_pe": 4.1438355,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.2,
-      "blurb": "Ranks high on strong 3-month momentum (+23.1%) and attractive valuation (P/E 4.3)."
+      "score": 51.9,
+      "blurb": "Ranks high on strong 3-month momentum (+23.1%) and attractive valuation (P/E 4.1)."
     },
     {
       "ticker": "EFIH.CA",
@@ -269,7 +277,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.2,
+      "score": 47.3,
       "blurb": "Ranks high on solid recent momentum (+2.6%) and strong 3-month momentum (+0.2%)."
     },
     {
@@ -281,17 +289,16 @@
       "momentum_3m": -0.3933009598304671,
       "volatility": 48.653795542884836,
       "avg_volume": 734767.4333333333,
-      "trailing_pe": 12.390728,
+      "trailing_pe": 11.993589,
       "dividend_yield": 0.0,
-      "sentiment_score": 33.33333333333333,
-      "article_count": 3,
+      "sentiment_score": 100.0,
+      "article_count": 2,
       "top_headlines": [
         "Juhayna Food Industries stock: USD 31.6 million loan backs citrus expansion - ad-hoc-news.de",
-        "Analysis| What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
         "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
       ],
-      "score": 47.6,
-      "blurb": "Ranks high on positive recent news (3 articles) and strong 3-month momentum (-0.4%)."
+      "score": 47.0,
+      "blurb": "Ranks high on positive recent news (2 articles) and strong 3-month momentum (-0.4%)."
     },
     {
       "ticker": "PHDC.CA",
@@ -302,13 +309,13 @@
       "momentum_3m": -21.270718377594445,
       "volatility": 35.712855514958065,
       "avg_volume": 7410516.4,
-      "trailing_pe": 3.3475177,
+      "trailing_pe": 3.1258278,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 47.0,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
+      "score": 46.1,
+      "blurb": "Ranks high on attractive valuation (P/E 3.1) and strong trading liquidity."
     },
     {
       "ticker": "ISPH.CA",
@@ -319,13 +326,13 @@
       "momentum_3m": -14.071102149765846,
       "volatility": 46.659575734180905,
       "avg_volume": 4520324.066666666,
-      "trailing_pe": 3.5,
+      "trailing_pe": 3.3444445,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.2,
-      "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
+      "score": 44.3,
+      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
       "ticker": "HELI.CA",
@@ -343,7 +350,7 @@
       "top_headlines": [
         "Heliopolis Housing stock in focus as company building enters heritage register - ad-hoc-news.de"
       ],
-      "score": 44.2,
+      "score": 43.3,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.7)."
     },
     {
@@ -362,7 +369,7 @@
       "top_headlines": [
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa"
       ],
-      "score": 43.8,
+      "score": 42.3,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -384,7 +391,7 @@
         "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView",
         "ADIB Egypt earns PCI DSS certification. ADIB stock is valued at EGP 70.5 billion - ad-hoc-news.de"
       ],
-      "score": 41.2,
+      "score": 40.6,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.2)."
     },
     {
@@ -401,7 +408,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 41.0,
+      "score": 40.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
     },
     {
@@ -413,12 +420,12 @@
       "momentum_3m": -35.147974220898284,
       "volatility": 59.27307832399418,
       "avg_volume": 2184838.4,
-      "trailing_pe": 19.156862,
+      "trailing_pe": 19.410595,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 34.6,
+      "score": 33.7,
       "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (-3.5%)."
     },
     {
@@ -435,7 +442,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 29.0,
+      "score": 28.1,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -447,12 +454,12 @@
       "momentum_3m": -75.05668944047741,
       "volatility": 108.80612555752649,
       "avg_volume": 9498690.833333334,
-      "trailing_pe": 9.244898,
+      "trailing_pe": 9.06,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 26.0,
+      "score": 25.7,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -469,7 +476,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.8,
+      "score": 24.9,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     }
   ]
