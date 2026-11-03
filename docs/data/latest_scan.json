@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:54:21.620775+00:00",
+  "generated_at": "2026-11-03T00:37:15.027238+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -12,10 +12,12 @@
       "avg_volume": 9898902.066666666,
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 77.0,
+      "sentiment_score": 100.0,
+      "article_count": 1,
+      "top_headlines": [
+        "AMOC Delivers 2.5 fold Profit Growth in 9M 2026 - Egypt Oil & Gas"
+      ],
+      "score": 84.2,
       "blurb": "Ranks high on strong 3-month momentum (+57.3%) and solid recent momentum (+1.9%)."
     },
     {
@@ -27,16 +29,15 @@
       "momentum_3m": 17.235163382969887,
       "volatility": 39.902885696411985,
       "avg_volume": 1032226.9333333333,
-      "trailing_pe": 5.360294,
+      "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de",
-        "Egypt's Abu Qir sees profits climb on higher fertiliser sales, exports and prices - Quantum Commodity Intelligence"
+        "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
       ],
-      "score": 75.1,
-      "blurb": "Ranks high on positive recent news (2 articles) and a high dividend yield (10.2%)."
+      "score": 74.8,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (1 articles)."
     },
     {
       "ticker": "EGAL.CA",
@@ -54,8 +55,8 @@
       "top_headlines": [
         "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de"
       ],
-      "score": 63.7,
-      "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 2.7)."
+      "score": 63.4,
+      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
     },
     {
       "ticker": "COMI.CA",
@@ -69,14 +70,11 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 4,
+      "article_count": 1,
       "top_headlines": [
-        "Commercial International Bank Egypt (CIB) S.A.E. (COMI.CA) Seasonal returns chart - Yahoo Finance UK",
-        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
-        "Egyptian fintech tycoon Mounir Nakhla's MNT-Halan valued at $775 million on stock debut - Billionaires.Africa"
+        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange"
       ],
-      "score": 63.2,
+      "score": 62.6,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -93,7 +91,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 62.2,
+      "score": 61.6,
       "blurb": "Ranks high on solid recent momentum (+8.6%) and a high dividend yield (13.4%)."
     },
     {
@@ -110,7 +108,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.6,
+      "score": 58.0,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-4.3%)."
     },
     {
@@ -131,7 +129,7 @@
         "Telecom Egypt schedules Q3 2026 results release on London Stock Exchange - Traders Union",
         "TELECOM EGYPT S A E (TEEG) Equity Price and Quote - London Stock Exchange"
       ],
-      "score": 58.6,
+      "score": 58.0,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+9.8%)."
     },
     {
@@ -143,7 +141,7 @@
       "momentum_3m": 19.112078061059744,
       "volatility": 37.46353735986097,
       "avg_volume": 1415399.9333333333,
-      "trailing_pe": 9.1060295,
+      "trailing_pe": 8.938775,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -163,11 +161,12 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Credit Agricole - Egypt Bank (S.A.E.) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com"
+        "Credit Agricole - Egypt Bank (S.A.E.) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+        "Cr\u00e9dit Agricole Egypt: Standalone financial results for the period ended September 30, 2026 - Zawya"
       ],
-      "score": 55.6,
+      "score": 55.0,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-5.5%)."
     },
     {
@@ -184,25 +183,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.2,
+      "score": 54.6,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
-    },
-    {
-      "ticker": "ACGC.CA",
-      "name": "Arabian Cement",
-      "sector": "Materials",
-      "price": 12.880000114440918,
-      "momentum_1m": -11.294767848618525,
-      "momentum_3m": 20.486441721441984,
-      "volatility": 48.96271634558158,
-      "avg_volume": 726403.4666666667,
-      "trailing_pe": 4.1438355,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 53.6,
-      "blurb": "Ranks high on strong 3-month momentum (+20.5%) and attractive valuation (P/E 4.1)."
     },
     {
       "ticker": "CCAP.CA",
@@ -218,8 +200,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.4,
+      "score": 52.8,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+13.2%)."
+    },
+    {
+      "ticker": "ACGC.CA",
+      "name": "Arabian Cement",
+      "sector": "Materials",
+      "price": 12.880000114440918,
+      "momentum_1m": -11.294767848618525,
+      "momentum_3m": 20.486441721441984,
+      "volatility": 48.96271634558158,
+      "avg_volume": 726403.4666666667,
+      "trailing_pe": 4.260564,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 52.4,
+      "blurb": "Ranks high on strong 3-month momentum (+20.5%) and attractive valuation (P/E 4.3)."
     },
     {
       "ticker": "SWDY.CA",
@@ -230,14 +229,14 @@
       "momentum_3m": 15.552067122700297,
       "volatility": 48.21181361350975,
       "avg_volume": 516676.4,
-      "trailing_pe": 6.1614985,
+      "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "Egyptian tycoon Ahmed Elsewedy's firm moves into elevators - Billionaires.Africa"
       ],
-      "score": 49.8,
+      "score": 49.2,
       "blurb": "Ranks high on strong 3-month momentum (+15.6%) and solid recent momentum (-8.0%)."
     },
     {
@@ -252,9 +251,11 @@
       "trailing_pe": 36.985294,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 49.0,
+      "article_count": 1,
+      "top_headlines": [
+        "\ud835\udc03\ud835\udc0f\ud835\udc08 \ud835\udc02\ud835\udc25\ud835\udc28\ud835\udc2c\ud835\udc1e\ud835\udc2c $\ud835\udfcf\ud835\udfcf\ud835\udfd0 \ud835\udc0c\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc00\ud835\udc1f\ud835\udc2b\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc21 \ud835\udc05\ud835\udc2e\ud835\udc27\ud835\udc1d \ud835\udc01\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1e\ud835\udc1d \ud835\udc0c\ud835\udc28\ud835\udc2c\ud835\udc2d\ud835\udc25\ud835\udc32 \ud835\udc1b\ud835\udc32 \ud835\udc0b\ud835\udc28\ud835\udc1c\ud835\udc1a\ud835\udc25 \ud835\udc02\ud835\udc1a\ud835\udc29\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc25 DPI Venture Capital has reached a final close of more than $112 million for its Nclude Fund, with 93% of committed capital originating from African - LinkedIn"
+      ],
+      "score": 48.4,
       "blurb": "Ranks high on solid recent momentum (-1.7%) and strong 3-month momentum (-2.1%)."
     },
     {
@@ -276,7 +277,7 @@
         "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
         "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de"
       ],
-      "score": 48.6,
+      "score": 48.0,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -295,7 +296,7 @@
       "top_headlines": [
         "Heliopolis Housing stock in focus as company building enters heritage register - ad-hoc-news.de"
       ],
-      "score": 48.2,
+      "score": 47.6,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.8)."
     },
     {
@@ -307,7 +308,7 @@
       "momentum_3m": -8.500471973159684,
       "volatility": 35.249559319395125,
       "avg_volume": 1583457.8666666667,
-      "trailing_pe": 4.390498,
+      "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
       "article_count": 3,
@@ -316,7 +317,7 @@
         "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
         "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView"
       ],
-      "score": 47.1,
+      "score": 47.4,
       "blurb": "Ranks high on solid recent momentum (-3.9%) and low price volatility."
     },
     {
@@ -331,11 +332,12 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Talaat Moustafa Group Holding Estimates \u2013 EGX:TMGH - TradingView",
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa"
       ],
-      "score": 46.8,
+      "score": 46.2,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -352,7 +354,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.2,
+      "score": 44.6,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -373,7 +375,7 @@
         "Analysis| What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
         "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
       ],
-      "score": 43.8,
+      "score": 43.2,
       "blurb": "Ranks high on positive recent news (3 articles) and strong 3-month momentum (-6.2%)."
     },
     {
@@ -390,7 +392,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 39.0,
+      "score": 38.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -407,8 +409,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 38.6,
+      "score": 38.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
+    },
+    {
+      "ticker": "EFID.CA",
+      "name": "Edita Food Industries",
+      "sector": "Consumer Goods",
+      "price": 18.040000915527344,
+      "momentum_1m": -6.480041164714622,
+      "momentum_3m": -34.399996670809664,
+      "volatility": 59.09243281215822,
+      "avg_volume": 2136609.033333333,
+      "trailing_pe": 19.156862,
+      "dividend_yield": 1.9538669000000002,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 33.6,
+      "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (-6.5%)."
     },
     {
       "ticker": "MTIE.CA",
@@ -424,7 +443,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 28.8,
+      "score": 28.2,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -441,28 +460,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 28.0,
+      "score": 27.4,
       "blurb": "No single standout factor; ranks mid-pack across the board."
-    },
-    {
-      "ticker": "EFID.CA",
-      "name": "Edita Food Industries",
-      "sector": "Consumer Goods",
-      "price": 18.040000915527344,
-      "momentum_1m": -6.480041164714622,
-      "momentum_3m": -34.399996670809664,
-      "volatility": 59.09243281215822,
-      "avg_volume": 2136609.033333333,
-      "trailing_pe": 19.156862,
-      "dividend_yield": 1.9538669000000002,
-      "sentiment_score": -100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Analysis| What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
-        "Edita Food Industries stock: Fintel cuts target from EGP 36.62 to EGP 26.69 - ad-hoc-news.de"
-      ],
-      "score": 27.3,
-      "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (-6.5%)."
     },
     {
       "ticker": "ORHD.CA",
@@ -473,12 +472,12 @@
       "momentum_3m": -76.09394340196486,
       "volatility": 108.37930822997461,
       "avg_volume": 9476902.566666666,
-      "trailing_pe": 9.06,
+      "trailing_pe": 9.244898,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.0,
+      "score": 25.8,
       "blurb": "Ranks high on strong trading liquidity."
     }
   ]
