@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T13:43:36.311016+00:00",
+  "generated_at": "2026-11-03T22:57:45.533261+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -32,13 +32,12 @@
       "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de",
-        "Egypt's Abu Qir sees profits climb on higher fertiliser sales, exports and prices - Quantum Commodity Intelligence"
+        "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
       ],
       "score": 71.9,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (2 articles)."
+      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (1 articles)."
     },
     {
       "ticker": "COMI.CA",
@@ -52,9 +51,12 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
+      "article_count": 4,
       "top_headlines": [
-        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange"
+        "Commercial International Bank Egypt (CIB) S.A.E. (COMI.CA) Seasonal returns chart - Yahoo Finance UK",
+        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
+        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
+        "Egyptian fintech tycoon Mounir Nakhla's MNT-Halan valued at $775 million on stock debut - Billionaires.Africa"
       ],
       "score": 70.4,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-4.4%)."
@@ -254,8 +256,8 @@
       "article_count": 4,
       "top_headlines": [
         "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal Returns Chart - Yahoo! Finance Canada",
         "Analysis| What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
-        "Abu Dhabi Islamic Bank-Egypt Estimates \u2013 EGX:ADIB - TradingView",
         "Abu Dhabi Islamic Bank-Egypt Financial Disclosures & Filings - TradingView"
       ],
       "score": 48.8,
