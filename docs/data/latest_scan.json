@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:57:45.533261+00:00",
+  "generated_at": "2026-11-04T05:03:01.009786+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -10,14 +10,14 @@
       "momentum_3m": 49.999989520062904,
       "volatility": 45.85345431796771,
       "avg_volume": 10159092.366666667,
-      "trailing_pe": 5.218391,
+      "trailing_pe": 5.159091,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
         "AMOC Delivers 2.5 fold Profit Growth in 9M 2026 - Egypt Oil & Gas"
       ],
-      "score": 83.9,
+      "score": 84.2,
       "blurb": "Ranks high on strong 3-month momentum (+50.0%) and solid recent momentum (-1.8%)."
     },
     {
@@ -32,12 +32,13 @@
       "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Abu Qir Fertilizers stock: Profit more than doubles in nine months - ad-hoc-news.de",
         "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
       ],
-      "score": 71.9,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (1 articles)."
+      "score": 72.2,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (2 articles)."
     },
     {
       "ticker": "COMI.CA",
@@ -48,17 +49,14 @@
       "momentum_3m": -13.42793608740176,
       "volatility": 22.71904301755359,
       "avg_volume": 4256602.266666667,
-      "trailing_pe": 3.9094846,
+      "trailing_pe": 3.9764934,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 4,
+      "article_count": 1,
       "top_headlines": [
-        "Commercial International Bank Egypt (CIB) S.A.E. (COMI.CA) Seasonal returns chart - Yahoo Finance UK",
-        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange",
-        "Commercial International Bank - Egypt (CIB) S.A.E. Financial Disclosures & Filings - TradingView",
-        "Egyptian fintech tycoon Mounir Nakhla's MNT-Halan valued at $775 million on stock debut - Billionaires.Africa"
+        "COMMERCIAL INTERNATIONAL BANK EGYPT S A E (CBKD) Equity Price and Quote - London Stock Exchange"
       ],
-      "score": 70.4,
+      "score": 70.1,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-4.4%)."
     },
     {
@@ -70,15 +68,15 @@
       "momentum_3m": 1.0941964231548251,
       "volatility": 36.534485892804156,
       "avg_volume": 247242.23333333334,
-      "trailing_pe": 2.7443411,
+      "trailing_pe": 2.7949555,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
         "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de"
       ],
-      "score": 64.1,
-      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
+      "score": 64.4,
+      "blurb": "Ranks high on attractive valuation (P/E 2.8) and positive recent news (1 articles)."
     },
     {
       "ticker": "ETEL.CA",
@@ -89,7 +87,7 @@
       "momentum_3m": 12.328888145613327,
       "volatility": 39.581133952356744,
       "avg_volume": 1928326.9,
-      "trailing_pe": 2.239918,
+      "trailing_pe": 2.2662518,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -97,8 +95,8 @@
         "Banque du Caire\u2019s EGP 36.4 bln flotation puts Egypt\u2019s landmark IPOs in perspective - Economy - Business - Ahram Online",
         "TELECOM EGYPT S A E (TEEG) Equity Price and Quote - London Stock Exchange"
       ],
-      "score": 61.2,
-      "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+12.3%)."
+      "score": 61.5,
+      "blurb": "Ranks high on attractive valuation (P/E 2.3) and strong 3-month momentum (+12.3%)."
     },
     {
       "ticker": "EAST.CA",
@@ -109,12 +107,12 @@
       "momentum_3m": -16.50512570224868,
       "volatility": 28.139889771467413,
       "avg_volume": 1399904.6,
-      "trailing_pe": 7.29097,
+      "trailing_pe": 7.758007,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.6,
+      "score": 60.9,
       "blurb": "Ranks high on solid recent momentum (+2.6%) and a high dividend yield (13.4%)."
     },
     {
@@ -126,12 +124,12 @@
       "momentum_3m": -7.238097417922251,
       "volatility": 34.546175965383135,
       "avg_volume": 3836570.1,
-      "trailing_pe": 58.06383,
+      "trailing_pe": 56.854168,
       "dividend_yield": 1.8587360000000002,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 55.0,
+      "score": 55.3,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -143,7 +141,7 @@
       "momentum_3m": -9.588477353334701,
       "volatility": 23.671595495070278,
       "avg_volume": 384129.6,
-      "trailing_pe": 3.9609377,
+      "trailing_pe": 4.0158415,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -151,7 +149,7 @@
         "Credit Agricole - Egypt Bank (S.A.E.) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
         "Cr\u00e9dit Agricole Egypt: Standalone financial results for the period ended September 30, 2026 - Zawya"
       ],
-      "score": 54.8,
+      "score": 54.5,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -168,7 +166,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.2,
+      "score": 53.5,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+8.3%)."
     },
     {
@@ -183,9 +181,11 @@
       "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 52.8,
+      "article_count": 1,
+      "top_headlines": [
+        "Iraq, Egypt, and Jordan discuss new Red Sea, Med outlets for Iraqi crude - EnterpriseAM"
+      ],
+      "score": 53.1,
       "blurb": "Ranks high on strong 3-month momentum (+16.7%) and attractive valuation (P/E 4.3)."
     },
     {
@@ -202,7 +202,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.4,
+      "score": 52.7,
       "blurb": "Ranks high on strong 3-month momentum (+11.0%) and low price volatility."
     },
     {
@@ -214,12 +214,12 @@
       "momentum_3m": -18.631728592336426,
       "volatility": 26.34798792224161,
       "avg_volume": 4145085.7333333334,
-      "trailing_pe": 8.07116,
+      "trailing_pe": 8.132075,
       "dividend_yield": 1.31008485,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.6,
+      "score": 52.5,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
@@ -231,14 +231,14 @@
       "momentum_3m": -6.084115087968955,
       "volatility": 39.77916150428674,
       "avg_volume": 2816836.966666667,
-      "trailing_pe": 36.985294,
+      "trailing_pe": 38.10606,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
         "\ud835\udc03\ud835\udc0f\ud835\udc08 \ud835\udc02\ud835\udc25\ud835\udc28\ud835\udc2c\ud835\udc1e\ud835\udc2c $\ud835\udfcf\ud835\udfcf\ud835\udfd0 \ud835\udc0c\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc00\ud835\udc1f\ud835\udc2b\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc21 \ud835\udc05\ud835\udc2e\ud835\udc27\ud835\udc1d \ud835\udc01\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1e\ud835\udc1d \ud835\udc0c\ud835\udc28\ud835\udc2c\ud835\udc2d\ud835\udc25\ud835\udc32 \ud835\udc1b\ud835\udc32 \ud835\udc0b\ud835\udc28\ud835\udc1c\ud835\udc1a\ud835\udc25 \ud835\udc02\ud835\udc1a\ud835\udc29\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc25 DPI Venture Capital has reached a final close of more than $112 million for its Nclude Fund, with 93% of committed capital originating from African - LinkedIn"
       ],
-      "score": 49.2,
+      "score": 49.5,
       "blurb": "Ranks high on solid recent momentum (-4.1%) and strong 3-month momentum (-6.1%)."
     },
     {
@@ -253,8 +253,9 @@
       "trailing_pe": 4.247758,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
-      "article_count": 4,
+      "article_count": 5,
       "top_headlines": [
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
         "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal Returns Chart - Yahoo! Finance Canada",
         "Analysis| What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online",
@@ -279,30 +280,8 @@
       "top_headlines": [
         "Egyptian tycoon Ahmed Elsewedy's firm moves into elevators - Billionaires.Africa"
       ],
-      "score": 47.8,
+      "score": 48.1,
       "blurb": "Ranks high on strong 3-month momentum (-0.6%) and solid recent momentum (-9.7%)."
-    },
-    {
-      "ticker": "FWRY.CA",
-      "name": "Fawry for Banking Technology",
-      "sector": "Fintech",
-      "price": 15.75,
-      "momentum_1m": -17.53926866263208,
-      "momentum_3m": -17.496071900948163,
-      "volatility": 26.514181570475664,
-      "avg_volume": 6215777.233333333,
-      "trailing_pe": 8.023529,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 4,
-      "top_headlines": [
-        "3 Stocks Tied To Money Market Demand As AI Spending Pressures Tech - Simply Wall St",
-        "Fawry stock gets preliminary approval to enter factoring - ad-hoc-news.de",
-        "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
-        "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de"
-      ],
-      "score": 47.6,
-      "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
       "ticker": "TMGH.CA",
@@ -313,7 +292,7 @@
       "momentum_3m": -21.921923114491392,
       "volatility": 26.14067277741822,
       "avg_volume": 2919816.066666667,
-      "trailing_pe": 7.733333,
+      "trailing_pe": 7.912688,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 2,
@@ -321,25 +300,29 @@
         "Talaat Moustafa Group Holding Estimates \u2013 EGX:TMGH - TradingView",
         "Egyptian billionaire Hisham Talaat Moustafa's TMG signs $202 billion government deal - Billionaires.Africa"
       ],
-      "score": 47.0,
+      "score": 47.3,
       "blurb": "Ranks high on low price volatility and solid recent momentum (-12.2%)."
     },
     {
-      "ticker": "PHDC.CA",
-      "name": "Palm Hills Developments",
-      "sector": "Real Estate",
-      "price": 10.600000381469727,
-      "momentum_1m": -18.836140575094806,
-      "momentum_3m": -30.628268542459203,
-      "volatility": 36.81562844667133,
-      "avg_volume": 7450287.4,
-      "trailing_pe": 3.3475177,
+      "ticker": "FWRY.CA",
+      "name": "Fawry for Banking Technology",
+      "sector": "Fintech",
+      "price": 15.75,
+      "momentum_1m": -17.53926866263208,
+      "momentum_3m": -17.496071900948163,
+      "volatility": 26.514181570475664,
+      "avg_volume": 6215777.233333333,
+      "trailing_pe": 8.216867,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 46.6,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
+      "article_count": 3,
+      "top_headlines": [
+        "Fawry stock gets preliminary approval to enter factoring - ad-hoc-news.de",
+        "Fawry For Banking Technology And Electronic Payment Estimates \u2013 EGX:FWRY - TradingView",
+        "Fawry stock: Fawry discloses September ownership data for Fawry stock - ad-hoc-news.de"
+      ],
+      "score": 47.3,
+      "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
       "ticker": "HELI.CA",
@@ -357,28 +340,25 @@
       "top_headlines": [
         "Heliopolis Housing stock in focus as company building enters heritage register - ad-hoc-news.de"
       ],
-      "score": 45.0,
+      "score": 46.5,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 4.0)."
     },
     {
-      "ticker": "JUFO.CA",
-      "name": "Juhayna Food Industries",
-      "sector": "Consumer Goods",
-      "price": 22.770000457763672,
-      "momentum_1m": -11.744181662394848,
-      "momentum_3m": -15.541538460667725,
-      "volatility": 48.507415835488516,
-      "avg_volume": 731473.5333333333,
-      "trailing_pe": 12.390728,
+      "ticker": "PHDC.CA",
+      "name": "Palm Hills Developments",
+      "sector": "Real Estate",
+      "price": 10.600000381469727,
+      "momentum_1m": -18.836140575094806,
+      "momentum_3m": -30.628268542459203,
+      "volatility": 36.81562844667133,
+      "avg_volume": 7450287.4,
+      "trailing_pe": 3.5757573,
       "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Juhayna Food Industries stock: USD 31.6 million loan backs citrus expansion - ad-hoc-news.de",
-        "Juhayna Food Industries stock: Juhayna secures a citrus expansion loan - ad-hoc-news.de"
-      ],
-      "score": 43.7,
-      "blurb": "Ranks high on positive recent news (2 articles) and solid recent momentum (-11.7%)."
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 46.3,
+      "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
     },
     {
       "ticker": "ISPH.CA",
@@ -394,7 +374,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 38.2,
+      "score": 39.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -411,8 +391,28 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 37.0,
+      "score": 37.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
+    },
+    {
+      "ticker": "JUFO.CA",
+      "name": "Juhayna Food Industries",
+      "sector": "Consumer Goods",
+      "price": 22.770000457763672,
+      "momentum_1m": -11.744181662394848,
+      "momentum_3m": -15.541538460667725,
+      "volatility": 48.507415835488516,
+      "avg_volume": 731473.5333333333,
+      "trailing_pe": 12.473332,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 2,
+      "top_headlines": [
+        "Juhayna Food Industries stock: USD 31.6 million loan backs citrus expansion - ad-hoc-news.de",
+        "Analysis| What drove Egypt\u2019s stock market plunge on Sunday? - Economy - Business - Ahram Online"
+      ],
+      "score": 36.5,
+      "blurb": "Ranks high on solid recent momentum (-11.7%)."
     },
     {
       "ticker": "EFID.CA",
@@ -428,7 +428,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 34.8,
+      "score": 35.1,
       "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (-8.3%)."
     },
     {
@@ -445,7 +445,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 28.8,
+      "score": 29.1,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -457,12 +457,12 @@
       "momentum_3m": -22.413793103448278,
       "volatility": 51.71757756800606,
       "avg_volume": 1484812.4333333333,
-      "trailing_pe": 13.105421,
+      "trailing_pe": 13.682389,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.8,
+      "score": 28.1,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -479,7 +479,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.8,
+      "score": 26.1,
       "blurb": "Ranks high on strong trading liquidity."
     }
   ]
