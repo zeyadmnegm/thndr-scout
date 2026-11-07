@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:53:24.637741+00:00",
+  "generated_at": "2026-11-07T12:33:21.710272+00:00",
   "results": [
     {
       "ticker": "COMI.CA",
@@ -68,13 +68,12 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Egypt Aluminum (CASE:EGAL) - Stock Analysis - Simply Wall St",
         "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de"
       ],
       "score": 65.8,
-      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (2 articles)."
+      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
     },
     {
       "ticker": "EAST.CA",
@@ -105,10 +104,8 @@
       "trailing_pe": 2.239918,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Banque du Caire\u2019s EGP 36.4 bln flotation puts Egypt\u2019s landmark IPOs in perspective - Economy - Business - Ahram Online"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 61.0,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+17.9%)."
     },
@@ -421,8 +418,10 @@
       "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall St"
+      ],
       "score": 35.2,
       "blurb": "Ranks high on solid recent momentum (-1.4%) and a high dividend yield (2.0%)."
     },
