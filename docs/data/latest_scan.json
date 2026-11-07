@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:33:21.710272+00:00",
+  "generated_at": "2026-11-07T21:30:34.064185+00:00",
   "results": [
     {
       "ticker": "COMI.CA",
@@ -13,8 +13,10 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Commercial International Bank Egypt (CIB) S.A.E. (CIBEY) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+      ],
       "score": 71.2,
       "blurb": "Ranks high on low price volatility and solid recent momentum (+2.7%)."
     },
@@ -46,15 +48,14 @@
       "avg_volume": 968083.0333333333,
       "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
-      "sentiment_score": 50.0,
-      "article_count": 3,
+      "sentiment_score": 33.33333333333333,
+      "article_count": 2,
       "top_headlines": [
         "Abu Qir Fertilizers Adjusts Operations Following Natural Gas Supply Cut - Egypt Oil & Gas",
-        "Abu Qir Fertilizers stock: Profit more than doubles in nine months - ad-hoc-news.de",
         "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
       ],
       "score": 66.0,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (3 articles)."
+      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (2 articles)."
     },
     {
       "ticker": "EGAL.CA",
@@ -346,10 +347,8 @@
       "trailing_pe": 36.985294,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "\ud835\udc03\ud835\udc0f\ud835\udc08 \ud835\udc02\ud835\udc25\ud835\udc28\ud835\udc2c\ud835\udc1e\ud835\udc2c $\ud835\udfcf\ud835\udfcf\ud835\udfd0 \ud835\udc0c\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc00\ud835\udc1f\ud835\udc2b\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27 \ud835\udc05\ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc1c\ud835\udc21 \ud835\udc05\ud835\udc2e\ud835\udc27\ud835\udc1d \ud835\udc01\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc1e\ud835\udc1d \ud835\udc0c\ud835\udc28\ud835\udc2c\ud835\udc2d\ud835\udc25\ud835\udc32 \ud835\udc1b\ud835\udc32 \ud835\udc0b\ud835\udc28\ud835\udc1c\ud835\udc1a\ud835\udc25 \ud835\udc02\ud835\udc1a\ud835\udc29\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc25 DPI Venture Capital has reached a final close of more than $112 million for its Nclude Fund, with 93% of committed capital originating from African - LinkedIn"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 46.4,
       "blurb": "Ranks high on strong 3-month momentum (+0.0%) and solid recent momentum (-6.9%)."
     },
