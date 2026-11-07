@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:46:01.629581+00:00",
+  "generated_at": "2026-11-07T04:53:24.637741+00:00",
   "results": [
     {
       "ticker": "COMI.CA",
@@ -68,12 +68,13 @@
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Egypt Aluminum (CASE:EGAL) - Stock Analysis - Simply Wall St",
         "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de"
       ],
       "score": 65.8,
-      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (1 articles)."
+      "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (2 articles)."
     },
     {
       "ticker": "EAST.CA",
