@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:30:34.064185+00:00",
+  "generated_at": "2026-11-08T04:45:33.536899+00:00",
   "results": [
     {
       "ticker": "COMI.CA",
@@ -274,9 +274,8 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "3 Stocks Tied To Money Market Demand As AI Spending Pressures Tech - Simply Wall St",
         "Fawry stock gets preliminary approval to enter factoring - ad-hoc-news.de"
       ],
       "score": 50.0,
