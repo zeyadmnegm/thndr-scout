@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:51:26.881497+00:00",
+  "generated_at": "2026-11-08T21:44:57.481501+00:00",
   "results": [
     {
       "ticker": "COMI.CA",
@@ -49,14 +49,15 @@
       "avg_volume": 968083.0333333333,
       "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
-      "sentiment_score": 33.33333333333333,
-      "article_count": 2,
+      "sentiment_score": 50.0,
+      "article_count": 3,
       "top_headlines": [
         "Abu Qir Fertilizers Adjusts Operations Following Natural Gas Supply Cut - Egypt Oil & Gas",
+        "Abu Qir Fertilizers stock: Profit more than doubles in nine months - ad-hoc-news.de",
         "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
       ],
       "score": 66.0,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (2 articles)."
+      "blurb": "Ranks high on a high dividend yield (10.2%) and positive recent news (3 articles)."
     },
     {
       "ticker": "EGAL.CA",
@@ -123,8 +124,9 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
+        "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance UK",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
         "Credit Agricole - Egypt Bank (S.A.E.) Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com"
@@ -233,8 +235,9 @@
       "trailing_pe": 4.105092,
       "dividend_yield": 0.0,
       "sentiment_score": -100.0,
-      "article_count": 4,
+      "article_count": 5,
       "top_headlines": [
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal returns chart - Yahoo Finance UK",
         "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal Returns Chart - Yahoo! Finance Canada",
         "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
@@ -382,8 +385,10 @@
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
+      "article_count": 1,
+      "top_headlines": [
+        "Ibnsina Pharma (CASE:ISPH) - Stock Analysis - Simply Wall St"
+      ],
       "score": 39.6,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
