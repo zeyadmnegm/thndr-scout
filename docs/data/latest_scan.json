@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T15:23:00.277137+00:00",
+  "generated_at": "2026-11-10T01:14:17.037408+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -33,10 +33,9 @@
       "trailing_pe": 3.9094846,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Al Baraka Bank Egypt stock: H1 growth masks return mix - ad-hoc-news.de",
-        "Juhayna Food Industries stock: Loan funds citrus expansion - ad-hoc-news.de"
+        "Al Baraka Bank Egypt stock: H1 growth masks return mix - ad-hoc-news.de"
       ],
       "score": 77.0,
       "blurb": "Ranks high on low price volatility and solid recent momentum (+3.8%)."
@@ -70,7 +69,7 @@
       "momentum_3m": -8.301889671469631,
       "volatility": 35.35186608393969,
       "avg_volume": 1667231.2666666666,
-      "trailing_pe": 4.069817,
+      "trailing_pe": 4.105092,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 5,
@@ -127,7 +126,7 @@
       "momentum_3m": -10.550939245294655,
       "volatility": 26.864340300090443,
       "avg_volume": 6325196.733333333,
-      "trailing_pe": 8.023529,
+      "trailing_pe": 7.9302325,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
@@ -231,7 +230,7 @@
       "momentum_3m": 15.891127404605143,
       "volatility": 48.53511303752167,
       "avg_volume": 656847.1666666666,
-      "trailing_pe": 4.260564,
+      "trailing_pe": 4.201389,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -395,7 +394,7 @@
       "momentum_3m": -10.973318336407834,
       "volatility": 48.56166068131269,
       "avg_volume": 832935.1,
-      "trailing_pe": 12.390728,
+      "trailing_pe": 12.30921,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 2,
