@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:40:12.238213+00:00",
+  "generated_at": "2026-11-12T00:07:37.756516+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -13,11 +13,9 @@
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Alexandria Mineral Oils (CASE:AMOC) - Stock Analysis - Simply Wall St"
-      ],
-      "score": 67.9,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 68.8,
       "blurb": "Ranks high on strong 3-month momentum (+36.2%) and a high dividend yield (8.8%)."
     },
     {
@@ -32,13 +30,29 @@
       "trailing_pe": 8.023529,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 2,
+      "article_count": 1,
       "top_headlines": [
-        "Fawry stock expands financing strategy with factoring approval - ad-hoc-news.de",
-        "Fawry stock gets preliminary approval to enter factoring - ad-hoc-news.de"
+        "Fawry stock expands financing strategy with factoring approval - ad-hoc-news.de"
       ],
-      "score": 62.0,
-      "blurb": "Ranks high on positive recent news (2 articles) and low price volatility."
+      "score": 62.2,
+      "blurb": "Ranks high on positive recent news (1 articles) and low price volatility."
+    },
+    {
+      "ticker": "COMI.CA",
+      "name": "Commercial International Bank",
+      "sector": "Banks",
+      "price": 131.0,
+      "momentum_1m": 8.264462809917351,
+      "momentum_3m": -6.421890949638587,
+      "volatility": 22.76292085207369,
+      "avg_volume": 3985470.533333333,
+      "trailing_pe": 3.9094846,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 61.5,
+      "blurb": "Ranks high on low price volatility and solid recent momentum (+8.3%)."
     },
     {
       "ticker": "EGAL.CA",
@@ -57,25 +71,8 @@
         "Egypt Aluminum stock enters new phase after AGM dividend approval - ad-hoc-news.de",
         "Egypt Aluminum stock: AGM follows strong fiscal 2026 earnings - ad-hoc-news.de"
       ],
-      "score": 60.3,
+      "score": 61.2,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and positive recent news (2 articles)."
-    },
-    {
-      "ticker": "COMI.CA",
-      "name": "Commercial International Bank",
-      "sector": "Banks",
-      "price": 131.0,
-      "momentum_1m": 8.264462809917351,
-      "momentum_3m": -6.421890949638587,
-      "volatility": 22.76292085207369,
-      "avg_volume": 3985470.533333333,
-      "trailing_pe": 3.9094846,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 60.2,
-      "blurb": "Ranks high on low price volatility and solid recent momentum (+8.3%)."
     },
     {
       "ticker": "ETEL.CA",
@@ -91,7 +88,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.2,
+      "score": 60.7,
       "blurb": "Ranks high on attractive valuation (P/E 2.2) and strong 3-month momentum (+24.4%)."
     },
     {
@@ -108,8 +105,25 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.0,
+      "score": 60.2,
       "blurb": "Ranks high on solid recent momentum (+21.8%) and a high dividend yield (13.4%)."
+    },
+    {
+      "ticker": "HRHO.CA",
+      "name": "EFG Hermes Holding",
+      "sector": "Financial Services",
+      "price": 25.610000610351562,
+      "momentum_1m": 1.626983472219079,
+      "momentum_3m": -6.018346384030959,
+      "volatility": 28.64424724262067,
+      "avg_volume": 4009863.3333333335,
+      "trailing_pe": 8.07116,
+      "dividend_yield": 1.31008485,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 57.4,
+      "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
       "ticker": "ACGC.CA",
@@ -131,23 +145,6 @@
       "blurb": "Ranks high on strong 3-month momentum (+26.2%) and solid recent momentum (+6.1%)."
     },
     {
-      "ticker": "HRHO.CA",
-      "name": "EFG Hermes Holding",
-      "sector": "Financial Services",
-      "price": 25.610000610351562,
-      "momentum_1m": 1.626983472219079,
-      "momentum_3m": -6.018346384030959,
-      "volatility": 28.64424724262067,
-      "avg_volume": 4009863.3333333335,
-      "trailing_pe": 8.07116,
-      "dividend_yield": 1.31008485,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 56.2,
-      "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
-    },
-    {
       "ticker": "TMGH.CA",
       "name": "Talaat Moustafa Group",
       "sector": "Real Estate",
@@ -159,35 +156,35 @@
       "trailing_pe": 7.733333,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Talaat Moustafa Group stock: TMG takes global golf award - ad-hoc-news.de",
         "Talaat Moustafa Group stock gains AXA tie-up at The Spine - ad-hoc-news.de"
       ],
-      "score": 53.6,
-      "blurb": "Ranks high on positive recent news (1 articles) and low price volatility."
+      "score": 55.2,
+      "blurb": "Ranks high on positive recent news (2 articles) and low price volatility."
     },
     {
-      "ticker": "ABUK.CA",
-      "name": "Abu Qir Fertilizers",
-      "sector": "Chemicals",
-      "price": 74.26000213623047,
-      "momentum_1m": -11.941182824824658,
-      "momentum_3m": -1.0789896921360898,
-      "volatility": 41.13947095653375,
-      "avg_volume": 1194797.6333333333,
-      "trailing_pe": 5.580861,
-      "dividend_yield": 10.1608805,
+      "ticker": "ADIB.CA",
+      "name": "Abu Dhabi Islamic Bank Egypt",
+      "sector": "Banks",
+      "price": 50.439998626708984,
+      "momentum_1m": 13.348311520694356,
+      "momentum_3m": -6.627178453753924,
+      "volatility": 35.80462024646774,
+      "avg_volume": 1678498.7333333334,
+      "trailing_pe": 4.105092,
+      "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 5,
+      "article_count": 4,
       "top_headlines": [
-        "Abu Qir Fertilizers keeps two plants at full capacity despite 33% gas supply cut - Energy - Business - Ahram Online",
-        "Government Cuts Gas Supplies to Abu Qir Fertilizers by 33% - Egypt Oil & Gas",
-        "Abu Qir Fertilizers Adjusts Operations Following Natural Gas Supply Cut - Egypt Oil & Gas",
-        "Abu Qir Fertilizers stock: Profit more than doubles in nine months - ad-hoc-news.de",
-        "Abu Qir Fertilizers stock draws focus after profit surge - ad-hoc-news.de"
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) stock price, news, quote and history - Yahoo Finance UK",
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal returns chart - Yahoo Finance UK",
+        "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com"
       ],
-      "score": 53.1,
-      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (-1.1%)."
+      "score": 54.9,
+      "blurb": "Ranks high on solid recent momentum (+13.3%) and low price volatility."
     },
     {
       "ticker": "CIEB.CA",
@@ -209,29 +206,8 @@
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance UK",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance Australia"
       ],
-      "score": 53.1,
+      "score": 54.3,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
-    },
-    {
-      "ticker": "ADIB.CA",
-      "name": "Abu Dhabi Islamic Bank Egypt",
-      "sector": "Banks",
-      "price": 50.439998626708984,
-      "momentum_1m": 13.348311520694356,
-      "momentum_3m": -6.627178453753924,
-      "volatility": 35.80462024646774,
-      "avg_volume": 1678498.7333333334,
-      "trailing_pe": 4.3105803,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 3,
-      "top_headlines": [
-        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal returns chart - Yahoo Finance UK",
-        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
-        "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com"
-      ],
-      "score": 53.1,
-      "blurb": "Ranks high on solid recent momentum (+13.3%) and low price volatility."
     },
     {
       "ticker": "CCAP.CA",
@@ -247,7 +223,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.1,
+      "score": 54.3,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+14.4%)."
     },
     {
@@ -266,7 +242,7 @@
       "top_headlines": [
         "Egyptian tycoon Ahmed Elsewedy's firm moves into elevators - Billionaires.Africa"
       ],
-      "score": 51.9,
+      "score": 52.7,
       "blurb": "Ranks high on solid recent momentum (+9.9%) and strong 3-month momentum (+13.8%)."
     },
     {
@@ -285,7 +261,7 @@
       "top_headlines": [
         "In 2026, Just One in Ten African Startup Rounds Is Led by Local Money - Launch Base Africa"
       ],
-      "score": 49.0,
+      "score": 49.7,
       "blurb": "Ranks high on strong 3-month momentum (+4.9%) and solid recent momentum (+4.7%)."
     },
     {
@@ -305,7 +281,7 @@
         "Heliopolis Housing stock: board discloses September indicators - ad-hoc-news.de",
         "Heliopolis Housing stock in focus as company building enters heritage register - ad-hoc-news.de"
       ],
-      "score": 48.3,
+      "score": 49.7,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -322,8 +298,30 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.5,
+      "score": 48.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and solid recent momentum (+4.9%)."
+    },
+    {
+      "ticker": "ABUK.CA",
+      "name": "Abu Qir Fertilizers",
+      "sector": "Chemicals",
+      "price": 74.26000213623047,
+      "momentum_1m": -11.941182824824658,
+      "momentum_3m": -1.0789896921360898,
+      "volatility": 41.13947095653375,
+      "avg_volume": 1194797.6333333333,
+      "trailing_pe": 5.580861,
+      "dividend_yield": 10.1608805,
+      "sentiment_score": -50.0,
+      "article_count": 4,
+      "top_headlines": [
+        "Abu Qir Fertilizers keeps two plants at full capacity despite 33% gas supply cut - Energy - Business - Ahram Online",
+        "Government Cuts Gas Supplies to Abu Qir Fertilizers by 33% - Egypt Oil & Gas",
+        "Abu Qir Fertilizers Adjusts Operations Following Natural Gas Supply Cut - Egypt Oil & Gas",
+        "Abu Qir Fertilizers stock: Profit more than doubles in nine months - ad-hoc-news.de"
+      ],
+      "score": 47.6,
+      "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (-1.1%)."
     },
     {
       "ticker": "PHDC.CA",
@@ -341,8 +339,25 @@
       "top_headlines": [
         "Palm Hills DevelopmentsE (CASE:PHDC) - Stock Analysis - Simply Wall St"
       ],
-      "score": 46.0,
+      "score": 47.5,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
+    },
+    {
+      "ticker": "MFPC.CA",
+      "name": "Misr Fertilizers Production (MOPCO)",
+      "sector": "Chemicals",
+      "price": 38.099998474121094,
+      "momentum_1m": -13.448436897047976,
+      "momentum_3m": 0.2631538792660315,
+      "volatility": 39.154704491823495,
+      "avg_volume": 1514684.7333333334,
+      "trailing_pe": 7.949183,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 46.5,
+      "blurb": "Ranks high on strong 3-month momentum (+0.3%) and low price volatility."
     },
     {
       "ticker": "SKPC.CA",
@@ -358,25 +373,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.6,
+      "score": 46.2,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
-    },
-    {
-      "ticker": "MFPC.CA",
-      "name": "Misr Fertilizers Production (MOPCO)",
-      "sector": "Chemicals",
-      "price": 38.099998474121094,
-      "momentum_1m": -13.448436897047976,
-      "momentum_3m": 0.2631538792660315,
-      "volatility": 39.154704491823495,
-      "avg_volume": 1514684.7333333334,
-      "trailing_pe": 8.264151,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 44.2,
-      "blurb": "Ranks high on strong 3-month momentum (+0.3%) and low price volatility."
     },
     {
       "ticker": "JUFO.CA",
@@ -395,7 +393,7 @@
         "Juhayna Food Industries stock: Loan funds citrus expansion - ad-hoc-news.de",
         "Juhayna Food Industries stock: USD 31.6 million loan backs citrus expansion - ad-hoc-news.de"
       ],
-      "score": 40.7,
+      "score": 42.0,
       "blurb": "Ranks high on positive recent news (2 articles) and solid recent momentum (+4.4%)."
     },
     {
@@ -414,7 +412,7 @@
       "top_headlines": [
         "Ibnsina Pharma (CASE:ISPH) - Stock Analysis - Simply Wall St"
       ],
-      "score": 39.2,
+      "score": 40.5,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -433,25 +431,8 @@
       "top_headlines": [
         "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall St"
       ],
-      "score": 35.8,
+      "score": 36.6,
       "blurb": "Ranks high on solid recent momentum (+10.2%) and a high dividend yield (2.0%)."
-    },
-    {
-      "ticker": "ORHD.CA",
-      "name": "Orascom Development Egypt",
-      "sector": "Real Estate",
-      "price": 10.510000228881836,
-      "momentum_1m": -2.4141153001939974,
-      "momentum_3m": -74.94636462994573,
-      "volatility": 106.9564456933667,
-      "avg_volume": 10952779.0,
-      "trailing_pe": 9.244898,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 28.1,
-      "blurb": "Ranks high on strong trading liquidity."
     },
     {
       "ticker": "OCDI.CA",
@@ -467,8 +448,42 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.1,
+      "score": 28.9,
       "blurb": "Ranks high on solid recent momentum (+5.6%)."
+    },
+    {
+      "ticker": "ORHD.CA",
+      "name": "Orascom Development Egypt",
+      "sector": "Real Estate",
+      "price": 10.510000228881836,
+      "momentum_1m": -2.4141153001939974,
+      "momentum_3m": -74.94636462994573,
+      "volatility": 106.9564456933667,
+      "avg_volume": 10952779.0,
+      "trailing_pe": 9.244898,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 28.9,
+      "blurb": "Ranks high on strong trading liquidity."
+    },
+    {
+      "ticker": "MTIE.CA",
+      "name": "MM Group for Industry and Trade",
+      "sector": "Industrials",
+      "price": 7.5,
+      "momentum_1m": 0.5361925153952507,
+      "momentum_3m": -24.812025762114885,
+      "volatility": 45.58381548120644,
+      "avg_volume": 2847450.6666666665,
+      "trailing_pe": 19.444445,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 27.5,
+      "blurb": "No single standout factor; ranks mid-pack across the board."
     }
   ]
 }
