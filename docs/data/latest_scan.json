@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:00:35.928709+00:00",
+  "generated_at": "2026-11-13T23:18:34.959266+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -30,11 +30,12 @@
       "trailing_pe": 2.0191004,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 3,
+      "article_count": 4,
       "top_headlines": [
         "Telecom Egypt Joins MSCI Global Standard Index for Emerging Markets - Sada Elbalad English",
         "Earnings call transcript: Telecom Egypt posts strong Q3 2026 growth By Investing.com - Investing.com UK",
-        "Telecom Egypt Company Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com"
+        "Telecom Egypt Company Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - www.marketscreener.com",
+        "REG - Telecom Egypt S.A.E - 2027 Guidance: Growth, Investment, and Cash - TradingView"
       ],
       "score": 66.9,
       "blurb": "Ranks high on attractive valuation (P/E 2.0) and strong 3-month momentum (+16.7%)."
@@ -176,7 +177,7 @@
       "momentum_3m": 24.71110873752169,
       "volatility": 48.26403896283079,
       "avg_volume": 630572.2,
-      "trailing_pe": 4.321429,
+      "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -196,12 +197,10 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 6,
+      "article_count": 3,
       "top_headlines": [
         "Credit Agricole - Egypt Bank (S.A.E.) (CIEB.CA) Seasonal returns chart - Yahoo Finance UK",
         "Credit Agricole Egypt stock gets fresh earnings update - ad-hoc-news.de",
-        "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
-        "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance UK",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance Australia"
       ],
       "score": 52.8,
@@ -216,7 +215,7 @@
       "momentum_3m": 12.247743251607822,
       "volatility": 47.83365258176469,
       "avg_volume": 499623.5,
-      "trailing_pe": 6.2258487,
+      "trailing_pe": 6.266754,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -314,7 +313,7 @@
       "momentum_3m": -0.5134807677070752,
       "volatility": 41.578952176023954,
       "avg_volume": 1323964.7333333334,
-      "trailing_pe": 5.543726,
+      "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
       "sentiment_score": -50.0,
       "article_count": 4,
@@ -425,7 +424,7 @@
       "momentum_3m": -40.091744050384804,
       "volatility": 59.77197315787113,
       "avg_volume": 2042715.4,
-      "trailing_pe": 18.909678,
+      "trailing_pe": 19.156862,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -444,7 +443,7 @@
       "momentum_3m": -76.03170930458842,
       "volatility": 106.52810653676828,
       "avg_volume": 10954431.633333333,
-      "trailing_pe": 9.120806,
+      "trailing_pe": 9.244898,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
