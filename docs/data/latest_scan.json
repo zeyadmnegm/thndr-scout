@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:02:38.343253+00:00",
+  "generated_at": "2026-11-14T22:01:01.360869+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -87,10 +87,8 @@
       "trailing_pe": 2.0191004,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Telecom Egypt Company S.A.E. (EGS48031C016.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 60.0,
       "blurb": "Ranks high on attractive valuation (P/E 2.0) and strong 3-month momentum (+16.7%)."
     },
@@ -176,9 +174,10 @@
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 2,
+      "article_count": 3,
       "top_headlines": [
         "Credit Agricole Egypt stock gets fresh earnings update - ad-hoc-news.de",
+        "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal returns chart - Yahoo Finance Australia"
       ],
       "score": 53.4,
@@ -217,8 +216,8 @@
       "sentiment_score": 0.0,
       "article_count": 3,
       "top_headlines": [
+        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) stock price, news, quote and history - Yahoo Finance Australia",
         "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) stock price, news, quote and history - Yahoo Finance UK",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com"
       ],
       "score": 52.4,
@@ -311,10 +310,8 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Palm Hills DevelopmentsE (CASE:PHDC) - Stock Analysis - Simply Wall St"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 48.8,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
