@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T13:30:55.993773+00:00",
+  "generated_at": "2026-11-15T22:32:14.115425+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -15,27 +15,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 70.4,
+      "score": 70.7,
       "blurb": "Ranks high on strong 3-month momentum (+26.6%) and a high dividend yield (8.8%)."
-    },
-    {
-      "ticker": "ETEL.CA",
-      "name": "Telecom Egypt",
-      "sector": "Telecom",
-      "price": 133.0,
-      "momentum_1m": -8.52819423452823,
-      "momentum_3m": 16.666666666666675,
-      "volatility": 39.453129096368755,
-      "avg_volume": 1805807.9333333333,
-      "trailing_pe": 2.0191004,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Earnings call transcript: Telecom Egypt posts strong Q3 2026 growth By Investing.com - Investing.com UK"
-      ],
-      "score": 67.5,
-      "blurb": "Ranks high on attractive valuation (P/E 2.0) and positive recent news (1 articles)."
     },
     {
       "ticker": "COMI.CA",
@@ -55,7 +36,7 @@
         "Commercial International Bank Egypt (CIB) S.A.E. (CBKD.L) stock price, news, quote and history - Yahoo Finance UK",
         "Commercial International Bank (Egypt) S.A.E. Q3 Earnings Call Highlights - Yahoo Finance"
       ],
-      "score": 65.6,
+      "score": 65.9,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -72,8 +53,27 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 65.6,
+      "score": 65.9,
       "blurb": "Ranks high on solid recent momentum (+17.9%) and a high dividend yield (13.4%)."
+    },
+    {
+      "ticker": "ETEL.CA",
+      "name": "Telecom Egypt",
+      "sector": "Telecom",
+      "price": 133.0,
+      "momentum_1m": -8.52819423452823,
+      "momentum_3m": 16.666666666666675,
+      "volatility": 39.453129096368755,
+      "avg_volume": 1805807.9333333333,
+      "trailing_pe": 2.0191004,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Telecom Egypt Company S.A.E. (EGS48031C016.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+      ],
+      "score": 60.3,
+      "blurb": "Ranks high on attractive valuation (P/E 2.0) and strong 3-month momentum (+16.7%)."
     },
     {
       "ticker": "EGAL.CA",
@@ -89,7 +89,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.4,
+      "score": 59.7,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and solid recent momentum (+6.5%)."
     },
     {
@@ -106,7 +106,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.8,
+      "score": 59.1,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+15.5%)."
     },
     {
@@ -123,7 +123,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.0,
+      "score": 58.3,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
@@ -142,7 +142,7 @@
       "top_headlines": [
         "Raya Holding Company for Financial Investments (S.A.E) (CASE:RAYA) - Stock Analysis - Simply Wall St"
       ],
-      "score": 57.7,
+      "score": 58.0,
       "blurb": "Ranks high on positive recent news (1 articles) and solid recent momentum (+4.4%)."
     },
     {
@@ -159,7 +159,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 56.8,
+      "score": 57.1,
       "blurb": "Ranks high on strong 3-month momentum (+24.7%) and solid recent momentum (+3.9%)."
     },
     {
@@ -179,7 +179,7 @@
         "Credit Agricole Egypt stock gets fresh earnings update - ad-hoc-news.de",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
       ],
-      "score": 53.4,
+      "score": 53.7,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -198,7 +198,7 @@
       "top_headlines": [
         "Egyptian tycoon Ahmed Elsewedy's firm moves into elevators - Billionaires.Africa"
       ],
-      "score": 52.8,
+      "score": 53.1,
       "blurb": "Ranks high on solid recent momentum (+6.7%) and strong 3-month momentum (+12.2%)."
     },
     {
@@ -213,13 +213,12 @@
       "trailing_pe": 4.105092,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 2,
       "top_headlines": [
-        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) stock price, news, quote and history - Yahoo Finance Australia",
-        "Abu Dhabi Islamic Bank- Egypt (EGS60111C019.CA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "Abu Dhabi Islamic Bank - Egypt - S.A.E (ADIB.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com"
       ],
-      "score": 52.8,
+      "score": 53.1,
       "blurb": "Ranks high on solid recent momentum (+5.1%) and low price volatility."
     },
     {
@@ -238,7 +237,7 @@
       "top_headlines": [
         "Talaat Moustafa Group stock gains AXA tie-up at The Spine - ad-hoc-news.de"
       ],
-      "score": 52.1,
+      "score": 52.4,
       "blurb": "Ranks high on positive recent news (1 articles) and low price volatility."
     },
     {
@@ -257,7 +256,7 @@
       "top_headlines": [
         "In 2026, Just One in Ten African Startup Rounds Is Led by Local Money - Launch Base Africa"
       ],
-      "score": 49.8,
+      "score": 50.1,
       "blurb": "Ranks high on strong 3-month momentum (+3.1%) and solid recent momentum (+2.6%)."
     },
     {
@@ -274,7 +273,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.8,
+      "score": 50.1,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -293,7 +292,7 @@
       "top_headlines": [
         "Heliopolis Housing stock: board discloses September indicators - ad-hoc-news.de"
       ],
-      "score": 49.8,
+      "score": 50.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.4) and strong trading liquidity."
     },
     {
@@ -308,11 +307,9 @@
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Palm Hills DevelopmentsE (CASE:PHDC) - Stock Analysis - Simply Wall St"
-      ],
-      "score": 48.8,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 49.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -350,7 +347,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 46.8,
+      "score": 47.1,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -367,7 +364,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.4,
+      "score": 44.7,
       "blurb": "Ranks high on strong 3-month momentum (-1.6%) and low price volatility."
     },
     {
@@ -384,7 +381,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 39.8,
+      "score": 40.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -403,7 +400,7 @@
       "top_headlines": [
         "Juhayna Food Industries stock: Loan funds citrus expansion - ad-hoc-news.de"
       ],
-      "score": 38.1,
+      "score": 38.4,
       "blurb": "Ranks high on positive recent news (1 articles)."
     },
     {
@@ -422,7 +419,7 @@
       "top_headlines": [
         "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall St"
       ],
-      "score": 34.4,
+      "score": 34.7,
       "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (+3.9%)."
     },
     {
@@ -439,7 +436,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 28.6,
+      "score": 28.9,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -456,7 +453,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.8,
+      "score": 26.1,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -473,7 +470,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 25.2,
+      "score": 25.5,
       "blurb": "Ranks high on solid recent momentum (+0.5%)."
     }
   ]
