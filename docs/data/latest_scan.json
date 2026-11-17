@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:57:55.517540+00:00",
+  "generated_at": "2026-11-17T01:39:31.839031+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -17,47 +17,8 @@
       "top_headlines": [
         "Alexandria Mineral Oils stock posts 153.7% nine-month profit gain - ad-hoc-news.de"
       ],
-      "score": 76.4,
+      "score": 77.1,
       "blurb": "Ranks high on strong 3-month momentum (+26.6%) and a high dividend yield (8.8%)."
-    },
-    {
-      "ticker": "EAST.CA",
-      "name": "Eastern Company",
-      "sector": "Consumer Goods",
-      "price": 34.54999923706055,
-      "momentum_1m": 17.918089203768496,
-      "momentum_3m": -4.715938123629648,
-      "volatility": 30.461629207635887,
-      "avg_volume": 1582582.1333333333,
-      "trailing_pe": 7.147541,
-      "dividend_yield": 13.418078,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Eastern Company stock reports sharp nine-month profit growth - ad-hoc-news.de"
-      ],
-      "score": 71.6,
-      "blurb": "Ranks high on solid recent momentum (+17.9%) and a high dividend yield (13.4%)."
-    },
-    {
-      "ticker": "ETEL.CA",
-      "name": "Telecom Egypt",
-      "sector": "Telecom",
-      "price": 133.0,
-      "momentum_1m": -8.52819423452823,
-      "momentum_3m": 16.666666666666675,
-      "volatility": 39.453129096368755,
-      "avg_volume": 1805807.9333333333,
-      "trailing_pe": 2.063602,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 2,
-      "top_headlines": [
-        "Earnings call transcript: Telecom Egypt posts strong Q3 2026 growth By Investing.com - Investing.com UK",
-        "REG - Telecom Egypt S.A.E - 2027 Guidance: Growth, Investment, and Cash - TradingView"
-      ],
-      "score": 66.0,
-      "blurb": "Ranks high on attractive valuation (P/E 2.1) and strong 3-month momentum (+16.7%)."
     },
     {
       "ticker": "COMI.CA",
@@ -77,8 +38,25 @@
         "Commercial International Bank Egypt (CIB) S.A.E. (CBKD.L) stock price, news, quote and history - Yahoo Finance UK",
         "Commercial International Bank (Egypt) S.A.E. Q3 Earnings Call Highlights - Yahoo Finance"
       ],
-      "score": 64.7,
+      "score": 65.2,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
+    },
+    {
+      "ticker": "EAST.CA",
+      "name": "Eastern Company",
+      "sector": "Consumer Goods",
+      "price": 34.54999923706055,
+      "momentum_1m": 17.918089203768496,
+      "momentum_3m": -4.715938123629648,
+      "volatility": 30.461629207635887,
+      "avg_volume": 1582582.1333333333,
+      "trailing_pe": 7.147541,
+      "dividend_yield": 13.418078,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 64.6,
+      "blurb": "Ranks high on solid recent momentum (+17.9%) and a high dividend yield (13.4%)."
     },
     {
       "ticker": "ACGC.CA",
@@ -96,8 +74,25 @@
       "top_headlines": [
         "Arabian Cement stock posts 20.2% nine-month net income rise - ad-hoc-news.de"
       ],
-      "score": 62.8,
+      "score": 63.5,
       "blurb": "Ranks high on strong 3-month momentum (+24.7%) and positive recent news (1 articles)."
+    },
+    {
+      "ticker": "ETEL.CA",
+      "name": "Telecom Egypt",
+      "sector": "Telecom",
+      "price": 133.0,
+      "momentum_1m": -8.52819423452823,
+      "momentum_3m": 16.666666666666675,
+      "volatility": 39.453129096368755,
+      "avg_volume": 1805807.9333333333,
+      "trailing_pe": 2.063602,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 59.8,
+      "blurb": "Ranks high on attractive valuation (P/E 2.1) and strong 3-month momentum (+16.7%)."
     },
     {
       "ticker": "ADIB.CA",
@@ -117,8 +112,8 @@
         "Abu Dhabi Islamic Bank - Egypt - S.A.E (ADIB.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com"
       ],
-      "score": 58.2,
-      "blurb": "Ranks high on solid recent momentum (+5.1%) and positive recent news (3 articles)."
+      "score": 58.8,
+      "blurb": "Ranks high on positive recent news (3 articles) and solid recent momentum (+5.1%)."
     },
     {
       "ticker": "EGAL.CA",
@@ -134,7 +129,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.9,
+      "score": 58.8,
       "blurb": "Ranks high on attractive valuation (P/E 2.8) and solid recent momentum (+6.5%)."
     },
     {
@@ -151,7 +146,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.3,
+      "score": 58.1,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+15.5%)."
     },
     {
@@ -168,27 +163,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.1,
+      "score": 57.9,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
-    },
-    {
-      "ticker": "RAYA.CA",
-      "name": "Raya Holding",
-      "sector": "Technology",
-      "price": 6.230000019073486,
-      "momentum_1m": 4.355112864643651,
-      "momentum_3m": -11.881189988578168,
-      "volatility": 43.850490199060474,
-      "avg_volume": 4266719.766666667,
-      "trailing_pe": 3.586207,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Raya Holding Company for Financial Investments (S.A.E) (CASE:RAYA) - Stock Analysis - Simply Wall St"
-      ],
-      "score": 56.2,
-      "blurb": "Ranks high on solid recent momentum (+4.4%) and positive recent news (1 articles)."
     },
     {
       "ticker": "HELI.CA",
@@ -207,8 +183,8 @@
         "Heliopolis Housing stock: Nine-month profit reaches EGP 2.14 billion - ad-hoc-news.de",
         "Heliopolis Housing stock: board discloses September indicators - ad-hoc-news.de"
       ],
-      "score": 55.8,
-      "blurb": "Ranks high on attractive valuation (P/E 3.4) and strong trading liquidity."
+      "score": 56.2,
+      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 3.4)."
     },
     {
       "ticker": "CIEB.CA",
@@ -227,7 +203,7 @@
         "Credit Agricole Egypt stock gets fresh earnings update - ad-hoc-news.de",
         "Credit Agricole - Egypt Bank (S.A.E.) (EGS60041C018.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
       ],
-      "score": 51.9,
+      "score": 52.9,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
     },
     {
@@ -244,27 +220,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 51.3,
+      "score": 51.9,
       "blurb": "Ranks high on solid recent momentum (+6.7%) and strong 3-month momentum (+12.2%)."
-    },
-    {
-      "ticker": "TMGH.CA",
-      "name": "Talaat Moustafa Group",
-      "sector": "Real Estate",
-      "price": 83.94999694824219,
-      "momentum_1m": -0.9439564032540537,
-      "momentum_3m": -14.16155999114429,
-      "volatility": 26.680789494694473,
-      "avg_volume": 2922258.7,
-      "trailing_pe": 7.774799,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Talaat Moustafa Group stock gains AXA tie-up at The Spine - ad-hoc-news.de"
-      ],
-      "score": 50.6,
-      "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
       "ticker": "EFIH.CA",
@@ -282,8 +239,59 @@
       "top_headlines": [
         "In 2026, Just One in Ten African Startup Rounds Is Led by Local Money - Launch Base Africa"
       ],
-      "score": 48.3,
+      "score": 49.4,
       "blurb": "Ranks high on strong 3-month momentum (+3.1%) and solid recent momentum (+2.6%)."
+    },
+    {
+      "ticker": "RAYA.CA",
+      "name": "Raya Holding",
+      "sector": "Technology",
+      "price": 6.230000019073486,
+      "momentum_1m": 4.355112864643651,
+      "momentum_3m": -11.881189988578168,
+      "volatility": 43.850490199060474,
+      "avg_volume": 4266719.766666667,
+      "trailing_pe": 3.586207,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 48.8,
+      "blurb": "Ranks high on solid recent momentum (+4.4%) and attractive valuation (P/E 3.6)."
+    },
+    {
+      "ticker": "FWRY.CA",
+      "name": "Fawry for Banking Technology",
+      "sector": "Fintech",
+      "price": 17.8700008392334,
+      "momentum_1m": -4.896221561829151,
+      "momentum_3m": -5.996840483549493,
+      "volatility": 27.5092184139351,
+      "avg_volume": 6892137.133333334,
+      "trailing_pe": 8.023529,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 48.1,
+      "blurb": "Ranks high on low price volatility and strong trading liquidity."
+    },
+    {
+      "ticker": "PHDC.CA",
+      "name": "Palm Hills Developments",
+      "sector": "Real Estate",
+      "price": 12.399999618530273,
+      "momentum_1m": -3.3515222738331296,
+      "momentum_3m": -18.901244934813644,
+      "volatility": 36.153958035438414,
+      "avg_volume": 9293585.2,
+      "trailing_pe": 3.3239436,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 47.7,
+      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
       "ticker": "ABUK.CA",
@@ -303,42 +311,8 @@
         "Government Cuts Gas Supplies to Abu Qir Fertilizers by 33% - Egypt Oil & Gas",
         "Abu Qir Fertilizers Adjusts Operations Following Natural Gas Supply Cut - Egypt Oil & Gas"
       ],
-      "score": 47.8,
+      "score": 47.1,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (-0.5%)."
-    },
-    {
-      "ticker": "FWRY.CA",
-      "name": "Fawry for Banking Technology",
-      "sector": "Fintech",
-      "price": 17.8700008392334,
-      "momentum_1m": -4.896221561829151,
-      "momentum_3m": -5.996840483549493,
-      "volatility": 27.5092184139351,
-      "avg_volume": 6892137.133333334,
-      "trailing_pe": 8.023529,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 47.7,
-      "blurb": "Ranks high on low price volatility and strong trading liquidity."
-    },
-    {
-      "ticker": "PHDC.CA",
-      "name": "Palm Hills Developments",
-      "sector": "Real Estate",
-      "price": 12.399999618530273,
-      "momentum_1m": -3.3515222738331296,
-      "momentum_3m": -18.901244934813644,
-      "volatility": 36.153958035438414,
-      "avg_volume": 9293585.2,
-      "trailing_pe": 3.3239436,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 47.3,
-      "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
       "ticker": "SKPC.CA",
@@ -354,7 +328,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.3,
+      "score": 46.2,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -366,13 +340,30 @@
       "momentum_3m": -1.6286683246405809,
       "volatility": 39.205856068480635,
       "avg_volume": 1644574.6333333333,
-      "trailing_pe": 8.455599,
+      "trailing_pe": 8.1564245,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.9,
+      "score": 43.5,
       "blurb": "Ranks high on strong 3-month momentum (-1.6%) and low price volatility."
+    },
+    {
+      "ticker": "TMGH.CA",
+      "name": "Talaat Moustafa Group",
+      "sector": "Real Estate",
+      "price": 83.94999694824219,
+      "momentum_1m": -0.9439564032540537,
+      "momentum_3m": -14.16155999114429,
+      "volatility": 26.680789494694473,
+      "avg_volume": 2922258.7,
+      "trailing_pe": 7.774799,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 43.3,
+      "blurb": "Ranks high on low price volatility."
     },
     {
       "ticker": "ISPH.CA",
@@ -403,31 +394,13 @@
       "trailing_pe": 10.394444,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
+        "Juhayna Food IndustriesE (CASE:JUFO) - Stock Analysis - Simply Wall St",
         "Juhayna Food Industries stock: Loan funds citrus expansion - ad-hoc-news.de"
       ],
-      "score": 36.6,
-      "blurb": "Ranks high on positive recent news (1 articles)."
-    },
-    {
-      "ticker": "EFID.CA",
-      "name": "Edita Food Industries",
-      "sector": "Consumer Goods",
-      "price": 19.59000015258789,
-      "momentum_1m": 3.8706231103495137,
-      "momentum_3m": -40.091744050384804,
-      "volatility": 60.480679719978255,
-      "avg_volume": 2042715.4,
-      "trailing_pe": 18.788462,
-      "dividend_yield": 1.9538669000000002,
-      "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Edita Food Industries Company (S.A.E) (CASE:EFID) - Stock Analysis - Simply Wall St"
-      ],
-      "score": 32.9,
-      "blurb": "Ranks high on a high dividend yield (2.0%) and solid recent momentum (+3.9%)."
+      "score": 36.7,
+      "blurb": "Ranks high on positive recent news (2 articles)."
     },
     {
       "ticker": "ORHD.CA",
@@ -443,7 +416,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.1,
+      "score": 28.1,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -460,7 +433,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 24.3,
+      "score": 24.4,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -477,7 +450,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 23.7,
+      "score": 23.5,
       "blurb": "Ranks high on solid recent momentum (+0.5%)."
     }
   ]
