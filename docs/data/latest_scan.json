@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:12:43.199132+00:00",
+  "generated_at": "2026-11-18T23:56:47.093478+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -17,7 +17,7 @@
       "top_headlines": [
         "Alexandria Mineral Oils stock posts 153.7% nine-month profit gain - ad-hoc-news.de"
       ],
-      "score": 80.4,
+      "score": 79.4,
       "blurb": "Ranks high on strong 3-month momentum (+13.9%) and a high dividend yield (8.8%)."
     },
     {
@@ -36,7 +36,7 @@
       "top_headlines": [
         "Eastern Company stock reports sharp nine-month profit growth - ad-hoc-news.de"
       ],
-      "score": 72.7,
+      "score": 72.1,
       "blurb": "Ranks high on solid recent momentum (+18.4%) and a high dividend yield (13.4%)."
     },
     {
@@ -56,7 +56,7 @@
         "Commercial International Bank Egypt (CIB) S.A.E. (CBKD.L) Q3 FY2026 earnings call transcript - Yahoo Finance",
         "Commercial International Bank (Egypt) S.A.E. Q3 Earnings Call Highlights - Yahoo Finance"
       ],
-      "score": 67.5,
+      "score": 66.9,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -71,11 +71,9 @@
       "trailing_pe": 2.0191004,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Telecom Egypt Company S.A.E. (EGS48031C016.CA) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
-      ],
-      "score": 63.6,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 64.0,
       "blurb": "Ranks high on strong 3-month momentum (+19.5%) and attractive valuation (P/E 2.0)."
     },
     {
@@ -94,7 +92,7 @@
       "top_headlines": [
         "Arabian Cement stock posts 20.2% nine-month net income rise - ad-hoc-news.de"
       ],
-      "score": 60.3,
+      "score": 60.4,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (+0.7%)."
     },
     {
@@ -111,7 +109,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 59.5,
+      "score": 59.8,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and solid recent momentum (+9.4%)."
     },
     {
@@ -128,7 +126,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 58.2,
+      "score": 57.5,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+13.0%)."
     },
     {
@@ -148,8 +146,42 @@
         "Abu Dhabi Islamic Bank Egypt stock: 9-month profit rises 22.8% - ad-hoc-news.de",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E (ADIB.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
       ],
-      "score": 56.6,
+      "score": 55.2,
       "blurb": "Ranks high on positive recent news (2 articles) and solid recent momentum (+5.2%)."
+    },
+    {
+      "ticker": "CIEB.CA",
+      "name": "Credit Agricole Egypt",
+      "sector": "Banks",
+      "price": 23.25,
+      "momentum_1m": 5.490013766833379,
+      "momentum_3m": -7.517897516046313,
+      "volatility": 23.961770027150834,
+      "avg_volume": 374086.93333333335,
+      "trailing_pe": 3.9609377,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 54.6,
+      "blurb": "Ranks high on low price volatility and solid recent momentum (+5.5%)."
+    },
+    {
+      "ticker": "EFIH.CA",
+      "name": "e-Finance Investment Group",
+      "sector": "Fintech",
+      "price": 24.90999984741211,
+      "momentum_1m": 7.556131310577463,
+      "momentum_3m": 1.2601604111189157,
+      "volatility": 39.20201896163556,
+      "avg_volume": 2633212.8666666667,
+      "trailing_pe": 33.533333,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 52.7,
+      "blurb": "Ranks high on strong 3-month momentum (+1.3%) and solid recent momentum (+7.6%)."
     },
     {
       "ticker": "HRHO.CA",
@@ -165,7 +197,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 53.8,
+      "score": 52.3,
       "blurb": "Ranks high on low price volatility and a high dividend yield (1.3%)."
     },
     {
@@ -182,25 +214,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 52.8,
+      "score": 51.7,
       "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.6)."
-    },
-    {
-      "ticker": "EFIH.CA",
-      "name": "e-Finance Investment Group",
-      "sector": "Fintech",
-      "price": 24.90999984741211,
-      "momentum_1m": 7.556131310577463,
-      "momentum_3m": 1.2601604111189157,
-      "volatility": 39.20201896163556,
-      "avg_volume": 2633212.8666666667,
-      "trailing_pe": 33.533333,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 52.4,
-      "blurb": "Ranks high on strong 3-month momentum (+1.3%) and solid recent momentum (+7.6%)."
     },
     {
       "ticker": "TMGH.CA",
@@ -218,7 +233,7 @@
       "top_headlines": [
         "TMG Q3 profit up 12.5% to EGP 5.06bn - Daily News Egypt"
       ],
-      "score": 51.8,
+      "score": 50.0,
       "blurb": "Ranks high on low price volatility and positive recent news (1 articles)."
     },
     {
@@ -241,25 +256,8 @@
         "Government Cuts Gas Supplies to Abu Qir Fertilizers by 33% - Egypt Oil & Gas",
         "Abu Qir Fertilizers keeps two plants at full capacity despite 33% gas supply cut - Energy - Business - Ahram Online"
       ],
-      "score": 49.2,
+      "score": 48.5,
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (-0.7%)."
-    },
-    {
-      "ticker": "FWRY.CA",
-      "name": "Fawry for Banking Technology",
-      "sector": "Fintech",
-      "price": 16.950000762939453,
-      "momentum_1m": -7.478160233112985,
-      "momentum_3m": -11.672744704424087,
-      "volatility": 27.73938194476393,
-      "avg_volume": 6841291.9,
-      "trailing_pe": 7.3333335,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 48.2,
-      "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
       "ticker": "SWDY.CA",
@@ -275,8 +273,42 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 48.0,
+      "score": 48.1,
       "blurb": "Ranks high on solid recent momentum (+9.7%) and strong 3-month momentum (-5.9%)."
+    },
+    {
+      "ticker": "FWRY.CA",
+      "name": "Fawry for Banking Technology",
+      "sector": "Fintech",
+      "price": 16.950000762939453,
+      "momentum_1m": -7.478160233112985,
+      "momentum_3m": -11.672744704424087,
+      "volatility": 27.73938194476393,
+      "avg_volume": 6841291.9,
+      "trailing_pe": 7.3333335,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 46.5,
+      "blurb": "Ranks high on low price volatility and strong trading liquidity."
+    },
+    {
+      "ticker": "MFPC.CA",
+      "name": "Misr Fertilizers Production (MOPCO)",
+      "sector": "Chemicals",
+      "price": 38.84000015258789,
+      "momentum_1m": -11.727272380482068,
+      "momentum_3m": -1.5712086828930882,
+      "volatility": 38.99125254773136,
+      "avg_volume": 1709712.3666666667,
+      "trailing_pe": 8.1564245,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 45.0,
+      "blurb": "Ranks high on strong 3-month momentum (-1.6%) and low price volatility."
     },
     {
       "ticker": "SKPC.CA",
@@ -292,7 +324,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.6,
+      "score": 44.8,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -309,25 +341,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.5,
+      "score": 44.4,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and strong trading liquidity."
-    },
-    {
-      "ticker": "MFPC.CA",
-      "name": "Misr Fertilizers Production (MOPCO)",
-      "sector": "Chemicals",
-      "price": 38.84000015258789,
-      "momentum_1m": -11.727272380482068,
-      "momentum_3m": -1.5712086828930882,
-      "volatility": 38.99125254773136,
-      "avg_volume": 1709712.3666666667,
-      "trailing_pe": 8.1564245,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 45.3,
-      "blurb": "Ranks high on strong 3-month momentum (-1.6%) and low price volatility."
     },
     {
       "ticker": "PHDC.CA",
@@ -343,7 +358,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.1,
+      "score": 44.0,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -360,25 +375,8 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 42.8,
+      "score": 41.7,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
-    },
-    {
-      "ticker": "EFID.CA",
-      "name": "Edita Food Industries",
-      "sector": "Consumer Goods",
-      "price": 20.850000381469727,
-      "momentum_1m": 15.19336984553532,
-      "momentum_3m": -36.23853243116717,
-      "volatility": 60.798232366875304,
-      "avg_volume": 1980317.8,
-      "trailing_pe": 19.156862,
-      "dividend_yield": 1.9538669000000002,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 35.8,
-      "blurb": "Ranks high on solid recent momentum (+15.2%) and a high dividend yield (2.0%)."
     },
     {
       "ticker": "JUFO.CA",
@@ -396,7 +394,7 @@
       "top_headlines": [
         "Juhayna Food IndustriesE (CASE:JUFO) - Stock Analysis - Simply Wall St"
       ],
-      "score": 32.4,
+      "score": 31.0,
       "blurb": "Ranks high on solid recent momentum (+2.4%)."
     },
     {
@@ -413,7 +411,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 30.9,
+      "score": 30.6,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -430,7 +428,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.4,
+      "score": 26.0,
       "blurb": "Ranks high on solid recent momentum (+3.6%)."
     },
     {
@@ -447,7 +445,7 @@
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 24.1,
+      "score": 22.9,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     }
   ]
