@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:06:45.440966+00:00",
+  "generated_at": "2026-11-20T23:43:38.435842+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -145,12 +145,13 @@
       "trailing_pe": 7.3333335,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 1,
+      "article_count": 2,
       "top_headlines": [
-        "Fawry Allocates USD 1.6M for Technology Investments by End of 2026 - waya.media"
+        "Fawry Allocates USD 1.6M for Technology Investments by End of 2026 - waya.media",
+        "Fawry stock posts 32.2% net profit growth in nine months - ad-hoc-news.de"
       ],
       "score": 57.0,
-      "blurb": "Ranks high on positive recent news (1 articles) and low price volatility."
+      "blurb": "Ranks high on positive recent news (2 articles) and low price volatility."
     },
     {
       "ticker": "CCAP.CA",
@@ -411,10 +412,8 @@
       "trailing_pe": 10.337016,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Juhayna Food IndustriesE (CASE:JUFO) - Stock Analysis - Simply Wall St"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 32.5,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
