@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T05:24:52.887430+00:00",
+  "generated_at": "2026-11-22T14:09:47.194673+00:00",
   "results": [
     {
       "ticker": "AMOC.CA",
@@ -8,7 +8,7 @@
       "price": 13.140000343322754,
       "momentum_1m": -3.736258530844061,
       "momentum_3m": 15.770924243979966,
-      "volatility": 45.17969470971405,
+      "volatility": 45.275412606373145,
       "avg_volume": 10081061.266666668,
       "trailing_pe": 5.218391,
       "dividend_yield": 8.791208000000001,
@@ -17,8 +17,31 @@
       "top_headlines": [
         "Alexandria Mineral Oils stock posts 153.7% nine-month profit gain - ad-hoc-news.de"
       ],
-      "score": 77.7,
-      "blurb": "Ranks high on strong 3-month momentum (+15.8%) and positive recent news (1 articles)."
+      "score": 77.4,
+      "blurb": "Ranks high on strong 3-month momentum (+15.8%) and a high dividend yield (8.8%)."
+    },
+    {
+      "ticker": "ETEL.CA",
+      "name": "Telecom Egypt",
+      "sector": "Telecom",
+      "price": 137.02000427246094,
+      "momentum_1m": -2.788217638077972,
+      "momentum_3m": 19.261907041846847,
+      "volatility": 41.197560421768245,
+      "avg_volume": 1970003.1666666667,
+      "trailing_pe": 2.0191004,
+      "dividend_yield": 0.0,
+      "sentiment_score": 100.0,
+      "article_count": 7,
+      "top_headlines": [
+        "Telecom Egypt Joins MSCI Global Standard Index for Emerging Markets - Sada Elbalad English",
+        "Telecom Egypt Q3 2026 Earnings Call Is Live - TradingView",
+        "Telecom Egypt (EGS48031C016.CA) Q3 FY2026 earnings call transcript - Yahoo Finance",
+        "Q3 2026 Results: Telecom Egypt Delivers Strong 9M 2026 Results as Strategy Execution Progresses - www.marketscreener.com",
+        "Telecom Egypt Company Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 - marketscreener.com"
+      ],
+      "score": 72.4,
+      "blurb": "Ranks high on strong 3-month momentum (+19.3%) and attractive valuation (P/E 2.0)."
     },
     {
       "ticker": "EAST.CA",
@@ -27,7 +50,7 @@
       "price": 34.08000183105469,
       "momentum_1m": 13.600006103515616,
       "momentum_3m": -5.385892843015894,
-      "volatility": 30.36252348420907,
+      "volatility": 30.484656749670357,
       "avg_volume": 1488824.4333333333,
       "trailing_pe": 7.29097,
       "dividend_yield": 13.418078,
@@ -36,7 +59,7 @@
       "top_headlines": [
         "Eastern Company stock reports sharp nine-month profit growth - ad-hoc-news.de"
       ],
-      "score": 72.1,
+      "score": 71.8,
       "blurb": "Ranks high on solid recent momentum (+13.6%) and a high dividend yield (13.4%)."
     },
     {
@@ -46,37 +69,17 @@
       "price": 127.5,
       "momentum_1m": -1.1627906976744207,
       "momentum_3m": -6.934306569343063,
-      "volatility": 22.05847994157348,
+      "volatility": 21.673317644648037,
       "avg_volume": 3899669.966666667,
       "trailing_pe": 4.117647,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
       "article_count": 1,
       "top_headlines": [
-        "Commercial International Bank Egypt CIB (COMI.CA) | Stock Price & Latest News - Reuters"
+        "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
-      "score": 65.8,
+      "score": 65.5,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
-    },
-    {
-      "ticker": "ETEL.CA",
-      "name": "Telecom Egypt",
-      "sector": "Telecom",
-      "price": 137.02000427246094,
-      "momentum_1m": -2.788217638077972,
-      "momentum_3m": 19.261907041846847,
-      "volatility": 40.69840353774675,
-      "avg_volume": 1970003.1666666667,
-      "trailing_pe": 2.0191004,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 2,
-      "top_headlines": [
-        "REG - Telecom Egypt S.A.E - TE Announced Q3 2026 FS & Earnings Release - TradingView",
-        "REG - Telecom Egypt S.A.E - Conslidated FS prepared with IFRSs for 3, 6 Months - TradingView"
-      ],
-      "score": 65.2,
-      "blurb": "Ranks high on strong 3-month momentum (+19.3%) and attractive valuation (P/E 2.0)."
     },
     {
       "ticker": "HRHO.CA",
@@ -85,14 +88,14 @@
       "price": 25.5,
       "momentum_1m": 2.8225838083631327,
       "momentum_3m": -3.0418222823871077,
-      "volatility": 29.828230928525905,
+      "volatility": 29.81808571401719,
       "avg_volume": 2662827.7333333334,
       "trailing_pe": 8.320463,
       "dividend_yield": 1.31008485,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 60.4,
+      "score": 60.1,
       "blurb": "Ranks high on low price volatility and solid recent momentum (+2.8%)."
     },
     {
@@ -102,7 +105,7 @@
       "price": 13.609999656677246,
       "momentum_1m": 2.63951298457048,
       "momentum_3m": -0.5843676125504627,
-      "volatility": 46.646367858802556,
+      "volatility": 45.40049224559864,
       "avg_volume": 584380.0666666667,
       "trailing_pe": 4.260564,
       "dividend_yield": 0.0,
@@ -111,7 +114,7 @@
       "top_headlines": [
         "Arabian Cement stock posts 20.2% nine-month net income rise - ad-hoc-news.de"
       ],
-      "score": 59.3,
+      "score": 59.4,
       "blurb": "Ranks high on positive recent news (1 articles) and strong 3-month momentum (-0.6%)."
     },
     {
@@ -121,7 +124,7 @@
       "price": 304.989990234375,
       "momentum_1m": 5.786534146889832,
       "momentum_3m": -2.823850585833243,
-      "volatility": 34.58858562654694,
+      "volatility": 34.789030225237546,
       "avg_volume": 307368.56666666665,
       "trailing_pe": 2.7443411,
       "dividend_yield": 0.0,
@@ -130,7 +133,7 @@
       "top_headlines": [
         "Egypt Aluminum (CASE:EGAL) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
-      "score": 58.6,
+      "score": 58.3,
       "blurb": "Ranks high on attractive valuation (P/E 2.7) and solid recent momentum (+5.8%)."
     },
     {
@@ -140,14 +143,14 @@
       "price": 5.929999828338623,
       "momentum_1m": -5.422649978025184,
       "momentum_3m": 5.892855880820003,
-      "volatility": 39.22010470126474,
+      "volatility": 39.35688364697493,
       "avg_volume": 66628052.833333336,
       "trailing_pe": 9.565217,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 57.0,
+      "score": 57.1,
       "blurb": "Ranks high on strong trading liquidity and strong 3-month momentum (+5.9%)."
     },
     {
@@ -157,7 +160,7 @@
       "price": 46.20000076293945,
       "momentum_1m": -1.681210656115728,
       "momentum_3m": -13.515532859383484,
-      "volatility": 34.452374453622234,
+      "volatility": 34.033187848931505,
       "avg_volume": 1588824.6333333333,
       "trailing_pe": 4.105092,
       "dividend_yield": 0.0,
@@ -167,25 +170,8 @@
         "Abu Dhabi Islamic Bank Egypt stock: 9-month profit rises 22.8% - ad-hoc-news.de",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E (ADIB.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
       ],
-      "score": 55.9,
-      "blurb": "Ranks high on positive recent news (2 articles) and attractive valuation (P/E 4.1)."
-    },
-    {
-      "ticker": "EFIH.CA",
-      "name": "e-Finance Investment Group",
-      "sector": "Fintech",
-      "price": 25.530000686645508,
-      "momentum_1m": 6.8200882599657175,
-      "momentum_3m": 4.2040844352877915,
-      "volatility": 39.11869970664853,
-      "avg_volume": 2453541.3,
-      "trailing_pe": 33.533333,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 54.2,
-      "blurb": "Ranks high on solid recent momentum (+6.8%) and strong 3-month momentum (+4.2%)."
+      "score": 56.0,
+      "blurb": "Ranks high on positive recent news (2 articles) and low price volatility."
     },
     {
       "ticker": "CIEB.CA",
@@ -194,15 +180,32 @@
       "price": 23.030000686645508,
       "momentum_1m": 1.6777089382568944,
       "momentum_3m": -6.305936704115522,
-      "volatility": 23.85738940780935,
+      "volatility": 24.023474710961036,
       "avg_volume": 408669.7,
       "trailing_pe": 3.9609377,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 54.2,
+      "score": 53.9,
       "blurb": "Ranks high on low price volatility and attractive valuation (P/E 4.0)."
+    },
+    {
+      "ticker": "EFIH.CA",
+      "name": "e-Finance Investment Group",
+      "sector": "Fintech",
+      "price": 25.530000686645508,
+      "momentum_1m": 6.8200882599657175,
+      "momentum_3m": 4.2040844352877915,
+      "volatility": 39.513310422355744,
+      "avg_volume": 2453541.3,
+      "trailing_pe": 33.533333,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 53.5,
+      "blurb": "Ranks high on solid recent momentum (+6.8%) and strong 3-month momentum (+4.2%)."
     },
     {
       "ticker": "SWDY.CA",
@@ -211,14 +214,16 @@
       "price": 117.5,
       "momentum_1m": 6.721164058524742,
       "momentum_3m": 1.2931034482758674,
-      "volatility": 48.00179984294985,
+      "volatility": 48.58087683466191,
       "avg_volume": 464041.1,
       "trailing_pe": 5.7045455,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 52.0,
+      "article_count": 1,
+      "top_headlines": [
+        "Egyptian billionaire Ahmed Elsewedy's Elsewedy Electric courted by India on data centres - Billionaires.Africa"
+      ],
+      "score": 51.7,
       "blurb": "Ranks high on solid recent momentum (+6.7%) and strong 3-month momentum (+1.3%)."
     },
     {
@@ -228,14 +233,14 @@
       "price": 5.980000019073486,
       "momentum_1m": 2.047779570392505,
       "momentum_3m": -14.571428298950195,
-      "volatility": 44.97857360673377,
+      "volatility": 43.74765862928014,
       "avg_volume": 4192840.9,
       "trailing_pe": 3.6491227,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 50.6,
+      "score": 50.3,
       "blurb": "Ranks high on attractive valuation (P/E 3.6) and solid recent momentum (+2.0%)."
     },
     {
@@ -245,32 +250,15 @@
       "price": 17.299999237060547,
       "momentum_1m": -6.435914271434595,
       "momentum_3m": -9.942737836754779,
-      "volatility": 27.80878307580506,
+      "volatility": 27.89382086106472,
       "avg_volume": 6623673.266666667,
       "trailing_pe": 7.3333335,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 49.8,
+      "score": 49.5,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
-    },
-    {
-      "ticker": "HELI.CA",
-      "name": "Heliopolis Housing",
-      "sector": "Real Estate",
-      "price": 6.599999904632568,
-      "momentum_1m": -5.714287076677593,
-      "momentum_3m": -14.17425415445146,
-      "volatility": 40.4190642249859,
-      "avg_volume": 10070508.2,
-      "trailing_pe": 3.6654806,
-      "dividend_yield": 0.0,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 49.4,
-      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.7)."
     },
     {
       "ticker": "ABUK.CA",
@@ -279,7 +267,7 @@
       "price": 76.36000061035156,
       "momentum_1m": -20.250652104071477,
       "momentum_3m": 1.1122934383264171,
-      "volatility": 41.35720475823235,
+      "volatility": 41.498258853122636,
       "avg_volume": 1360160.0333333334,
       "trailing_pe": 5.580861,
       "dividend_yield": 10.1608805,
@@ -296,20 +284,37 @@
       "blurb": "Ranks high on a high dividend yield (10.2%) and strong 3-month momentum (+1.1%)."
     },
     {
+      "ticker": "HELI.CA",
+      "name": "Heliopolis Housing",
+      "sector": "Real Estate",
+      "price": 6.599999904632568,
+      "momentum_1m": -5.714287076677593,
+      "momentum_3m": -14.17425415445146,
+      "volatility": 40.75678489645733,
+      "avg_volume": 10070508.2,
+      "trailing_pe": 3.6654806,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 49.1,
+      "blurb": "Ranks high on strong trading liquidity and attractive valuation (P/E 3.7)."
+    },
+    {
       "ticker": "MFPC.CA",
       "name": "Misr Fertilizers Production (MOPCO)",
       "sector": "Chemicals",
       "price": 38.220001220703125,
       "momentum_1m": -19.70587721450797,
       "momentum_3m": -2.32558094191726,
-      "volatility": 38.83699016561846,
+      "volatility": 38.958171121694555,
       "avg_volume": 1760654.2666666666,
-      "trailing_pe": 8.111111,
+      "trailing_pe": 8.021977,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 45.4,
+      "score": 45.1,
       "blurb": "Ranks high on strong 3-month momentum (-2.3%) and low price volatility."
     },
     {
@@ -319,14 +324,16 @@
       "price": 10.399999618530273,
       "momentum_1m": -1.5151590409901994,
       "momentum_3m": -19.201477034985192,
-      "volatility": 47.18052092558834,
+      "volatility": 47.12418335296007,
       "avg_volume": 5456748.033333333,
       "trailing_pe": 3.5,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 45.4,
+      "article_count": 1,
+      "top_headlines": [
+        "What to do when the EGX stays in the red: A survival guide for new investors - EnterpriseAM"
+      ],
+      "score": 45.1,
       "blurb": "Ranks high on attractive valuation (P/E 3.5) and strong trading liquidity."
     },
     {
@@ -336,14 +343,14 @@
       "price": 11.619999885559082,
       "momentum_1m": -11.229948433103642,
       "momentum_3m": -23.300328857128005,
-      "volatility": 36.68435949580263,
+      "volatility": 36.295515646370994,
       "avg_volume": 9276109.4,
       "trailing_pe": 3.3475177,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 44.8,
+      "score": 44.5,
       "blurb": "Ranks high on attractive valuation (P/E 3.3) and strong trading liquidity."
     },
     {
@@ -353,14 +360,14 @@
       "price": 82.55000305175781,
       "momentum_1m": -8.175748998185838,
       "momentum_3m": -15.50664725661176,
-      "volatility": 25.153789545977652,
+      "volatility": 25.394324521831802,
       "avg_volume": 2806433.566666667,
       "trailing_pe": 7.6416335,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 41.4,
+      "score": 41.1,
       "blurb": "Ranks high on low price volatility and strong trading liquidity."
     },
     {
@@ -370,14 +377,14 @@
       "price": 14.609999656677246,
       "momentum_1m": -6.645367330371199,
       "momentum_3m": -17.457632616220565,
-      "volatility": 34.38789763247203,
+      "volatility": 34.56019208301634,
       "avg_volume": 2824974.566666667,
       "trailing_pe": 35.44156,
       "dividend_yield": 1.8587360000000002,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 40.2,
+      "score": 39.5,
       "blurb": "Ranks high on a high dividend yield (1.9%) and low price volatility."
     },
     {
@@ -387,14 +394,14 @@
       "price": 21.0,
       "momentum_1m": 11.702132192657633,
       "momentum_3m": -35.364730947619364,
-      "volatility": 60.77247154592488,
+      "volatility": 61.35342610096405,
       "avg_volume": 2011805.5,
       "trailing_pe": 17.446428,
       "dividend_yield": 1.9538669000000002,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 36.4,
+      "score": 36.1,
       "blurb": "Ranks high on solid recent momentum (+11.7%) and a high dividend yield (2.0%)."
     },
     {
@@ -404,14 +411,14 @@
       "price": 23.15999984741211,
       "momentum_1m": -4.0198895445120115,
       "momentum_3m": -13.290899882974049,
-      "volatility": 48.77239387143415,
+      "volatility": 49.17400119124326,
       "avg_volume": 985883.7333333333,
       "trailing_pe": 10.337016,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 32.8,
+      "score": 32.5,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     },
     {
@@ -421,14 +428,14 @@
       "price": 10.329999923706055,
       "momentum_1m": -0.09671401096965626,
       "momentum_3m": -74.78643003191794,
-      "volatility": 106.76600616358871,
+      "volatility": 107.2831386878816,
       "avg_volume": 10508441.333333334,
-      "trailing_pe": 9.308219,
+      "trailing_pe": 9.244898,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 32.2,
+      "score": 31.9,
       "blurb": "Ranks high on strong trading liquidity and solid recent momentum (-0.1%)."
     },
     {
@@ -438,14 +445,14 @@
       "price": 6.550000190734863,
       "momentum_1m": -12.666664123535154,
       "momentum_3m": -22.576830245859714,
-      "volatility": 46.39132028405839,
+      "volatility": 46.642608773226726,
       "avg_volume": 3075831.1666666665,
       "trailing_pe": 19.444445,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 27.2,
+      "score": 26.5,
       "blurb": "Ranks high on strong trading liquidity."
     },
     {
@@ -455,14 +462,14 @@
       "price": 25.020000457763672,
       "momentum_1m": -4.576654794112189,
       "momentum_3m": -23.486238917400605,
-      "volatility": 52.21469695893123,
+      "volatility": 52.41182104040303,
       "avg_volume": 1198676.5,
       "trailing_pe": 13.105421,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
-      "score": 22.8,
+      "score": 22.5,
       "blurb": "No single standout factor; ranks mid-pack across the board."
     }
   ]
