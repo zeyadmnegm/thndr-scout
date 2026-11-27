@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:59:24.805704+00:00",
+  "generated_at": "2026-11-27T06:59:23.407655+00:00",
   "results": [
     {
       "ticker": "ETEL.CA",
@@ -10,7 +10,7 @@
       "momentum_3m": 19.999997369174306,
       "volatility": 40.920908295378354,
       "avg_volume": 2123085.8666666667,
-      "trailing_pe": 2.0191004,
+      "trailing_pe": 1.9717207,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -27,13 +27,11 @@
       "momentum_3m": 9.074241842019791,
       "volatility": 45.81935164904259,
       "avg_volume": 9913851.1,
-      "trailing_pe": 2.8917196,
+      "trailing_pe": 2.9102564,
       "dividend_yield": 8.791208000000001,
       "sentiment_score": 0.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Alexandria Mineral Oils (CASE:AMOC) - Stock Analysis - Simply Wall St"
-      ],
+      "article_count": 0,
+      "top_headlines": [],
       "score": 68.8,
       "blurb": "Ranks high on strong 3-month momentum (+9.1%) and a high dividend yield (8.8%)."
     },
@@ -46,7 +44,7 @@
       "momentum_3m": 1.6602328629693686,
       "volatility": 29.225551563107828,
       "avg_volume": 3373589.8333333335,
-      "trailing_pe": 8.320463,
+      "trailing_pe": 8.551587,
       "dividend_yield": 1.31008485,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -63,16 +61,14 @@
       "momentum_3m": -9.534749350723615,
       "volatility": 21.480774671992446,
       "avg_volume": 3797759.2666666666,
-      "trailing_pe": 4.117647,
+      "trailing_pe": 4.06,
       "dividend_yield": 7.444168600000001,
       "sentiment_score": 0.0,
-      "article_count": 3,
+      "article_count": 1,
       "top_headlines": [
-        "Commercial International Bank stock: 9M net income reaches EGP 63.1bn - ad-hoc-news.de",
-        "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Forecast & Analyst Predictions - Simply Wall St",
-        "AIDC Stock Price and Chart \u2014 EGX:AIDC - TradingView"
+        "Commercial International Bank Egypt (CIB)E (CASE:COMI) Stock Forecast & Analyst Predictions - Simply Wall St"
       ],
-      "score": 63.4,
+      "score": 64.0,
       "blurb": "Ranks high on low price volatility and a high dividend yield (7.4%)."
     },
     {
@@ -84,7 +80,7 @@
       "momentum_3m": -2.260871555494226,
       "volatility": 38.699265655612486,
       "avg_volume": 64623934.0,
-      "trailing_pe": 2.682927,
+      "trailing_pe": 2.6506026,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -101,7 +97,7 @@
       "momentum_3m": -6.031302004414418,
       "volatility": 30.764036317902367,
       "avg_volume": 1392814.5666666667,
-      "trailing_pe": 7.29097,
+      "trailing_pe": 7.2666664,
       "dividend_yield": 13.418078,
       "sentiment_score": 0.0,
       "article_count": 1,
@@ -120,18 +116,17 @@
       "momentum_3m": -9.203678503905943,
       "volatility": 24.94406881374546,
       "avg_volume": 381297.1,
-      "trailing_pe": 3.9609377,
+      "trailing_pe": 3.9532163,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
-      "article_count": 4,
+      "article_count": 3,
       "top_headlines": [
         "Celebrating 20 years in Egypt Cr\u00e9dit Agricole Egypt launches its new campaign The News You Pay for Today, Tomorrow Equals Gold - Zawya",
-        "Credit Agricole - Egypt Bank (S.A.E.) (CASE:CIEB) - Stock Analysis - Simply Wall St",
         "United Bank (CASE:UBEE) - Stock Analysis - Simply Wall St",
         "Cr\u00e9dit Agricole Egypt celebrates 20 years of success in the Egyptian market - Zawya"
       ],
       "score": 59.4,
-      "blurb": "Ranks high on low price volatility and positive recent news (4 articles)."
+      "blurb": "Ranks high on low price volatility and positive recent news (3 articles)."
     },
     {
       "ticker": "ACGC.CA",
@@ -162,14 +157,14 @@
       "momentum_3m": -18.668405441571135,
       "volatility": 40.91184432276925,
       "avg_volume": 10114676.366666667,
-      "trailing_pe": 3.8721805,
+      "trailing_pe": 3.800738,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
       "top_headlines": [
         "Heliopolis Housing stock: Nine-month net profit more than doubles - ad-hoc-news.de"
       ],
-      "score": 56.0,
+      "score": 56.6,
       "blurb": "Ranks high on strong trading liquidity and positive recent news (1 articles)."
     },
     {
@@ -181,7 +176,7 @@
       "momentum_3m": 4.166666666666674,
       "volatility": 40.3084122905703,
       "avg_volume": 2426030.2,
-      "trailing_pe": 33.533333,
+      "trailing_pe": 32.66234,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -244,27 +239,8 @@
         "Abu Dhabi Islamic Bank Egypt stock: 9-month profit rises 22.8% - ad-hoc-news.de",
         "Abu Dhabi Islamic Bank - Egypt - S.A.E (ADIB.CA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
       ],
-      "score": 54.0,
+      "score": 53.4,
       "blurb": "Ranks high on positive recent news (3 articles) and low price volatility."
-    },
-    {
-      "ticker": "RAYA.CA",
-      "name": "Raya Holding",
-      "sector": "Technology",
-      "price": 5.760000228881836,
-      "momentum_1m": 3.411131981415849,
-      "momentum_3m": -22.056829053488546,
-      "volatility": 44.73193873671789,
-      "avg_volume": 4667347.966666667,
-      "trailing_pe": 3.6491227,
-      "dividend_yield": 0.0,
-      "sentiment_score": 100.0,
-      "article_count": 1,
-      "top_headlines": [
-        "Egyptian tycoon Medhat Khalil's Aman Holding weighs 20% IPO as revenue rises 23% - Billionaires.Africa"
-      ],
-      "score": 51.2,
-      "blurb": "Ranks high on positive recent news (1 articles) and attractive valuation (P/E 3.6)."
     },
     {
       "ticker": "TMGH.CA",
@@ -275,7 +251,7 @@
       "momentum_3m": -19.0339501398618,
       "volatility": 25.997911997614676,
       "avg_volume": 2909748.7666666666,
-      "trailing_pe": 7.6416335,
+      "trailing_pe": 7.6719575,
       "dividend_yield": 0.0,
       "sentiment_score": 100.0,
       "article_count": 1,
@@ -294,7 +270,7 @@
       "momentum_3m": -15.49521335529126,
       "volatility": 34.72665722775795,
       "avg_volume": 294764.7,
-      "trailing_pe": 2.7443411,
+      "trailing_pe": 2.736325,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
@@ -347,13 +323,51 @@
       "momentum_3m": -5.9227295933332975,
       "volatility": 39.3785104785731,
       "avg_volume": 1788320.8666666667,
-      "trailing_pe": 8.111111,
+      "trailing_pe": 8.021977,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 0,
       "top_headlines": [],
       "score": 43.2,
       "blurb": "Ranks high on strong 3-month momentum (-5.9%) and low price volatility."
+    },
+    {
+      "ticker": "EFID.CA",
+      "name": "Edita Food Industries",
+      "sector": "Consumer Goods",
+      "price": 20.700000762939453,
+      "momentum_1m": 15.448970499816816,
+      "momentum_3m": -36.248845134810246,
+      "volatility": 61.20767674801271,
+      "avg_volume": 1906021.4666666666,
+      "trailing_pe": 17.763636,
+      "dividend_yield": 1.9538669000000002,
+      "sentiment_score": 100.0,
+      "article_count": 3,
+      "top_headlines": [
+        "Juhayna Food IndustriesE (CASE:JUFO) - Stock Analysis - Simply Wall St",
+        "Edita Food Industries Company (S.A.E) (CASE:EFID) Stock Forecast & Analyst Predictions - Simply Wall St",
+        "Egyptian tycoon Hani Berzi's Edita posts 65% jump in nine-month profit - Billionaires.Africa"
+      ],
+      "score": 43.0,
+      "blurb": "Ranks high on solid recent momentum (+15.4%) and positive recent news (3 articles)."
+    },
+    {
+      "ticker": "RAYA.CA",
+      "name": "Raya Holding",
+      "sector": "Technology",
+      "price": 5.760000228881836,
+      "momentum_1m": 3.411131981415849,
+      "momentum_3m": -22.056829053488546,
+      "volatility": 44.73193873671789,
+      "avg_volume": 4667347.966666667,
+      "trailing_pe": 3.8518515,
+      "dividend_yield": 0.0,
+      "sentiment_score": 0.0,
+      "article_count": 0,
+      "top_headlines": [],
+      "score": 42.8,
+      "blurb": "Ranks high on attractive valuation (P/E 3.9) and solid recent momentum (+3.4%)."
     },
     {
       "ticker": "ISPH.CA",
@@ -390,23 +404,6 @@
       "blurb": "Ranks high on solid recent momentum (+6.0%) and strong 3-month momentum (-9.4%)."
     },
     {
-      "ticker": "EFID.CA",
-      "name": "Edita Food Industries",
-      "sector": "Consumer Goods",
-      "price": 20.700000762939453,
-      "momentum_1m": 15.448970499816816,
-      "momentum_3m": -36.248845134810246,
-      "volatility": 61.20767674801271,
-      "avg_volume": 1906021.4666666666,
-      "trailing_pe": 17.763636,
-      "dividend_yield": 1.9538669000000002,
-      "sentiment_score": 0.0,
-      "article_count": 0,
-      "top_headlines": [],
-      "score": 35.2,
-      "blurb": "Ranks high on solid recent momentum (+15.4%) and a high dividend yield (2.0%)."
-    },
-    {
       "ticker": "JUFO.CA",
       "name": "Juhayna Food Industries",
       "sector": "Consumer Goods",
@@ -434,7 +431,7 @@
       "momentum_3m": -75.56497121870149,
       "volatility": 106.54169792120871,
       "avg_volume": 9725526.233333332,
-      "trailing_pe": 9.308219,
+      "trailing_pe": 9.244898,
       "dividend_yield": 0.0,
       "sentiment_score": 0.0,
       "article_count": 1,
